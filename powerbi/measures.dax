@@ -1,0 +1,86 @@
+-- Measures for the star schema in powerbi/star.
+-- Popularity is a 0-100 index. Average or take the max. Do not sum it.
+-- Leave is_top100 out of these formulas. Set a report-level filter
+-- is_top100 = 1 when you want the headline comparison of 100 tracks per cohort.
+-- Raw Band Share assumes the visual is sliced by dim_tempo_band (the raw-tempo role).
+
+Track Count =
+COUNTROWS ( fact_track )
+
+Average Tempo Raw =
+AVERAGE ( fact_track[tempo_raw] )
+
+Median Tempo Raw =
+MEDIAN ( fact_track[tempo_raw] )
+
+Average Tempo Corrected =
+AVERAGE ( fact_track[tempo_corrected] )
+
+Median Tempo Corrected =
+MEDIAN ( fact_track[tempo_corrected] )
+
+Average Popularity =
+AVERAGE ( fact_track[popularity] )
+
+Max Popularity =
+MAX ( fact_track[popularity] )
+
+Popularity Weighted Tempo =
+DIVIDE (
+    SUMX ( fact_track, fact_track[tempo_raw] * fact_track[popularity] ),
+    SUM ( fact_track[popularity] )
+)
+
+Octave Shift Share =
+DIVIDE (
+    CALCULATE ( [Track Count], fact_track[octave_shifted] = 1 ),
+    [Track Count]
+)
+
+Halved Share =
+DIVIDE (
+    CALCULATE ( [Track Count], fact_track[octave_direction] = "halved" ),
+    [Track Count]
+)
+
+Raw Band Share =
+DIVIDE (
+    [Track Count],
+    CALCULATE ( [Track Count], ALL ( dim_tempo_band ) )
+)
+
+-- REMOVEFILTERS clears a cohort slicer before the explicit cohort filter is applied.
+-- Without that, a slicer on cohort_name would blank the other half of the gap.
+-- The is_top100 page filter is left in place on purpose.
+
+Median Tempo Raw Gap =
+VAR AfricaTempo =
+    CALCULATE (
+        [Median Tempo Raw],
+        REMOVEFILTERS ( dim_cohort ),
+        dim_cohort[cohort_id] = "africa_popular"
+    )
+VAR HipHopTempo =
+    CALCULATE (
+        [Median Tempo Raw],
+        REMOVEFILTERS ( dim_cohort ),
+        dim_cohort[cohort_id] = "us_hiphop_genre"
+    )
+RETURN
+    AfricaTempo - HipHopTempo
+
+Median Tempo Corrected Gap =
+VAR AfricaTempo =
+    CALCULATE (
+        [Median Tempo Corrected],
+        REMOVEFILTERS ( dim_cohort ),
+        dim_cohort[cohort_id] = "africa_popular"
+    )
+VAR HipHopTempo =
+    CALCULATE (
+        [Median Tempo Corrected],
+        REMOVEFILTERS ( dim_cohort ),
+        dim_cohort[cohort_id] = "us_hiphop_genre"
+    )
+RETURN
+    AfricaTempo - HipHopTempo

@@ -1,0 +1,5 @@
+cohort_id,octave_direction,n_tracks,mean_raw,mean_corrected,mean_folded_sql
+africa_popular,halved,16,183.2559375,91.62796875,91.62796875
+africa_popular,unshifted,84,108.1882619047619,108.1882619047619,108.1882619047619
+us_hiphop_genre,halved,21,162.6052857142857,81.30264285714286,81.30264285714286
+us_hiphop_genre,unshifted,79,104.927,104.927,104.927

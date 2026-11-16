@@ -1,0 +1,15 @@
+{
+  "catalog_rows": 114000,
+  "africa_rows_primary_match": 543,
+  "africa_rows_after_quality": 541,
+  "africa_tracks_after_dedupe": 332,
+  "africa_eligible": 208,
+  "hiphop_genre_rows": 1000,
+  "hiphop_rows_after_africa_exclusion": 946,
+  "hiphop_rows_after_quality": 935,
+  "hiphop_tracks_after_dedupe": 713,
+  "hiphop_eligible": 553,
+  "analysis_rows": 761,
+  "top_n": 100,
+  "min_popularity": 40
+}

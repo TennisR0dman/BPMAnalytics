@@ -1,0 +1,3 @@
+cohort_id,n_tracks,mean_raw,median_raw,sd_raw,min_raw,max_raw,mean_corrected,median_corrected,sd_corrected,mean_popularity,min_popularity,max_popularity,n_octave_shifted,share_octave_shifted
+africa_popular,100,120.19909,108.00550000000001,31.037543405826852,82.691,204.004,105.53861500000001,103.8655,13.214216762668261,63.01,56,92,16,0.16
+us_hiphop_genre,100,117.03944,112.70400000000001,29.767139164637047,75.023,180.219,99.965885,95.9915,19.99602600655498,80.74,72,99,21,0.21

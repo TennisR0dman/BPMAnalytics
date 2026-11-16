@@ -1,0 +1,39 @@
+Africa eligible tracks: 208
+Hip-hop eligible tracks: 553
+Africa top tracks: 100
+Hip-hop top tracks: 100
+Africa top-100 popularity runs from 56 to 92
+Hip-hop top-100 popularity runs from 72 to 99
+Africa mean raw tempo: 120.2 BPM (sd 31.0)
+Hip-hop mean raw tempo: 117.0 BPM (sd 29.8)
+Africa median raw tempo: 108.0 BPM
+Hip-hop median raw tempo: 112.7 BPM
+Africa raw IQR: 25.6 BPM
+Hip-hop raw IQR: 43.0 BPM
+Median raw gap (Africa minus hip-hop): -4.7 BPM
+Mean raw gap (Africa minus hip-hop): 3.2 BPM
+Welch t (raw) = 0.73 on 197.7 df, p = 0.463
+Cohen's d (raw) = 0.10
+Cliff's delta (raw) = 0.07
+Mann-Whitney p (raw) = 0.380
+Africa median corrected tempo: 103.9 BPM
+Hip-hop median corrected tempo: 96.0 BPM
+Africa mean corrected tempo: 105.5 BPM
+Hip-hop mean corrected tempo: 100.0 BPM
+Median corrected gap (Africa minus hip-hop): 7.9 BPM
+Mean corrected gap (Africa minus hip-hop): 5.6 BPM
+Welch t (corrected) = 2.33 on 171.6 df, p = 0.021
+Cohen's d (corrected) = 0.33
+Cliff's delta (corrected) = 0.25
+Mann-Whitney p (corrected) = 0.002
+Africa tracks with an octave shift: 16.0%
+Hip-hop tracks with an octave shift: 21.0%
+Africa tracks at or above 140 BPM raw: 16.0%
+Hip-hop tracks at or above 140 BPM raw: 21.0%
+Alternate window [80, 160) Mann-Whitney p = 0.550
+Alternate window Cliff's delta = 0.05
+Eligible-set Mann-Whitney p (raw) = 0.249
+Eligible-set Cliff's delta (raw) = 0.05
+Afrobeat-label top 25 on the lookup: 3 of 25
+Nigeria accounts for 91 of the African top 100
+Artist lookup size: 55 names

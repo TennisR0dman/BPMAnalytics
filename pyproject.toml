@@ -1,0 +1,10 @@
+[project]
+name = "bpm-analytics"
+version = "1.0.0"
+description = "Tempo comparison of popular African-scene tracks and Spotify hip-hop tracks"
+requires-python = ">=3.9"
+dependencies = ["pandas>=2.0"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

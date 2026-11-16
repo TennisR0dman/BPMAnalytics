@@ -1,0 +1,6 @@
+country,region,n_tracks,mean_raw,median_raw,mean_corrected
+Nigeria,West Africa,91,120.93104395604396,107.21,104.82063186813187
+Ghana,West Africa,4,110.098,109.997,110.098
+South Africa,Southern Africa,3,121.34833333333334,122.012,121.34833333333334
+Cape Verde,West Africa,1,82.691,82.691,82.691
+Côte d'Ivoire,West Africa,1,128.056,128.056,128.056

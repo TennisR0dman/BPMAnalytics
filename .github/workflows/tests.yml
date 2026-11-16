@@ -1,0 +1,35 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install R
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y r-base r-cran-ggplot2 r-cran-jsonlite r-cran-testthat
+
+      - name: Install Python packages
+        run: pip install -r requirements.txt
+
+      - name: Download the pinned source file
+        run: python scripts/download_data.py
+
+      - name: Build the warehouse, SQL extracts, star schema, and R report
+        run: python scripts/run_pipeline.py
+
+      - name: Python tests
+        run: pytest -q
+
+      - name: R tests
+        run: Rscript -e "testthat::test_dir('tests/testthat', stop_on_failure = TRUE)"

@@ -1,0 +1,7 @@
+band_key,band_label,bpm_min,bpm_max_exclusive,sort_order
+1,Under 80,0,80,1
+2,80-99,80,100,2
+3,100-119,100,120,3
+4,120-139,120,140,4
+5,140-159,140,160,5
+6,160 and above,160,9999,6

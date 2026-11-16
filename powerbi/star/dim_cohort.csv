@@ -1,0 +1,3 @@
+cohort_key,cohort_id,cohort_name,definition
+1,africa_popular,African popular music,Primary artist is on the African-scene lookup. Popularity is at least 40. is_top100 marks the 100 highest-popularity tracks. Not a country chart.
+2,us_hiphop_genre,US hip-hop (genre proxy),track_genre is hip-hop and the primary artist is not on the African-scene lookup. Popularity is at least 40. Genre proxy only: the file has no US chart flag.
