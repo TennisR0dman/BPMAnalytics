@@ -1,0 +1,21 @@
+{
+  "fetch_date": "2026-11-16",
+  "cohorts": {
+    "africa_charts": {
+      "chart_rows": 100,
+      "deezer_matched": 97,
+      "no_preview": 0,
+      "librosa_measured": 97,
+      "coverage_rate": 0.97,
+      "deezer_bpm_nonzero": 0
+    },
+    "us_rb_hiphop_chart": {
+      "chart_rows": 50,
+      "deezer_matched": 49,
+      "no_preview": 0,
+      "librosa_measured": 49,
+      "coverage_rate": 0.98,
+      "deezer_bpm_nonzero": 0
+    }
+  }
+}

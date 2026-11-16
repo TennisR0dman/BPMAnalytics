@@ -88,14 +88,32 @@ def test_star_schema_keys_resolve():
     track = pd.read_csv(STAR_DIR / "dim_track.csv")
     band = pd.read_csv(STAR_DIR / "dim_tempo_band.csv")
     analysis = pd.read_csv(DATA_PROCESSED)
-    assert len(fact) == len(analysis)
+    snapshot = pd.read_csv(STAR_DIR / "dim_snapshot.csv")
+    joined = fact.merge(snapshot, on="snapshot_key")
+    dataset_rows = joined[joined["snapshot_id"] == "spotify_dataset"]
+    chart_rows = joined[joined["snapshot_id"] == "current_charts"]
+    assert len(dataset_rows) == len(analysis)
+    assert len(chart_rows) == 146
     assert fact["track_key"].is_unique
     assert set(fact["cohort_key"]).issubset(set(cohort["cohort_key"]))
     assert set(fact["artist_key"]).issubset(set(artist["artist_key"]))
+    assert set(fact["snapshot_key"]).issubset(set(snapshot["snapshot_key"]))
     assert set(fact["track_key"]).issubset(set(track["track_key"]))
     assert set(fact["raw_band_key"]).issubset(set(band["band_key"]))
     assert set(fact["corrected_band_key"]).issubset(set(band["band_key"]))
-    assert set(cohort["cohort_id"]) == {"africa_popular", "us_hiphop_genre"}
+    assert {"africa_popular", "us_hiphop_genre", "africa_charts", "us_rb_hiphop_chart"}.issubset(
+        set(cohort["cohort_id"])
+    )
+    assert set(snapshot["snapshot_id"]) == {"spotify_dataset", "current_charts"}
+
+
+def test_readme_quotes_the_current_chart_lines():
+    _need(ROOT / "outputs" / "current_results.json")
+    _need(README)
+    results = json.loads((ROOT / "outputs" / "current_results.json").read_text(encoding="utf-8"))
+    readme = README.read_text(encoding="utf-8")
+    missing = [text for text in results["display"].values() if text not in readme]
+    assert not missing, missing
 
 
 def test_readme_quotes_the_published_lines():

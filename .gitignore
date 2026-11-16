@@ -1,5 +1,6 @@
 data/raw/
 data/warehouse/
+data/cache/
 __pycache__/
 *.py[cod]
 .pytest_cache/

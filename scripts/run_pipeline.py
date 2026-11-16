@@ -100,9 +100,30 @@ def main() -> None:
     schema = (SQL_DIR / "00_schema.sql").read_text(encoding="utf-8")
     if WAREHOUSE_PATH.exists():
         WAREHOUSE_PATH.unlink()
+    chart_path = ROOT / "data" / "current" / "chart_analysis.csv"
     conn = connect(WAREHOUSE_PATH)
     try:
         load_warehouse(conn, schema, catalog, lookup, analysis)
+        if chart_path.exists():
+            charts = pd.read_csv(chart_path)
+            charts = charts[
+                [
+                    "cohort_id",
+                    "track_id",
+                    "track_name",
+                    "primary_artist",
+                    "chart_market",
+                    "chart_position",
+                    "tempo_raw",
+                    "tempo_corrected",
+                    "tempo_corrected_alt",
+                    "deezer_bpm",
+                    "librosa_bpm",
+                    "is_top100",
+                ]
+            ]
+            charts.to_sql("chart_analysis", conn, if_exists="append", index=False)
+            conn.commit()
         query_results = run_query_files(conn, SQL_DIR, SQL_OUTPUT_DIR)
     finally:
         conn.close()
@@ -111,6 +132,8 @@ def main() -> None:
 
     FIGURE_DIR.mkdir(parents=True, exist_ok=True)
     subprocess.check_call(["Rscript", str(ROOT / "R" / "analysis.R")], cwd=ROOT)
+    if chart_path.exists():
+        subprocess.check_call(["Rscript", str(ROOT / "R" / "current_analysis.R")], cwd=ROOT)
     results = json.loads(RESULTS_PATH.read_text(encoding="utf-8"))
     _check_against_sql(query_results["01_cohort_summary"], results)
     print(f"Results written to {RESULTS_PATH}")

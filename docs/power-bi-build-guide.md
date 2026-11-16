@@ -17,14 +17,15 @@ The question the report should answer is the same one in the README: how the sto
 
 ## Files to load
 
-Load these five files from `powerbi/star/` and nothing else. Do not load `analysis_tracks.csv` beside them. That file is already split into the star.
+Load these six files from `powerbi/star/` and nothing else. Do not load `analysis_tracks.csv` beside them. That file is already split into the star.
 
 | File | Table | Rows | Role |
 | --- | --- | --- | --- |
-| `fact_track.csv` | `fact_track` | 761 | One eligible track in one cohort. Measures live on this grain. |
-| `dim_cohort.csv` | `dim_cohort` | 2 | African popular music, and the hip-hop genre proxy |
-| `dim_artist.csv` | `dim_artist` | one row per primary artist | Country and scene. Blank country on hip-hop artists is correct. |
-| `dim_track.csv` | `dim_track` | 761 | Track title, full credit string, album, duration |
+| `fact_track.csv` | `fact_track` | 907 | One track in one cohort in one snapshot. Measures live on this grain. |
+| `dim_snapshot.csv` | `dim_snapshot` | 2 | Spotify tracks dataset, or the current charts |
+| `dim_cohort.csv` | `dim_cohort` | 4 | Two comparison arms, each defined once for the dataset and once for the charts |
+| `dim_artist.csv` | `dim_artist` | one row per primary artist | Country and scene from the dataset lookup. Blank country is correct when the artist is only on a chart. |
+| `dim_track.csv` | `dim_track` | 907 | Track title, credit string, album, duration |
 | `dim_tempo_band.csv` | `dim_tempo_band` | 6 | Tempo bands. `bpm_max_exclusive` of 9999 means "160 and above", not a real cap. |
 
 `powerbi/measures.dax` is the measure script. `powerbi/theme.json` is the report theme.
@@ -41,13 +42,13 @@ Parameter exercise, after the five queries load and you have confirmed the row c
 
 1. Home, Manage parameters, New. Name it `DataFolder`. Type Text. Current value: the full path of `powerbi/star` with no trailing slash.
 2. In Advanced Editor for `fact_track`, replace the hard-coded path with `DataFolder & "\fact_track.csv"` on Windows or `DataFolder & "/fact_track.csv"` on macOS.
-3. Repeat for the other four queries. If a query breaks, paste the original path back. The parameter is the exam skill. A working model matters more than a broken one.
+3. Repeat for the other five queries, including `dim_snapshot`. If a query breaks, paste the original path back. The parameter is the exam skill. A working model matters more than a broken one.
 4. Privacy levels: these files are the same folder. If a later merge warns about privacy, set every query to Organizational, or every query to Public. Do not mix levels.
 
 ### Profile and clean the data
 
 1. In Power Query, View, turn on Column quality, Column distribution, and Column profile.
-2. On `fact_track`, `tempo_raw` and `tempo_corrected` should show no errors and no empty values. Popularity should run from 40 upward. `is_top100` should contain only 0 and 1.
+2. On `fact_track`, `tempo_raw` and `tempo_corrected` should show no errors and no empty values. Popularity is blank on the current-chart rows. Leave those blanks. The chart did not provide Spotify's 0–100 index, and a zero would mean a real score. `chart_market` is the country of the chart. It is not the artist's origin, and it is not `dim_artist[country]`. `deezer_bpm` is 0 on the measured chart rows because the public track response returned 0. `is_top100` should contain only 0 and 1.
 3. On `dim_artist`, country is blank for hip-hop primary artists. Leave it blank. Do not fill it with "United States". The hip-hop cohort is a genre proxy, and a blank is the honest value.
 4. There is nothing to impute. Do not replace tempos, and do not drop the three tracks under 80 BPM in the African eligible set just because the top 100 has none. The `is_top100` filter handles the headline set.
 
@@ -81,6 +82,7 @@ In Model view, create these relationships. Cardinality is many on `fact_track` t
 
 | From | To |
 | --- | --- |
+| `dim_snapshot[snapshot_key]` | `fact_track[snapshot_key]` |
 | `dim_cohort[cohort_key]` | `fact_track[cohort_key]` |
 | `dim_artist[artist_key]` | `fact_track[artist_key]` |
 | `dim_track[track_key]` | `fact_track[track_key]` |
@@ -164,7 +166,7 @@ Build four pages.
 
 Page-level filter: `fact_track[is_top100]` is 1. This is the headline set. A page-level filter is the right place. A report-level filter would also hit the Eligible page, which is the one page that must not use it.
 
-Slicer: `dim_cohort[cohort_name]`. Style it as a tile or a dropdown. Turn on Select all.
+Slicers: `dim_snapshot[snapshot_name]` and `dim_cohort[cohort_name]`. Style them as tiles or dropdowns. The snapshot slicer is required. Without it, the two snapshots are pooled and none of the check numbers below will match. `comparison_arm` on `dim_cohort` is `africa` or `hiphop`. The gap measures filter that column, so they follow the snapshot slicer and still compare the two arms inside it.
 
 Visuals:
 
@@ -179,7 +181,7 @@ Visuals:
 
 Title the page with the question, not with "Dashboard".
 
-With the top-100 filter on, check the cards against this table. Read median and average cards with one cohort selected. A median of the pooled 200 rows is not the average of the two medians, and it is not a number this table lists.
+With the top-100 filter on, and the snapshot slicer set to **Spotify tracks dataset**, check the cards against this table. Read median and average cards with one cohort selected. A median of the pooled rows is not the average of the two medians, and it is not a number this table lists.
 
 | Selection | Measure | Value |
 | --- | --- | --- |
@@ -199,7 +201,22 @@ With the top-100 filter on, check the cards against this table. Read median and 
 | African popular music | Octave Shift Share | 16.0% |
 | US hip-hop (genre proxy) | Octave Shift Share | 21.0% |
 
-If the gap card changes when you select one cohort, `REMOVEFILTERS ( dim_cohort )` is missing from the measure.
+If the gap card changes when you select one cohort, `REMOVEFILTERS ( dim_cohort )` is missing from the measure. If the gap card changes when you change the snapshot, that is the correct behavior. The dataset's corrected gap is about 7.9 BPM. The current-chart corrected gap is 0.0.
+
+Set the snapshot slicer to **Current charts** and check these cards. Track Count is the number of previews with a librosa tempo, not the full chart. Coverage is in the README.
+
+| Selection | Measure | Value |
+| --- | --- | --- |
+| Nigeria and South Africa Spotify charts | Track Count | 97 |
+| Billboard Hot R&B/Hip-Hop Songs | Track Count | 49 |
+| Nigeria and South Africa Spotify charts | Median Tempo Raw | 117.5 |
+| Billboard Hot R&B/Hip-Hop Songs | Median Tempo Raw | 123.0 |
+| Nigeria and South Africa Spotify charts | Median Tempo Corrected | 112.3 |
+| Billboard Hot R&B/Hip-Hop Songs | Median Tempo Corrected | 112.3 |
+| Either cohort, this snapshot | Median Tempo Raw Gap | -5.6 |
+| Either cohort, this snapshot | Median Tempo Corrected Gap | 0.0 |
+
+`Average Popularity` is blank on this snapshot. Do not replace the blank with zero.
 
 ### Page: Half-time
 
@@ -249,7 +266,7 @@ Drillthrough:
 Sync slicers:
 
 1. Copy the cohort slicer onto every page except where a page filter already locks the cohort.
-2. View, Sync slicers. Sync the cohort slicer across Overview, Half-time, and Eligible. Do not sync a slicer onto the Countries page if that page is locked to one cohort. A synced slicer shares its selection. That is the point of the feature, and it is also how you break a page by accident.
+2. View, Sync slicers. Sync the snapshot slicer and the cohort slicer across Overview, Half-time, and Eligible. Do not sync the cohort slicer onto the Countries page if that page is locked to one cohort. A synced slicer shares its selection. That is the point of the feature, and it is also how you break a page by accident. The Countries page should stay on the Spotify tracks dataset unless you filter `chart_market` instead of artist country.
 
 ### Usability, accessibility, and the rest of the visual skills
 

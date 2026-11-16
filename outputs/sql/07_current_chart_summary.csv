@@ -1,0 +1,3 @@
+cohort_id,n_tracks,mean_librosa_bpm,mean_corrected,mean_deezer_bpm_when_set,n_deezer_bpm
+africa_charts,97,122.39144930033316,108.41224319822291,,0
+us_rb_hiphop_chart,49,119.71275194438276,106.89024567202584,,0

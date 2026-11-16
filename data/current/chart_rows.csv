@@ -1,0 +1,151 @@
+chart_row_id,chart_market,chart_position,primary_artist,track_name,spotify_track_id,chart_date,fetch_date,source_url,source_name,cohort_id,comparison_arm
+c0001,Nigeria,1,Peruzzi,INFERNO,3FCIOA44iYIDsjDNeXthc1,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0002,South Africa,1,DJ Zinhle,Nayvee's Prayer,5egspxTv2n1RX7etEQqXul,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0003,Nigeria,2,BNXN,If You Like,6d4YQtaZ7M4WwoYiTC2U06,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0004,South Africa,2,Mshinwemali,Myeke,6AHXrxdVlMDI7Zs7buBGiT,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0005,Nigeria,3,Seyi Vibez,BACK 2 U,29lRRXMfpgZCVKib8gFLEU,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0006,South Africa,3,Tman Xpress,Remember,2gQeDLTAReVA7cZU5rU9hb,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0007,Nigeria,4,Asake,Gratitude,7hiRlw64LXcHpGAVJ6eUzv,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0008,South Africa,4,G-Jealous,Luqale sakudlala,7pfoxzRahKsNhDMejTE14u,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0009,Nigeria,5,Zinoleesky,Omo Ologo,5UziHRcYKB8foeAnfqy8sC,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0010,South Africa,5,Thatohatsi,Ama hem hem,1ydfIuriiat9o4ItjhaFs5,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0011,Nigeria,6,Rema,Oh No,2aLQ89nVUJgLjn3tlmjaxN,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0012,South Africa,6,Zulu Queens,Distance,0L4SSGbkayyR1RxePf4T4C,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0013,Nigeria,7,Davido,B4 B4,37BTNKEaW6aUvsKH3O2UUt,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0014,South Africa,7,DJ Zinhle,Baba Yilwa,7CbWbPUUmRYBI0uio0Bc7L,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0015,Nigeria,8,FOLA,miss u ii (nriri),61gqqjEpcuuPgZBnONp8vb,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0016,South Africa,8,Nkeshemba,Usungikhombisile,40Pz55sGOiG7enWMDnq36u,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0017,Nigeria,9,Blaqbonez,IKEBE 3000,6AtTuFf3UXFFaCVglNwCGw,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0018,South Africa,9,Bello B,BETHII BETHII,1JJh4qzoGQU4pFitL870i3,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0019,Nigeria,10,Seyi Vibez,GTA,0xirG2M5QtFIzgkJCgpOnc,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0020,South Africa,10,Empro,Polo,63MqzVOUF0ktjRszQhNfpV,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0021,Nigeria,11,FOLA,waf,7KnCGA0gIxaBlLcqzcqwVZ,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0022,South Africa,11,Darque,uMoya 2.0 - Tycoon Remix,4iQGPl0iUSUJiAlHPNRkdJ,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0023,Nigeria,12,BNXN,Back Outside,5WTj1jVzufTuSzFMyjy60M,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0024,South Africa,12,Mzukulu,Isesheli,2pekVGWhF5WqfqwLOOdqQ7,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0025,Nigeria,13,Asake,Forgiveness,5u4rozuOBse9MgrAzGspQy,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0026,South Africa,13,Feza,Sengithole Omunye,46rac4X07nXvGTPezZKMSu,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0027,Nigeria,14,Asake,MCBH,36PS8XCemqmPvigIL8S40B,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0028,South Africa,14,SIHAYO,Owabulala uBaba,6ZKNLVaLpgtvADzjw90OpR,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0029,Nigeria,15,Kidd Carder,Big Bum Bum,1heVYYJgIbEmeEQ8ye0YFX,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0030,South Africa,15,Mzukulu,Ubaba wakho,5BFIZaRppuY4C160LkItjL,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0031,Nigeria,16,Blaqbonez,BIG PERFORMER,7LzipcGtpXs2oSu9D86Uf0,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0032,South Africa,16,Feza,Umaqondana,2KvVTO2N5a0zKMlDZZMBOK,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0033,Nigeria,17,BNXN,Online,5ljTDsyyDKI2xbJOqwOdVU,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0034,South Africa,17,Mihlali The Guy,Wo Lo,6q0rkUDedTnHR7RrzR99au,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0035,Nigeria,18,Blaqbonez,Chanel,6JVQBlA628faJmvQbeyBHT,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0036,South Africa,18,Royal MusiQ,H’s On The Table,5oAunHKYK1vPSAjpQDlyNC,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0037,Nigeria,19,BNXN,Eja Meja,5Ca1fyuX04EKHCc8Cnb791,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0038,South Africa,19,Sam Deep,Shela,3UpOAGqJltveyi8DQYr0WI,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0039,Nigeria,20,FOLA,attention!,1MGCRWKSEutuqNQwbktV7C,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0040,South Africa,20,Mahostela 97,Yimi umaqondana,7N1xuoaI37vpWuGXXUEqDI,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0041,Nigeria,21,Victony,SLICK,3AcgT1ZcF0e9YknCUD269u,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0042,South Africa,21,Sami'Kay,Amanxeba,1Cy9Zxtx0h8BrqfNrYr3nY,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0043,Nigeria,22,Young Jonn,Elumelu,7aCW8Q337ACIFUmziqKGQd,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0044,South Africa,22,Skillz,Phumelela,3JP8KIKHcuCsngfWtq1ok0,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0045,Nigeria,23,Seyi Vibez,ILOME,4W5qTpkD66vjHkQjpuNkym,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0046,South Africa,23,Calvin Fallo,Everybody Wanna Be In Love,6c4MbGlY1XHjnHuF2HeZUX,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0047,Nigeria,24,Rema,TEA,1qObCJRmQydvmwO6Z0BMbK,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0048,South Africa,24,Focalistic,Gumba Fire,2PlkObdcr418UPobt3cufb,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0049,Nigeria,25,FOLA,treat u right,38Mnfr1l5t2kckdzoJuXTl,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0050,South Africa,25,Zee Nxumalo,Ngithathiwe,7nFewePsCT0FJpIfKkVZsP,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0051,Nigeria,26,Rema,FUN,0qlu7Te2J2BuAGFcwb3rjn,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0052,South Africa,26,Skhanga,Thando lwathola kabi,3YsFaC4312p9Zu3CoRg2Eo,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0053,Nigeria,27,Seyi Vibez,VOLUME,0teaTiPHAcaGMqyv6cwu6t,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0054,South Africa,27,W4DE,TEZE,22lzLVsOQasHbhIByuuJvj,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0055,Nigeria,28,Asake,Remember,0Q1bMs3xLQiDEeaneehdxv,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0056,South Africa,28,DJ Maphorisa,Sorry Batswadi Baka,177p3g9OvZAJrvrVShnHaT,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0057,Nigeria,29,FOLA,it's over,4Ot8yw6eGAStt4Y0DnV3IF,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0058,South Africa,29,Inkos'yamagcokama,AMABULAWO,47F1eJNUYIvzU3MwdWI7VS,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0059,Nigeria,30,Seyi Vibez,DIAMONDS,45xtVdVTQtIISLQgHiP8CR,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0060,South Africa,30,Dj Clen,REALLY A LOT,1wTF8e46BhSxWBX3WRnUuj,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0061,Nigeria,31,BNXN,16,1pLS5FERQjEXlHho6THq1d,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0062,South Africa,31,DJ Maphorisa,Abantwana Bakho,62auSQwzIlyVuqUsxd4w63,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0063,Nigeria,32,Double Gee2x,Ore Agbako,2hRN9AqC0Fugv7oHb0Cg1b,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0064,South Africa,32,Khazozo,i1000,4CWuFwJSPjPbwNDkoGQfmJ,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0065,Nigeria,33,Darkoo,THAT GIRL!,2DgmLCX1ojv7lE6xk2PD0H,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0066,South Africa,33,Ntencane,UKHETHE MINA,35nJgry48wr2AaxRfouhfD,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0067,Nigeria,34,Asake,Wa,5KX0YeCNKaOc3XhhDHi3mI,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0068,South Africa,34,Dj Clen,4EVA,5QnrWLXBUv1rkoKoLJsvWP,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0069,Nigeria,35,BNXN,Very Soon,2IocWgGPI0o6rmRDeb7Zrz,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0070,South Africa,35,Culture Motion,Ingoma Ezimnandi (iGwijo),0R5wcIFNQi8ZDOgVcSSEOs,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0071,Nigeria,36,Seyi Vibez,PANSA,7yPQU3QSDUcA1Ii3OUPFgr,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0072,South Africa,36,Dlala Thukzin,Ungenzani,4vGofrv3muNtIaJHsq7Cj1,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0073,Nigeria,37,Victony,TWIN,4nVbIekXcxHDYdAUXMPvcC,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0074,South Africa,37,Inkos'yamagcokama,ISAZOCHOMELANA,4Psri1pSsv7OiH4B6hZUa2,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0075,Nigeria,38,BNXN,Shamaya,64fWvB32L1S5bopPA7edF7,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0076,South Africa,38,Empro,Polo - Skuva Remix,4ywfoZZwy9I6vUNVTmjPQA,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0077,Nigeria,39,FOLA,my type,0g6eU8UIg61lsD1zjlYdaT,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0078,South Africa,39,Nkeshemba,Isibaya Sikababa,2rHahLGm4dlLrEGmEN3lOb,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0079,Nigeria,40,Asake,WORSHIP,20KiwQQUDsuzAC8AZQJq26,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0080,South Africa,40,Novex,SASEZOLA,1NNIWalTKTHhn3hLkgJXQ1,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0081,Nigeria,41,FOLA,fine ting (fine $hit),06fhryffT3VPtv8v8r8EPK,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0082,South Africa,41,PLG Chanty,Macheleni,1OxylTR62SMRiHI3zsWRD8,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0083,Nigeria,42,TxC,Nakupenda,1p0zeYPLjmIGtw1DzmshZO,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0084,South Africa,42,Dj Clen,YAMAL,4idGdtucBd3LT4wgR2hG8P,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0085,Nigeria,43,DJ Maphorisa,MONEY CONSTANT,12jMMRyPNMTNp3CRmdWMve,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0086,South Africa,43,Funky Qla,iXesha,3a9kF4yH9sXhGdwjR5pbJf,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0087,Nigeria,44,Seyi Vibez,GOD,6R1vROJsZ6VrmckyCf41cE,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0088,South Africa,44,Isitha sama ex,Imfene Yakho,6OZCjoMHM7V0xL0IJ87Fhl,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0089,Nigeria,45,Asake,Nzaza,0VjzaXw81JQJM61pzWwP8b,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0090,South Africa,45,Makhadzi Entertainment,Sanamarena,1zwQBlIxyYhBCfNEyfb5i6,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0091,Nigeria,46,FOLA,2am in toronto,6Y4gGndf0AXpLGXi1P0HTE,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0092,South Africa,46,Dj Clen,MENACE,26YWQsN3OvZr2gEsaPvV3u,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0093,Nigeria,47,Famous Pluto,Tap Am,547Gs3aRtCBJFW7SdPD33x,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0094,South Africa,47,UMnotho,U XA,2iUNIB5d8YnPEYvn3QjaAg,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0095,Nigeria,48,Wizkid,Jogodo,2njWzPDRRhsXOUhiA42e62,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0096,South Africa,48,Mzukulu,Thandolwethu,0aXocmdjaWdkbYZ2ToDpre,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0097,Nigeria,49,T.I BLAZE,Living Thing,0YwJBHVqyWQZKtrcAmFk9Z,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0098,South Africa,49,Dj Clen,DRIVE ME CRAZY,5X6l4SOy1U6jRQy4tK8riQ,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0099,Nigeria,50,TUFF KING,Waka Waka,3kF29x8MOaI75mbbPq5QYW,2026-11-14,2026-11-16,https://kworb.net/spotify/country/ng_daily.html,"Kworb Spotify daily chart, Nigeria",africa_charts,africa
+c0100,South Africa,50,Kabza De Small,Khanya Njalo,674PBq5GoNgMbdfadkN8w0,2026-11-13,2026-11-16,https://kworb.net/spotify/country/za_daily.html,"Kworb Spotify daily chart, South Africa",africa_charts,africa
+c0101,United States,1,Bruno Mars,I Just Might,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0102,United States,2,Drake,Janice STFU,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0103,United States,3,Tems,What You Need,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0104,United States,4,Lil Baby,Dead Fresh,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0105,United States,5,Jhene Aiko Featuring Kendrick Lamar,So Good,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0106,United States,6,Belly Gang Kushington & 21 Savage,WTF GOIN,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0107,United States,7,Drake & Don Toliver,Solar Eclipse,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0108,United States,8,Cardi B,AH HA,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0109,United States,9,"Drake , Don Toliver & Yebba",Cold Shoulder,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0110,United States,10,Drake,Quebec,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0111,United States,11,Megan Thee Stallion,Thin Ice,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0112,United States,12,Steve Lacy,The Feeling,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0113,United States,13,Yung Miami,Spend Dat,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0114,United States,14,BigXthaPlug Featuring Ava Max,Burn,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0115,United States,15,BabyChiefDoit,Ghetto Love Story,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0116,United States,16,Dolly Babe Featuring Megan Thee Stallion,Pink Blush,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0117,United States,17,Drake,Shabang,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0118,United States,18,BigXthaPlug Featuring Loe Shimmy,I Like It,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0119,United States,19,Beyonce,Morning Dew (Donk),,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0120,United States,20,comehelpglo,onsra,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0121,United States,21,Drake Featuring Loe Shimmy,I'm Spent,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0122,United States,22,Thekidszn,Impulsive,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0123,United States,23,Latto Featuring Doja Cat,Okayyy,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0124,United States,24,Gunna,Pop It,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0125,United States,25,Skilla Baby Featuring Chris Brown & Bryson Tiller,Face Card,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0126,United States,26,Drake,Classic,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0127,United States,27,BigXthaPlug Featuring Belly Gang Kushington,Lite,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0128,United States,28,Zeddy Will,Bow Bow Bow,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0129,United States,29,Rod Wave,Dope Girl,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0130,United States,30,Megan Thee Stallion,Tina Tuesday,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0131,United States,31,BigXthaPlug,Give It All,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0132,United States,32,Future,Konnichiwa,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0133,United States,33,Cardi B,Don't Chart,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0134,United States,34,BigXthaPlug Featuring Leon Thomas,No Limit,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0135,United States,35,Noodah05,Around Me,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0136,United States,36,PARTYNEXTDOOR,Some Of Your Love,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0137,United States,37,BigXthaPlug Featuring Ro$ama,DA FUCC,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0138,United States,38,BigXthaPlug,I Get It,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0139,United States,39,Drake,WNBA,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0140,United States,40,BigXthaPlug,CRACCED,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0141,United States,41,Anderson .Paak & Cordae,Airbender,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0142,United States,42,BigXthaPlug Featuring GloRilla,FAF,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0143,United States,43,Future,California Girls,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0144,United States,44,Megan Thee Stallion,Is You Cool,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0145,United States,45,Bia,We On Go,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0146,United States,46,Rob49 & Loe Shimmy,I Need Us,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0147,United States,47,Rod Wave,Piece Of Your Love,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0148,United States,48,BigXthaPlug Featuring Babyface Ray & Lil Yachty,Believe,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0149,United States,49,Offset Featuring Don Toliver,Every Night,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop
+c0150,United States,50,Steve Lacy Featuring SZA,Is It Cool?,,"November 14, 2026",2026-11-16,https://www.billboard.com/charts/r-b-hip-hop-songs/,Billboard Hot R&B/Hip-Hop Songs,us_rb_hiphop_chart,hiphop

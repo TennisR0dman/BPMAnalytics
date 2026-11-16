@@ -27,7 +27,10 @@ MAX ( fact_track[popularity] )
 
 Popularity Weighted Tempo =
 DIVIDE (
-    SUMX ( fact_track, fact_track[tempo_raw] * fact_track[popularity] ),
+    SUMX (
+        FILTER ( fact_track, NOT ISBLANK ( fact_track[popularity] ) ),
+        fact_track[tempo_raw] * fact_track[popularity]
+    ),
     SUM ( fact_track[popularity] )
 )
 
@@ -49,8 +52,8 @@ DIVIDE (
     CALCULATE ( [Track Count], ALL ( dim_tempo_band ) )
 )
 
--- REMOVEFILTERS clears a cohort slicer before the explicit cohort filter is applied.
--- Without that, a slicer on cohort_name would blank the other half of the gap.
+-- comparison_arm is africa or hiphop on every snapshot, so one gap measure
+-- follows the snapshot slicer. REMOVEFILTERS clears a cohort slicer first.
 -- The is_top100 page filter is left in place on purpose.
 
 Median Tempo Raw Gap =
@@ -58,13 +61,13 @@ VAR AfricaTempo =
     CALCULATE (
         [Median Tempo Raw],
         REMOVEFILTERS ( dim_cohort ),
-        dim_cohort[cohort_id] = "africa_popular"
+        dim_cohort[comparison_arm] = "africa"
     )
 VAR HipHopTempo =
     CALCULATE (
         [Median Tempo Raw],
         REMOVEFILTERS ( dim_cohort ),
-        dim_cohort[cohort_id] = "us_hiphop_genre"
+        dim_cohort[comparison_arm] = "hiphop"
     )
 RETURN
     AfricaTempo - HipHopTempo
@@ -74,13 +77,13 @@ VAR AfricaTempo =
     CALCULATE (
         [Median Tempo Corrected],
         REMOVEFILTERS ( dim_cohort ),
-        dim_cohort[cohort_id] = "africa_popular"
+        dim_cohort[comparison_arm] = "africa"
     )
 VAR HipHopTempo =
     CALCULATE (
         [Median Tempo Corrected],
         REMOVEFILTERS ( dim_cohort ),
-        dim_cohort[cohort_id] = "us_hiphop_genre"
+        dim_cohort[comparison_arm] = "hiphop"
     )
 RETURN
     AfricaTempo - HipHopTempo

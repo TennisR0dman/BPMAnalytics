@@ -1,0 +1,3 @@
+snapshot_key,snapshot_id,snapshot_name,as_of_label,definition
+1,spotify_dataset,Spotify tracks dataset,Dataset card updated 2023-12-01; the pull date is not stated,Genre labels and an artist lookup on the pinned Spotify tracks file.
+2,current_charts,Current charts,"Nigeria Spotify daily 2026-11-14; South Africa Spotify daily 2026-11-13; Billboard week of November 14, 2026. Pages fetched 2026-11-16.",Tempo is measured with librosa on a Deezer 30-second preview.

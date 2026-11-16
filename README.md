@@ -4,6 +4,8 @@ How does the tempo of the most popular African-scene tracks in a public Spotify 
 
 On the tempo Spotify stored, the two groups are not meaningfully different. The medians sit a few BPM apart, the means point the other way, and both effect sizes are negligible. A half-time fold that cuts at 140 BPM opens a small gap. A fold that cuts at 160 BPM does not. This file is not a chart of Africa or of the United States, and the write-up below does not treat it as one.
 
+The same comparison on current charts, with tempo measured from 30-second previews, is also null. That section is [Current charts](#current-charts).
+
 ![Raw tempo distributions](outputs/figures/01_tempo_density_raw.png)
 
 ## Key findings
@@ -41,6 +43,49 @@ That small gap depends on cutting at 140. The alternate window `[80, 160)` leave
 Mean popularity barely moves across tempo bands inside either top 100. The hip-hop bars sit higher at every band because those tracks are more popular in this file, not because faster tracks are more popular.
 
 ![Mean popularity by raw tempo band](outputs/figures/04_popularity_by_band.png)
+
+## Current charts
+
+The dataset section above is a catalog sample. This section uses charts dated mid-November 2026. Pages were fetched on 2026-11-16.
+
+| Chart | Source | Chart date | Rows in the snapshot |
+| --- | --- | --- | --- |
+| Spotify daily, Nigeria, top 50 | [kworb.net Nigeria daily](https://kworb.net/spotify/country/ng_daily.html) | 2026-11-14 | 50 |
+| Spotify daily, South Africa, top 50 | [kworb.net South Africa daily](https://kworb.net/spotify/country/za_daily.html) | 2026-11-13 | 50 |
+| Billboard Hot R&B/Hip-Hop Songs | [billboard.com chart](https://www.billboard.com/charts/r-b-hip-hop-songs/) | Week of November 14, 2026 | 50 |
+
+Kworb's robots.txt allows the chart pages. The Billboard chart path is not in the disallowed list for a normal fetch. The weekly Hot Rap Songs URL redirected to a year-end page with no weekly rows, so the US list is Hot R&B/Hip-Hop Songs. That chart includes R&B as well as rap. Bruno Mars is number one.
+
+No Spotify track id is shared between the Nigeria top 50 and the South Africa top 50, so the African chart cohort is 100 tracks. A chart country is the market where the track ranked. It is not the artist's origin.
+
+Each title was searched on Deezer's public API. A match had to clear a title score of 0.82 and an artist score of 0.55. Every accepted match in this run cleared 0.90 on the title and 0.85 on the artist. The preview mp3 is cached under `data/cache/previews/` and is not in git. Tempo is `librosa.beat.beat_track` on that preview, with `librosa.feature.tempo` stored beside it. The same two fold windows are applied to the librosa BPM.
+
+Current Africa charts measured: 97 of 100. Current US chart measured: 49 of 50. Current Africa chart coverage: 97.0%. Current US chart coverage: 98.0%. The four rows with no accepted Deezer track are Darque, "uMoya 2.0 - Tycoon Remix"; Rema, "FUN"; Empro, "Polo - Skuva Remix"; and Gunna, "Pop It". None of the matched rows lacked a preview.
+
+Deezer BPM was nonzero on 0 of 146 measured tracks. The public track response includes `bpm`, and it was 0 on every matched id, including a live re-check of Rema's "Oh No". There is no Deezer-versus-librosa agreement to report. The field was empty in substance.
+
+Current Africa median librosa tempo: 117.5 BPM. Current US chart median librosa tempo: 123.0 BPM. Current median raw gap (Africa charts minus US chart): -5.6 BPM. Current Africa mean librosa tempo: 122.4 BPM (sd 22.5). Current US chart mean librosa tempo: 119.7 BPM (sd 24.9). The median says the US chart is a little faster. The mean says the African charts are a little faster. Current Welch t (raw) = 0.63 on 88.4 df, p = 0.528. Current Cohen's d (raw) = 0.11. Current Mann-Whitney p (raw) = 0.758. Current Cliff's delta (raw) = 0.03.
+
+After the 70–140 fold, both medians land on the same grid point. Current Africa median corrected tempo: 112.3 BPM. Current US chart median corrected tempo: 112.3 BPM. Current median corrected gap (Africa charts minus US chart): 0.0 BPM. Current Welch t (corrected) = 0.40 on 85.9 df, p = 0.688. Current Cohen's d (corrected) = 0.07. Current Mann-Whitney p (corrected) = 0.842. Current Cliff's delta (corrected) = 0.02. Current alternate window [80, 160) Mann-Whitney p = 0.977. Current alternate window Cliff's delta = 0.00.
+
+`beat_track` returns tempos from a short list of candidates. This snapshot has 24 distinct raw values. That is why two medians can tie even when the means do not. It is also why a 30-second preview should not be treated as the song's official BPM.
+
+![Dataset medians beside current-chart medians](outputs/figures/05_dataset_vs_current_charts.png)
+
+| | Dataset, African popular music | Dataset, US hip-hop genre proxy | Charts, Nigeria and South Africa | Charts, Billboard Hot R&B/Hip-Hop |
+| --- | ---: | ---: | ---: | ---: |
+| Tracks in the test | 100 | 100 | 97 | 49 |
+| Median raw BPM | 108.0 | 112.7 | 117.5 | 123.0 |
+| Mean raw BPM | 120.2 | 117.0 | 122.4 | 119.7 |
+| Median BPM after the 70–140 fold | 103.9 | 96.0 | 112.3 | 112.3 |
+| Raw Mann-Whitney p | 0.380 |  | 0.758 |  |
+| Raw Cohen's d | 0.10 |  | 0.11 |  |
+| Corrected Mann-Whitney p | 0.002 |  | 0.842 |  |
+| Corrected Cohen's d | 0.33 |  | 0.07 |  |
+
+The small corrected gap in the dataset does not show up on these charts. Both snapshots agree on the raw comparison: the two sides are not meaningfully different. They do not agree on what the 140 BPM fold does, which is another reason to treat that fold as a sensitivity check.
+
+Rebuild the chart snapshot with `python scripts/build_current_charts.py`. Add `--refresh-charts` to download the pages again. The CSVs under `data/current/` are the snapshot this section uses, so the numbers above can be recomputed without the pages still looking the same.
 
 ## What the two cohorts actually are
 
@@ -93,6 +138,7 @@ Python 3.9 or newer, pandas, pytest, and R with ggplot2, jsonlite, and testthat.
 
 ```bash
 python scripts/download_data.py
+python scripts/build_current_charts.py
 python scripts/run_pipeline.py
 pytest -q
 Rscript -e "testthat::test_dir('tests/testthat', stop_on_failure = TRUE)"
@@ -106,7 +152,9 @@ The processed analysis table and the figures are already in the repo, so the cha
 
 ```
 data/reference/african_primary_artists.csv   artist lookup
-data/processed/analysis_tracks.csv           eligible tracks, both cohorts
+data/processed/analysis_tracks.csv           eligible tracks, dataset cohorts
+data/current/                                chart snapshot, matches, measured tempos
+data/cache/previews/                         Deezer mp3 cache, not in git
 sql/                                         schema and analysis queries
 src/bpm_analytics/                           download-to-table Python
 R/analysis.R                                 tests, effect sizes, figures

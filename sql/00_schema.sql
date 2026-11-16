@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS chart_analysis;
 DROP TABLE IF EXISTS track_analysis;
 DROP TABLE IF EXISTS tracks_catalog;
 DROP TABLE IF EXISTS artist_lookup;
@@ -64,6 +65,21 @@ CREATE TABLE track_analysis (
     loudness REAL,
     time_signature INTEGER,
     PRIMARY KEY (cohort_id, track_id)
+);
+
+CREATE TABLE chart_analysis (
+    cohort_id TEXT NOT NULL,
+    track_id TEXT NOT NULL,
+    track_name TEXT,
+    primary_artist TEXT,
+    chart_market TEXT,
+    chart_position INTEGER,
+    tempo_raw REAL NOT NULL,
+    tempo_corrected REAL NOT NULL,
+    tempo_corrected_alt REAL NOT NULL,
+    deezer_bpm REAL,
+    librosa_bpm REAL,
+    is_top100 INTEGER NOT NULL
 );
 
 CREATE INDEX idx_analysis_top ON track_analysis (cohort_id, is_top100);

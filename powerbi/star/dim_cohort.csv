@@ -1,3 +1,5 @@
-cohort_key,cohort_id,cohort_name,definition
-1,africa_popular,African popular music,Primary artist is on the African-scene lookup. Popularity is at least 40. is_top100 marks the 100 highest-popularity tracks. Not a country chart.
-2,us_hiphop_genre,US hip-hop (genre proxy),track_genre is hip-hop and the primary artist is not on the African-scene lookup. Popularity is at least 40. Genre proxy only: the file has no US chart flag.
+cohort_key,cohort_id,cohort_name,comparison_arm,definition
+1,africa_popular,African popular music,africa,Primary artist is on the African-scene lookup. Popularity is at least 40. is_top100 marks the 100 highest-popularity tracks. Not a country chart.
+2,us_hiphop_genre,US hip-hop (genre proxy),hiphop,track_genre is hip-hop and the primary artist is not on the African-scene lookup. Popularity is at least 40. Genre proxy only: the file has no US chart flag.
+3,africa_charts,Nigeria and South Africa Spotify charts,africa,"Top 50 of the Kworb Spotify daily chart for Nigeria plus the top 50 for South Africa. Chart market is where the track ranked, not the artist's origin."
+4,us_rb_hiphop_chart,Billboard Hot R&B/Hip-Hop Songs,hiphop,"Current Billboard Hot R&B/Hip-Hop Songs. The list mixes rap and R&B. It is a US chart, not a verified artist-origin list."

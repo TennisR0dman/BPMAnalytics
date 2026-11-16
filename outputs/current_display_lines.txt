@@ -1,0 +1,23 @@
+Current Africa charts measured: 97 of 100
+Current US chart measured: 49 of 50
+Current Africa chart coverage: 97.0%
+Current US chart coverage: 98.0%
+Current Africa median librosa tempo: 117.5 BPM
+Current US chart median librosa tempo: 123.0 BPM
+Current Africa mean librosa tempo: 122.4 BPM (sd 22.5)
+Current US chart mean librosa tempo: 119.7 BPM (sd 24.9)
+Current median raw gap (Africa charts minus US chart): -5.6 BPM
+Current Welch t (raw) = 0.63 on 88.4 df, p = 0.528
+Current Cohen's d (raw) = 0.11
+Current Cliff's delta (raw) = 0.03
+Current Mann-Whitney p (raw) = 0.758
+Current Africa median corrected tempo: 112.3 BPM
+Current US chart median corrected tempo: 112.3 BPM
+Current median corrected gap (Africa charts minus US chart): 0.0 BPM
+Current Welch t (corrected) = 0.40 on 85.9 df, p = 0.688
+Current Cohen's d (corrected) = 0.07
+Current Cliff's delta (corrected) = 0.02
+Current Mann-Whitney p (corrected) = 0.842
+Current alternate window [80, 160) Mann-Whitney p = 0.977
+Current alternate window Cliff's delta = 0.00
+Deezer BPM was nonzero on 0 of 146 measured tracks

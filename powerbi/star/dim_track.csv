@@ -1,762 +1,908 @@
 track_key,track_id,track_name,artists,album_name,primary_artist,duration_ms,explicit,track_genre
-1,03EcqaAMg58r10dgbl0o6y,Boa Me (feat. Ed Sheeran & Mugeez),Fuse ODG;Ed Sheeran;Mugeez,Boa Me (feat. Ed Sheeran & Mugeez),Fuse ODG,180500,0,dancehall
-2,03YUNUpazIbzwqJq2YSBvB,Kilometre,Burna Boy,"Love, Damini",Burna Boy,152692,1,dancehall
-3,03cKmr45ZcgYzng3s76STy,Feel,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,194400,0,dancehall
-4,06mcgnr3eJ8cF8ed0WfdPA,Southy Love,Peruzzi;Fireboy DML,Rum & Boogie,Peruzzi,210048,1,dancehall
-5,092PSCM3LlkiCatgTN0vrU,Oliver Twist,D'banj,King Don Come,D'banj,237453,0,dancehall
-6,09gysnJpfQ3ublBmJDfcEC,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae;Kali Uchis;Moliy,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,204763,1,alternative
-7,0D9Bnm77CkYlzpZijEKFuy,Glory (feat. Ladysmith Black Mambazo),Burna Boy;Ladysmith Black Mambazo,"Love, Damini",Burna Boy,231205,1,dancehall
-8,0Eq1YipYrFdRzPKT8y7iOC,Love Like This (feat. Fireboy DML),Lil Kesh;Fireboy DML,Ecstasy,Lil Kesh,189280,0,dancehall
-9,0HaRLPnr887lcQM2YQzkff,For My Hand (feat. Ed Sheeran),Burna Boy;Ed Sheeran,"Love, Damini",Burna Boy,159123,0,dance
-10,0JqY1VDNn7p92rsvUGs6m1,Never Gonna Forget (with Diplo feat. Elderbrook),Black Coffee;Diplo;Elderbrook,Subconsciously,Black Coffee,199768,0,deep-house
-11,0RqiNQYAB75utUwQF82MdY,Jealous,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,216699,0,dancehall
-12,0WZv29OGhRABeryXBPMAV6,Ozumba Mbadiwe - Remix,Reekado Banks;Fireboy DML,Ozumba Mbadiwe (Remix),Reekado Banks,211636,0,dancehall
-13,0WtM2NBVQNNJLh6scP13H8,Calm Down (with Selena Gomez),Rema;Selena Gomez,Calm Down (with Selena Gomez),Rema,239317,0,pop
-14,0cE68B5sCz9f3snJ5ueTGZ,Cloak & Dagger (feat. J Hus),Burna Boy;J Hus,"Love, Damini",Burna Boy,211050,0,dancehall
-15,0fxjsll9jmmRgMFbwdp4Xg,Yègellé Tezeta,Mulatu Astatke,New York - Addis - London: The Story of Ethio Jazz 1965-1975,Mulatu Astatke,194293,0,afrobeat
-16,0hp62UwmajmzAjXkMKznhD,Collabo,P-Square;Don Jazzy,Double Trouble,P-Square,223587,0,dancehall
-17,0jjH8vwVEENKNpDPWWOwuK,Vanilla,Burna Boy,"Love, Damini",Burna Boy,155466,0,dancehall
-18,0rWlFiu0sMqLdtrViUwLT5,Chop My Money - Remix,P-Square;Akon;May D,Chop My Money,P-Square,272297,0,dancehall
-19,0s3ZpsAaVCbWxDhLq2B2wh,Scatter,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,164000,0,dancehall
-20,0s5nhb6ts6uCKAVnGg46y6,Different Size (feat. Victony),Burna Boy;Victony,"Love, Damini",Burna Boy,209968,0,dancehall
-21,0v9w61bEVbIgYbVu0frJag,Your Number REMIX (feat. Chris Brown & Kid Ink),Ayo Jay;Chris Brown;Kid Ink,Your Number REMIX (feat. Chris Brown & Kid Ink),Ayo Jay,271606,1,dancehall
-22,1090OWoP6JTpYAaSSEBvGy,Kontrol,Maleek Berry,Kontrol,Maleek Berry,206315,0,dancehall
-23,11qqSo6AyQR68xqVlmwYls,Green Light,Olamide,Carpe Diem,Olamide,194425,1,dancehall
-24,163l4xzEe3JAfPbv0kYNQo,Question (feat. Don Jazzy),Burna Boy;Don Jazzy,Question (feat. Don Jazzy),Burna Boy,168461,0,dancehall
-25,18t2ofQiViidZHxOBVjpD1,Koroba,Tiwa Savage,Celia,Tiwa Savage,153876,0,dancehall
-26,1AtBzcUzKLh4BGwXhFA9K6,Ojuelegba,Wizkid,Ayo,Wizkid,216242,0,dancehall
-27,1B6d6tSoQTZyYalEFVu86p,No One Like You,Eben;Nathaniel Bassey,No One Like You,Eben,317675,0,afrobeat
-28,1Cg51Jk6EoXBQ0KiwzWJfm,Playboy,Fireboy DML,Playboy,Fireboy DML,207474,1,dancehall
-29,1ETZhP9orTkDclKEyt0xqm,Fantastic Man,William Onyeabor,World Psychedelic Classics 5: Who Is William Onyeabor?,William Onyeabor,386160,0,afrobeat
-30,1FhP3mymDoN2hX5p57uTnu,Come on Home,Lijadu Sisters,Horizon Unlimited,Lijadu Sisters,318785,0,afrobeat
-31,1GuLgNKd4lrI1vugkxMCAX,Iskaba,Wande Coal;DJ Tunez,Iskaba,Wande Coal,224640,1,dancehall
-32,1HG9yS1bhOSsrUoHdUEnbW,Timoti,Fireboy DML,Playboy,Fireboy DML,139171,1,dancehall
-33,1IARNA3zsu39Kul2ov9n3J,King,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,165040,0,dancehall
-34,1JiR4RJaZlbZ5b3HG8jkeL,Longtime (feat. Skepta),Wizkid;Skepta,Made In Lagos,Wizkid,239893,1,dancehall
-35,1M65Sv8RxdOpTiKKqjphxf,How Bad Could It Be,Burna Boy,"Love, Damini",Burna Boy,297651,0,dancehall
-36,1PoJXULCvl03b1fiZmMxmd,On the Low,Burna Boy,African Giant,Burna Boy,185898,0,dancehall
-37,1TeIFb2AIbExCZjInMxGha,Azonto,Fuse ODG;Tiffany Owusu,T.I.N.A.,Fuse ODG,232255,0,dancehall
-38,1UM3RVanAaakxcx9GkfNTL,KOLO (feat. Oxlade),Ice Prince;Oxlade,KOLO (feat. Oxlade),Ice Prince,168013,0,dancehall
-39,1V9xax1XoP0YpVp941UHJt,I'm In Love,Patoranking,I'm In Love,Patoranking,209638,0,dancehall
-40,1VCzfYwgyZk4fYl7Tyv7BC,Bank Alert,P-Square,Bank Alert,P-Square,253939,0,dancehall
-41,1XhaUSmhANVIRtDvs7p2UP,Solid (feat. Blxst & Kehlani),Burna Boy;Blxst;Kehlani,"Love, Damini",Burna Boy,195134,0,dancehall
-42,1YPkBfrRCpvBrwJU66LQWq,Osama,Zakes Bantwini;Kasango,Osama,Zakes Bantwini,409180,0,deep-house
-43,1ZiTQSxZmbff7hmjD8fENw,Damn,Omah Lay,Get Layd,Omah Lay,159338,1,dancehall
-44,1jloWdvMh9nwHUu3mag8CL,Mad Over You,Runtown,Mad Over You,Runtown,216058,0,dancehall
-45,1kd8fI9o55GNWvNOfzKcz5,Legalize,Mr Eazi,Legalize,Mr Eazi,146249,0,dancehall
-46,1mSdbey7RstGLY2udgXv74,Essence (feat. Justin Bieber & Tems),Wizkid;Justin Bieber;Tems,Essence (feat. Justin Bieber & Tems),Wizkid,263288,0,dancehall
-47,1qIATFQg93M6KvhPh9QSNc,Therapy,Stonebwoy,Therapy,Stonebwoy,185341,1,dancehall
-48,1rgK0UrJNwkaIptPI0a5kg,Need You,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,221538,0,dancehall
-49,1tDf8B65kTrz87w5RJmgXG,Hate Me,Olamide;Wande Coal,Hate Me,Olamide,199322,1,dancehall
-50,1vPklJ1dH1kUbHod4UH0JS,Let Him Go,Ayo Jay,Lazy Genius,Ayo Jay,233286,0,dancehall
-51,1wADwLSkYhrSmy4vdy6BRn,soso,Omah Lay,Boy Alone,Omah Lay,183056,0,dancehall
-52,1xx7iMgSyLnbDUi170lVbb,Attention (with Justin Bieber) - Disclosure Remix,Omah Lay;Disclosure;Justin Bieber,Attention (with Justin Bieber) [Disclosure Remix],Omah Lay,256644,0,dancehall
-53,20hZEnFjyvUIk4YkONRGMZ,Lo Lo,Omah Lay,Get Layd,Omah Lay,171730,0,dancehall
-54,21s0bjVrP7RtQskeUKZxOu,Soul Makossa,Manu Dibango,Manu Dibango Anthology,Manu Dibango,264306,0,afrobeat
-55,2IMFiHPG7RF5acB0QPFJyj,Full Current (That's My Baby),Phyno;Tekno,Full Current (That's My baby),Phyno,208296,0,dancehall
-56,2MlOUXmcofMackX3bxfSwi,Jerusalema (feat. Nomcebo Zikode),Master KG;Nomcebo Zikode,Jerusalema,Master KG,342612,0,house
-57,2NcJDSpMJsbyabOLoa00GM,Free My Mind,Omah Lay,Free My Mind,Omah Lay,175989,0,dancehall
-58,2RCf3uUVix6XzRU0Z8quJs,For Life,Runtown,For Life,Runtown,229633,1,dancehall
-59,2RnkJgwCzgvQU3MUysO1fG,Kolo Kolo,Patoranking;Diamond Platnumz,Kolo Kolo,Patoranking,195135,0,dancehall
-60,2SEUmlCikPENN9hJytRHV2,Paranoia,Ayo Jay,Wonder Shall Never End,Ayo Jay,181241,0,dancehall
-61,2SVObssPWzeJquNyR05NjL,Damn (feat. 6lack),Omah Lay;6LACK,Damn (feat. 6lack),Omah Lay,159338,1,dancehall
-62,2SaRkvUkzNzL39fBB2hLpt,PALAZZO,SPINALL;Asake,PALAZZO,SPINALL,186002,0,dancehall
-63,2XuLnQELesgnkCGZbSJHO0,Don't Call Me (feat. Zinoleesky),Lil Kesh;Zinoleesky,Don't Call Me (feat. Zinoleesky),Lil Kesh,178983,1,dancehall
-64,2c00DlvpzthGKcyXpe5GHa,Bad Influence,Omah Lay,Bad Influence,Omah Lay,138652,1,dancehall
-65,2cerDm5EbuTNJ68EIMtrF2,Monsters You Made (feat. Chris Martin),Burna Boy;Chris Martin,Twice As Tall,Burna Boy,217541,1,dancehall
-66,2cgamRofJ1iWxAHD801DNu,Wild Dreams (feat. Khalid),Burna Boy;Khalid,"Love, Damini",Burna Boy,186189,0,dancehall
-67,2dG1cXdbEPKEOyUq96R9xz,Compromise (feat. Rema),Fireboy DML;Rema,Playboy,Fireboy DML,195939,1,dancehall
-68,2dGE7HMvZEjuNxzz4IDLyL,Jagele,Burna Boy,"Love, Damini",Burna Boy,182037,0,dancehall
-69,2frQh7VPaDY3y6a7ZoGw33,Magic In The Air (feat. Ahmed Chawki) - Version Champions du Monde 2018,Magic System;Chawki,Magic In The Air: la compilation,Magic System,233600,0,french
-70,2ieFaRzeA5yfRjanzaBS8Q,You Need Me (feat. Maxine Ashley & Sun-El Musician),Black Coffee;Maxine Ashley;Sun-El Musician,Subconsciously,Black Coffee,375917,0,deep-house
-71,2jZ2MrAk8iNZk1dsI0Vr5z,Cold Outside,Timaya;BNXN fka Buju,Cold Outside,Timaya,181224,1,dancehall
-72,2lGcaj9uJ8ahQxbNvvEqHi,Time to Party,Flavour;Diamond Platnumz,Time to Party,Flavour,212532,0,dancehall
-73,2oWex6rYoQ7Bl2D9zG8d3F,Water No Get Enemy,Fela Kuti,The Best of the Black President,Fela Kuti,591693,0,afrobeat
-74,2pUlBBWq8R10ylbBvZJV9j,Bad To Me,Wizkid,Bad To Me,Wizkid,176850,0,dancehall
-75,2pgDBO0ZAgvye7joSmdDm8,SAD GIRLZ LUV MONEY,Amaarae;Moliy,THE ANGEL YOU DON'T KNOW,Amaarae,196420,1,alternative
-76,2sh23PpmUcfrxKaBRvqxig,Dirty Secrets,Burna Boy,"Love, Damini",Burna Boy,151856,1,dancehall
-77,2tZPZ1lT8TMlEUxXTxCCeO,Jaiye (Ihe Geme),P-Square,Jaiye (Ihe Geme),P-Square,234404,0,dancehall
-78,2v52t6uTRjPIgnh9HHBAaf,Onyeka (Baby),Burna Boy,Twice As Tall,Burna Boy,202146,0,dancehall
-79,2xXRKDCqZYmbbwwIUerigW,Wetin Man Go Do,Burna Boy,African Giant,Burna Boy,188181,0,dancehall
-80,2zYs4BonN2ydkbrRk333SN,Come Closer (feat. Drake),Wizkid;Drake,Sounds From The Other Side,Wizkid,211293,1,dancehall
-81,33dN3Nd9aRz4nzha4oIGnX,Godly,Omah Lay,What Have We Done,Omah Lay,175215,0,dancehall
-82,35056uy2b4M1qJ3Z1ed3sf,Sere,SPINALL;Fireboy DML,Grace,SPINALL,185454,0,dancehall
-83,3B5slaBuBK0BsuNw570pmx,Like I Do,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,232800,0,dancehall
-84,3FEc6z5Q5mgeZtbeBDNEEy,African Queen,2Baba,REWIND. SELECT. UPDATE,2Baba,264360,0,dancehall
-85,3FskQrDXcY24ur2fCvz35O,Ye,Burna Boy,Outside,Burna Boy,231618,1,dancehall
-86,3KSnA0j67IFkiwmEotMGin,Secret (feat. Jeremih & Serani),Burna Boy;Jeremih;Serani,African Giant,Burna Boy,203537,1,dancehall
-87,3N3PWNgtiqsdLY5PQTKw6w,Rock,Olamide,UY Scuti,Olamide,185769,1,dancehall
-88,3PnkEOvEKu7s2qQJ5mHpNl,Come My Way,Wande Coal,Come My Way,Wande Coal,208718,0,dancehall
-89,3Q2hwP99f1IU9DaHcyB1vM,Things I Need,Peruzzi,Hypertension / Things I Need,Peruzzi,158608,1,dancehall
-90,3QO1m6i0nsrp8aOnapvbkx,Blessed (feat. Damian Marley),Wizkid;Damian Marley,Made In Lagos,Wizkid,262973,0,dancehall
-91,3RZoPvPHZsPTTc94DfWSCL,Zombie,Fela Kuti,Zombie,Fela Kuti,745653,0,afrobeat
-92,3Ry6M5to0EblssBg3pfJt8,Patek,Mr Eazi;DJ Tarico;Joey B,Patek,Mr Eazi,218396,1,dancehall
-93,3XsNRi2cypsksscysYbyaF,Drive - Edit,Black Coffee;David Guetta;Delilah Montagu,Subconsciously,Black Coffee,191258,0,deep-house
-94,3Yt1ovsh3v3VEzRuhI1TL5,Joro,Wizkid,Joro,Wizkid,262736,0,dancehall
-95,3Z9B9GQ2fFx4IRCG8bbWys,Somebody’s Son (Ft Brandy),Tiwa Savage;Brandy,Water & Garri,Tiwa Savage,218130,0,dancehall
-96,3dEqPYFBUAOU0fqpudVnJW,Want (feat. Fave),Olamide;Fave,UY Scuti,Olamide,101250,1,dancehall
-97,3dOBB8XZNu8aqi7JstoRZO,Dangerous Love,Fuse ODG;Sean Paul,T.I.N.A.,Fuse ODG,235375,0,dancehall
-98,3gUQD6BF1RKWsWfboTZYuE,temptations,Omah Lay,Boy Alone,Omah Lay,151588,0,dancehall
-99,3h7pI8oM2CpXiNSZbQuEtV,Million Pound Girl (Badder Than Bad),Fuse ODG,T.I.N.A.,Fuse ODG,246124,0,dancehall
-100,3iRKwxW8ZDjmL9nKk3nisz,Jaiye Foreign,Tiwa Savage;Zinoleesky,Jaiye Foreign,Tiwa Savage,190164,0,dancehall
-101,3ketN3dth18vSJ1T3HIztN,B. D’OR (feat. Wizkid),Burna Boy;Wizkid,B. D’OR (feat. Wizkid),Burna Boy,189800,0,dancehall
-102,3kv0lHXKrW8oltTe7fYbBq,Peru - R3HAB Remix,Fireboy DML;Ed Sheeran;R3HAB,Peru (R3HAB Remix),Fireboy DML,149752,1,dancehall
-103,3lB31lvF4GEwKwMgFWwCJ7,Nomalizo,Letta Mbulu,In The Music The Village Never Ends,Letta Mbulu,311866,0,afrobeat
-104,3mNtJ94LS5gTrclSCE9w9r,Eye Nyam Nam 'A' Mensuro - Henrik Schwarz Blend,Ebo Taylor;Pat Thomas;Henrik Schwarz,Ene Nyame (Henrik Schwarz Blend),Ebo Taylor,563866,0,afrobeat
-105,3qF8DcoQpQ1IXlMbTKHylP,Pull Up,Timaya;Burna Boy,Chulo Vibes,Timaya,196800,0,dancehall
-106,3qvZW1bLvAsJIUhYcuvf4F,Real Life (feat. Stormzy),Burna Boy;Stormzy,Twice As Tall,Burna Boy,197933,1,dancehall
-107,3s6ltUrI93LBKU8taezsLn,Magic in the Air (feat. Ahmed Chawki),Magic System;Chawki,Africainement vôtre,Magic System,233693,0,french
-108,3uaObCyjKCjktezgA5MBX1,Personally - Bonus,P-Square,Double Trouble,P-Square,192885,0,dancehall
-109,414J8tKHbtF16XOiHGBEso,Tezeta (Nostalgia),Mulatu Astatke,"Ethiopiques, Vol. 4: Ethio Jazz 1969-1974",Mulatu Astatke,376640,0,afrobeat
-110,4204hwPYuToiuSunPFUoML,True Love (feat. Tay Iwar & Projexx),Wizkid;Tay Iwar;Projexx,Made In Lagos,Wizkid,247333,1,dancehall
-111,44SSviC4R1TkAdsyptjDpE,Anybody,Burna Boy,African Giant,Burna Boy,188741,0,dancehall
-112,45s98gUcOcj5nJeFDNLH2g,Want It All (feat. Polo G),Burna Boy;Polo G,Want It All (feat. Polo G),Burna Boy,232500,1,dancehall
-113,48BBynvMm4jmI7hZ9hgPtU,One Side,Iyanya,One Side,Iyanya,161626,0,dancehall
-114,4DPvMjCqZPTBDpahYjMSy2,Whiskey,Burna Boy,"Love, Damini",Burna Boy,203576,0,dancehall
-115,4FtuDjqmTPP9mjxygLKzEm,Omo,Burna Boy,African Giant,Burna Boy,147143,0,dancehall
-116,4LbEUmACVAFj8e0WrMUdlN,Rock Your Body,Burna Boy,Outside,Burna Boy,221228,0,dancehall
-117,4MjW0jp8b9hAe1dmzJIBCG,Lost (with Angelos feat. Jinadu),Black Coffee;Angelos;Jinadu,Subconsciously,Black Coffee,364951,0,deep-house
-118,4NLFnAPoMAiuuK8iXnit6W,Ozumba Mbadiwe,Reekado Banks,Ozumba Mbadiwe,Reekado Banks,212636,0,dancehall
-119,4S0UUI7C5TRoktM4gnkh06,ON GOD,Shatta Wale,ON GOD,Shatta Wale,195056,1,dancehall
-120,4bUe0OUcwdu85AMBkZzYFg,Toni-Ann Singh (feat. Popcaan),Burna Boy;Popcaan,"Love, Damini",Burna Boy,175677,1,dancehall
-121,4btYeVhPo0QIbUxySZGjba,Shake Body,Skales,Man Of The Year,Skales,208933,0,dancehall
-122,4cukkgbgG9P9PKouQ462aV,bend you,Omah Lay,Boy Alone,Omah Lay,159965,1,dancehall
-123,4eMq3u4vIWoofiziFBTV1j,10 Over 10 (feat. Rotimi),Ayo Jay;Rotimi,Lazy Genius,Ayo Jay,229630,0,dancehall
-124,4lzkcjVC7xT3HBIg2PjJ30,Ghetto Love,Wizkid,Ghetto Love,Wizkid,198367,0,dancehall
-125,4qOfbZChxf8ZLEaAxeotFB,Eko Miami,Maleek Berry,Last Daze Of Summer,Maleek Berry,211764,0,dancehall
-126,4rEuaYXYUrHtcpIo26pxAt,Attention,Tiwa Savage,Attention,Tiwa Savage,208000,0,dancehall
-127,4rlaH7EbXL55bj9pvp57nP,Way Too Big,Burna Boy,Twice As Tall,Burna Boy,200413,1,dancehall
-128,51mLQ3w7yR7vjdSTFLWaY5,Ginger (feat. Burna Boy),Wizkid;Burna Boy,Made In Lagos,Wizkid,196146,0,dancehall
-129,51psaXOJAkOUdRQrp2Wjsa,Leg Over,Mr Eazi,"Life is Eazi, Vol. 1 - Accra To Lagos",Mr Eazi,197972,0,dancehall
-130,54UrIc5qQRjX128jcvMKIT,Miss You Bad,Mr Eazi;Burna Boy,"Life is Eazi, Vol. 2 - Lagos to London",Mr Eazi,176766,1,dancehall
-131,558ULLj8yY2vT8XGtgY0q9,Loading (feat. Bad Boy Timz),Olamide;Bad Boy Timz,Carpe Diem,Olamide,194000,1,dancehall
-132,5C3vZiMOn2KHMbNQOhL6oQ,No Stress,Wizkid,Made In Lagos,Wizkid,202640,1,dancehall
-133,5CHXbSS76okOT6NeuEY9gr,Oh My Gawd (feat. Nicki Minaj & K4mo),Mr Eazi;Major Lazer;Nicki Minaj;Diplo;K4mo,Oh My Gawd (feat. Nicki Minaj & K4mo),Mr Eazi,180000,0,dancehall
-134,5CTQCPv51aLWpwTbqo8mEL,Bandana,Fireboy DML;Asake,Bandana,Fireboy DML,178225,1,dancehall
-135,5DS9LiyEdw2zY8bM6kjjgM,Infinity (feat. Omah Lay),Olamide;Omah Lay,Carpe Diem,Olamide,171764,1,dancehall
-136,5FG7Tl93LdH117jEKYl3Cm,Essence (feat. Tems),Wizkid;Tems,Made In Lagos,Wizkid,248040,0,dancehall
-137,5GmvLu8Ok9KqBakA6jTEVK,Abule,Patoranking,Three,Patoranking,199198,0,dancehall
-138,5J4FiKDJIdJ8AKx2gaWMt4,Your Number,Ayo Jay,Your Number,Ayo Jay,204081,0,dancehall
-139,5Ky8pIlNDaSQtxfY45dqMw,Non Living Thing (feat. Oxlade),Sarkodie;Oxlade,No Pressure,Sarkodie,229345,1,dancehall
-140,5MAScTGPHzWAeivPjpATa9,"My Woman, My Everything (feat. Wandecoal)",Patoranking;Wande Coal,"My Woman, My Everything (feat. Wandecoal) - Single",Patoranking,233717,0,dancehall
-141,5PRGmpPJzsrOXijZdXalVK,TOP MAMA,SPINALL;Reekado Banks;Phyno;Ntosh Gazi,TOP MAMA,SPINALL,208141,0,dancehall
-142,5PRU9ErsMVSRNzDeczXanb,Saudi Arabia,Mr Eazi,Something Else,Mr Eazi,119290,0,dancehall
-143,5YbPxJwPfrj7uswNwoF1pJ,Last Last,Burna Boy,"Love, Damini",Burna Boy,172342,0,dancehall
-144,5Zez1biAREA2C8706kdlIb,Like (feat. Kizz Daniel),Iyanya;Davido;Kizz Daniel,Like (feat. Kizz Daniel),Iyanya,150545,0,dancehall
-145,5hVjoL3sHepZROri63wBxP,It's Plenty,Burna Boy,"Love, Damini",Burna Boy,216991,1,dancehall
-146,5jqh2kAjz4GxjOS3HHSz17,Bank On It,Burna Boy,Twice As Tall,Burna Boy,276536,0,dancehall
-147,5lAOltJO0aw2FUP5Use4cD,Baby I'm Jealous,Mr Eazi;emPawa Africa;King Promise,One Day You Will Understand,Mr Eazi,150000,0,dancehall
-148,5lLwFE3fCAQllnPLsKtFP9,Hypertension,Peruzzi,Hypertension / Things I Need,Peruzzi,197894,0,dancehall
-149,5lYLBAH2uSvERWy8GAcBJz,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) - Slowed + Reverb,Amaarae;Kali Uchis;Moliy;xxtristanxo,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) [Slowed + Reverb],Amaarae,138646,1,alternative
-150,5mN3xSyvCmFy1jkdA98IfS,Fever,Wizkid,Fever,Wizkid,252244,0,dancehall
-151,5nUiz96J8ZSmwoSuL4sGvh,Gum Body (feat. Jorja Smith),Burna Boy;Jorja Smith,African Giant,Burna Boy,195073,0,dancehall
-152,5rJSFuBV3QBGTrywHJt5sA,Coconut,Manu Dibango,African Voodoo,Manu Dibango,131045,0,afrobeat
-153,5srIkb35ees5dhgjK3zdfz,Collateral Damage,Burna Boy,African Giant,Burna Boy,197558,0,dancehall
-154,5sxFYtIrP2ubyF4S3Of9ZK,Ye Ye Ye,Omah Lay,Get Layd,Omah Lay,207133,1,dancehall
-155,5v8Fxy6Zw8gOzi802lpDOt,woman,Omah Lay,Boy Alone,Omah Lay,168742,0,dancehall
-156,5zN3hyqfKLYMZ0VGnBvahT,Ello Baby,Tiwa Savage;Kizz Daniel;Young John,Ello Baby,Tiwa Savage,166008,0,dancehall
-157,60lUecrFeE2t6QMJ1Nmsve,Anoti,Wizkid,Made In Lagos: Deluxe Edition,Wizkid,181360,1,dancehall
-158,6459gZKddpOoPIH8PAcCwS,All Of Us (Ashawo),Fireboy DML,Playboy,Fireboy DML,183349,1,dancehall
-159,65v99AWZyNz3aRmfrT2I7N,i'm a mess,Omah Lay,Boy Alone,Omah Lay,153946,1,dancehall
-160,672sXt55h2Ol2MTcbKR5Sw,Groovy Flute,Manu Dibango,African Voodoo,Manu Dibango,153097,0,afrobeat
-161,67aiZtmB5ZBCGxBN3pOL6C,Drive,Black Coffee;David Guetta;Delilah Montagu,Drive,Black Coffee,283620,0,deep-house
-162,67bOItGZHSECTH9LffxpUm,Personal Baby,Mr Eazi,Personal Baby,Mr Eazi,173646,1,dancehall
-163,69UTmQOhqIRoGcTWFUidSZ,Ready For You (feat. Celeste),Black Coffee;Celeste,Subconsciously,Black Coffee,268886,0,deep-house
-164,6BnKiK0FwqJoqCdVKh442g,Love You Die (feat. Diamond Platnumz),Patoranking;Diamond Platnumz,Love You Die (feat. Diamond Platnumz),Patoranking,195597,0,dancehall
-165,6G2M6vvToPz12ghZpeJSGe,Atomic Bomb - William Onyeabor vs. Hot Chip,William Onyeabor;Hot Chip,What?!,William Onyeabor,436236,0,afrobeat
-166,6GL0fX7lcTWiWqdCocOLk7,Victory,Eben,Victory,Eben,230505,0,afrobeat
-167,6HrYi2gwKxrwEtZX3Orype,Every Season,Tony Allen;Damon Albarn;Ty,HomeCooking,Tony Allen,247306,0,afrobeat
-168,6K8y9WcUbgv0j7RGceHvym,Ikeja Roads,Tony Allen,Afrobeat Makers (Tony Allen Rhythms Revisited),Tony Allen,160948,0,afrobeat
-169,6MMXwZyjQhw6HaIwFGW0JI,Enkèn Yèlélèbesh,Girma Bèyènè;Akalé Wubé,Mistakes on Purpose (Ethiopiques 30),Girma Bèyènè,238440,0,afrobeat
-170,6RAFf0mJ498F0GzrFZ1ZsS,Peru - Acoustic,Fireboy DML;Ed Sheeran,Peru (Acoustic),Fireboy DML,172256,1,dancehall
-171,6U9jxxdQ6TNzjshIpwWMTf,Ma Lo,Tiwa Savage;Wizkid;Spellz,Sugarcane,Tiwa Savage,182857,0,dancehall
-172,6UbWYuDxDYmYYhsNYuYPPC,Rollercoaster (feat. J Balvin),Burna Boy;J Balvin,"Love, Damini",Burna Boy,187269,0,dancehall
-173,6XPPB2eOwBid6EbveTmVYe,Shakara,Ice Prince;CKay,Shakara,Ice Prince,200869,0,dancehall
-174,6cfRX5ktaMj7ZzwM68HrYG,how to luv,Omah Lay,Boy Alone,Omah Lay,151117,1,dancehall
-175,6g8A0XVikKuWbcJv7p2I5Q,Pree Me,Burna Boy,Pree Me,Burna Boy,200501,1,dancehall
-176,6g8vNyogMW32lhHlNcDiwX,Diana,Fireboy DML;Chris Brown;Shenseea,Playboy,Fireboy DML,232155,1,dancehall
-177,6gHUiXF4BiJ9d7biTNmdKR,The Mood,Timaya,Chulo Vibes,Timaya,161684,0,dancehall
-178,6hyTI3In7vu6fqFRoypcuz,Common Person,Burna Boy,"Love, Damini",Burna Boy,210346,0,dancehall
-179,6jdTkoEaer7XNGSblczoSu,Mood (feat. BNXN),Wizkid;BNXN fka Buju,Made In Lagos: Deluxe Edition,Wizkid,209760,0,dancehall
-180,6kxo2n2WY48fAhLuiwYOAb,Sere - Remix,SPINALL;Fireboy DML;6LACK,Sere (Remix),SPINALL,194181,0,dancehall
-181,6mAdcIFP25eb37HjkzglSh,Steady,Wizkid,Made In Lagos: Deluxe Edition,Wizkid,203026,0,dancehall
-182,6oOCGD2Sp9UTcDsuDz8Hdu,understand,Omah Lay,Boy Alone,Omah Lay,174545,0,dancehall
-183,6pdip6qgVJOI5JxqgbAlu6,JA ARA E,Burna Boy,The Lion King: The Gift,Burna Boy,190108,0,dancehall
-184,6qXdAsUH8I7j3A0d7sX6qz,What If I Say,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,213916,0,dancehall
-185,6qk3jI8bKCgURI3h0d8zBZ,Again,Wande Coal,Realms,Wande Coal,156083,0,dancehall
-186,6tTeRmhhuwDl5Y4UiJdHuO,attention,Omah Lay;Justin Bieber,attention,Omah Lay,180563,0,dancehall
-187,6vxVWANYDzpoWJcF4vVbr2,Jesus at the Centre,Eben,Victory,Eben,369529,0,afrobeat
-188,71iknvVFjHMMs0nit8eh2M,Doyin,Mr Eazi;Simi,Doyin,Mr Eazi,153962,0,dancehall
-189,73QcmfEnoLv3pKt0aXKdOG,We Outside,Olamide,We Outside,Olamide,155428,1,dancehall
-190,73e0LixjWj3e8prfptVeGD,More Life,Burna Boy,Outside,Burna Boy,92342,0,dancehall
-191,771tThfRECkaHjTKb6clZx,Begging,Yemi Alade,Begging,Yemi Alade,135272,0,dancehall
-192,7AgLmxi5osmwH9dEm1ck4j,Change,Fireboy DML,Playboy,Fireboy DML,162903,1,dancehall
-193,7BGzlL4gGNqlevuJXMTKxJ,BomBae,Fuse ODG;Zack Knight;Badshah,BomBae,Fuse ODG,242843,0,dancehall
-194,7EEinxDxDsRX3AIIJ026TZ,safe haven,Omah Lay,Boy Alone,Omah Lay,169031,0,dancehall
-195,7EqoATlXAKNwzv45LAlqRt,23,Burna Boy,Twice As Tall,Burna Boy,245920,1,dancehall
-196,7JPNvoMjoIXkTDAMx9Aajj,Tezeta,Mulatu Astatke,New York - Addis - London: The Story of Ethio Jazz 1965-1975,Mulatu Astatke,368539,0,afrobeat
-197,7aUlBqAHppttybHHYrefZk,Turn Me On,Black Coffee,Turn Me On / Come To Me,Black Coffee,445746,0,deep-house
-198,7gReWQ16Qs5gtAkytHEKB8,Don Dada,Timaya,Gratitude,Timaya,208040,1,dancehall
-199,7ihWJfl0tB31F46fMiAVBZ,Shekini,P-Square,Double Trouble,P-Square,218165,0,dancehall
-200,7lJtRbSmuXwzoeFbtrYHzr,Can't Relate,Omah Lay,What Have We Done,Omah Lay,183640,1,dancehall
-201,7pG2mohladBSpE6CqxFik5,Johnny,Yemi Alade,King Of Queens,Yemi Alade,236012,0,dancehall
-202,7rpWDu9GPlLxbLorYKVys7,Gbona,Burna Boy,African Giant,Burna Boy,187609,0,dancehall
-203,7u0z6FcJDqkZwdpqAqUzmO,Vibration,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,198461,0,dancehall
-204,7vQYsdVQMbB8d8DSxtHSgr,Power (Remember Who You Are) - From The Flipper’s Skate Heist Short Film,SPINALL;Äyanna;DJ Snake;Summer Walker,Power (Remember Who You Are) [From The Flipper’s Skate Heist Short Film],SPINALL,205530,0,dancehall
-205,7voSun33hCNkIrjxaj3g47,Peru - Remix,Fireboy DML;21 Savage;Blxst,Peru (Remix),Fireboy DML,186952,1,dancehall
-206,7xdHQUxVj0aOAvUOGLCYj3,Love My Baby,Wizkid,Superstar,Wizkid,246828,0,dancehall
-207,7xzMrUmlooPa1Fmp88hlYc,Sodade,Cesária Evora,Miss Perfumado,Cesária Evora,293640,0,world-music
-208,7yIsvwkZuWuskQrbtVWfrN,Tattoo,Fireboy DML,APOLLO,Fireboy DML,176842,0,dancehall
-209,000RDCYioLteXcutOjeweY,Teeje Week,Jordan Sandhu,Teeje Week,Jordan Sandhu,190203,0,hip-hop
-210,01AKiTk6iF60Kpvitd1Ih1,Astaghfirullah,MC STAN,Astaghfirullah,MC STAN,213333,1,hip-hop
-211,02Z90kqEwTvBQEOmP6jxyk,La La La (Reprise),Arjun Kanungo,La La La (Reprise),Arjun Kanungo,146666,0,hip-hop
-212,04VUjNx30IrigVZU3CQmrQ,Mercy,Badshah,ONE (Original Never Ends),Badshah,162404,0,hip-hop
-213,05REArTDZQd59A9Y4XC0Aq,Maine Khud Ko,Mustafa Zahid,Ragini Mms 2,Mustafa Zahid,329072,0,hip-hop
-214,05sqcYfU2wMlKwPVJ0rotq,Afsanay,Young Stunners;Talha Anjum;Talhah Yunus,Afsanay,Young Stunners,343118,0,hip-hop
-215,08Isz2ETWSBhvIl8UpKYsp,No Love,Shubh,No Love,Shubh,170387,0,hip-hop
-216,08j9wzt7Q9Ucq1IrpD4GVq,Machayenge,Emiway Bantai,Machayenge,Emiway Bantai,153077,0,hip-hop
-217,0BV0AYGLVlu2SdjN3J9twp,Fed Up,Ghostemane,ANTI-ICON,Ghostemane,151625,1,hip-hop
-218,0C4KChnQFHNgtjbppUFooH,Dirty Little Secret,Zack Knight;Nora Fatehi,Dirty Little Secret,Zack Knight,183092,0,hip-hop
-219,0F7FA14euOIX8KcbEturGH,Old Town Road,Lil Nas X,7 EP,Lil Nas X,113000,0,hip-hop
-220,0FoAlOXHI6KJ4RHP9v8jnw,Baby Girl,Guru Randhawa;Dhvani Bhanushali,Baby Girl,Guru Randhawa,207493,0,hip-hop
-221,0Fs9cdPDhptWEDJmiCbkEW,She Knows (feat. Amber Coffman & Cults),J. Cole;Cults;Amber Coffman,Born Sinner (Deluxe Version),J. Cole,296520,1,hip-hop
-222,0HTb4JfMtMkMYUtyd19In3,Baari,Bilal Saeed;Momina Mustehsan,Baari,Bilal Saeed,235297,0,hip-hop
-223,0I9RbCJItXY1jxGIAsQT0t,Jalsa Jalsa,Baba Sehgal;Rita,Jalsa,Baba Sehgal,258384,0,hip-hop
-224,0Id2IzhR3w50aP2PHfMUE3,Nira Ishq,Guri,Nira Ishq,Guri,181514,0,hip-hop
-225,0JBnAsReYppHqCZJbqy5H8,SYL,Sidhu Moose Wala,SYL,Sidhu Moose Wala,249662,0,hip-hop
-226,0JP9xo3adEtGSdUEISiszL,Moonlight,XXXTENTACION,?,XXXTENTACION,135090,1,hip-hop
-227,0M4HcGtxIWVVH4rSNp6XhQ,Dejalo,King,Champagne Talk,King,202826,0,hip-hop
-228,0MHiYjjcHNYM9KURa6NveF,"Manavaalan Thug - From ""Thallumaala""",Dabzee;SA,"Manavaalan Thug (From ""Thallumaala"")",Dabzee,200000,0,hip-hop
-229,0MRg2bzlVhGQTi4ecu792k,Vardaan,Ajey Nagar (CarryMinati);Wily Frenzy,Vardaan,Ajey Nagar (CarryMinati),202105,0,hip-hop
-230,0MYof8K1RPjc1Htnr7CDa6,Snake,MC STAN,Snake,MC STAN,281088,0,hip-hop
-231,0OvC1QkWdBI3ORrp2lEhNO,Pind Da Riwaaz,Wazir Patar;Azaad,Keep It Gangsta,Wazir Patar,188181,1,hip-hop
-232,0PcbVYxqG9Gx5vkEomupjJ,Band Theke,Jordan Sandhu,Band Theke,Jordan Sandhu,187835,0,hip-hop
-233,0QHEWicUbdyWuHsMcVd1Ka,"Chaar Botal Vodka (From ""Ragini Mms 2"")",Yo Yo Honey Singh,Yo Yo Honey Singh Is Back,Yo Yo Honey Singh,225837,0,hip-hop
-234,0RFxx8rwddnW4j9COvLmGK,Dilaan De Rajya,Maninder Buttar,Dilaan De Rajya,Maninder Buttar,122336,0,hip-hop
-235,0RGp4KA9wvndxqPIWoKwnD,Yalgaar,Ajey Nagar (CarryMinati);Wily Frenzy,Yalgaar (Original),Ajey Nagar (CarryMinati),195652,0,hip-hop
-236,0RRPAATvIWbP1BsvCaOYsO,Dracula,King,The Carnival,King,182400,0,hip-hop
-237,0SlwcOEjRSEdkOD7DRcPvg,Blood Talks,Jordan Sandhu;Zikar Sandhu,Blood Talks,Jordan Sandhu,188000,0,hip-hop
-238,0TYsZbl0ryJSUvyQeeLBRG,Aj Kal Ve,Sidhu Moose Wala,Snitches Get Stitches,Sidhu Moose Wala,203720,0,hip-hop
-239,0TeH0rRFmef6eqk86MPyUA,MACHAYENGE 4,Emiway Bantai,MACHAYENGE 4,Emiway Bantai,620320,1,hip-hop
-240,0TzpHT6hJ5pb3P6CqIduh3,Bt Ho Gayi,Paradox,Hustle 2.0,Paradox,160851,0,hip-hop
-241,0U8fm89VKJwDYa0mzh6foW,Badmos Chora,MC SQUARE,Hustle 2.0,MC SQUARE,144000,0,hip-hop
-242,0VgkVdmE4gld66l8iyGjgx,Mask Off,Future,FUTURE,Future,204600,1,hip-hop
-243,0WNCYgCd33LnBnw22WFuq8,Bhula Dena,Mustafa Zahid,Aashiqui 2,Mustafa Zahid,240723,0,hip-hop
-244,0YLSjVxSb5FT1Bo8Tnxr8j,Baaraat,Ritviz;Nucleya,Baaraat,Ritviz,222096,0,hip-hop
-245,0Yzg5gttgeusAFIDCNPR77,Dope Shope,Yo Yo Honey Singh;Deep Money,Chaar Ikke,Yo Yo Honey Singh,211764,0,hip-hop
-246,0Z2SFlnXH9yMN36djUeqyE,Fuck Em All,Sidhu Moose Wala;Sunny Malton,Fuck Em All,Sidhu Moose Wala,234130,1,hip-hop
-247,0a6zRnrjmaOcqsEIFkXIhw,Khaab,Akhil,Khaab,Akhil,201689,0,hip-hop
-248,0cHjQQFedPu64QoHmJdUlu,8 Cylinder,Sidhu Moose Wala,8 Cylinder,Sidhu Moose Wala,188780,0,hip-hop
-249,0cpyy8xLYRt1OdlnqPmMnm,Majhail,AP Dhillon;Gurinder Gill;Manni Sandhu,Majhail,AP Dhillon,175187,0,hip-hop
-250,0e8nrvls4Qqv5Rfa2UhqmO,THATS WHAT I WANT,Lil Nas X,MONTERO,Lil Nas X,143901,1,hip-hop
-251,0e9DDb2TnNwSv8lV1EpMuD,Notorious,Wazir Patar,Notorious,Wazir Patar,180000,1,hip-hop
-252,0eFNR4nWuhgvBw6vSDyVHj,Jatt Life,Varinder Brar,Jatt Life,Varinder Brar,242772,0,hip-hop
-253,0eu4C55hL6x29mmeAjytzC,Life Goes On,Oliver Tree,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",Oliver Tree,161803,0,hip-hop
-254,0fGclndst25Qqy8j4u5De5,"Chellamma (From ""Doctor"")",Anirudh Ravichander;Jonita Gandhi,"Chellamma (From ""Doctor"")",Anirudh Ravichander,236500,0,hip-hop
-255,0fX4oNGBWO3dSGUZcVdVV2,N95,Kendrick Lamar,Mr. Morale & The Big Steppers,Kendrick Lamar,195950,1,hip-hop
-256,0gmEt2nKOssVRStyUmjSpE,Jaadugar,Paradox,Hustle 2.0,Paradox,192000,0,hip-hop
-257,0gzu5mm36VJH2Zqu8sQPTf,Genda Phool (feat. Payal Dev),Badshah;Payal Dev,Genda Phool (feat. Payal Dev),Badshah,170769,0,hip-hop
-258,0hAMknym1ZPciljhPuX8pl,Its All About You,Sidhu Moose Wala,Its All About You,Sidhu Moose Wala,243157,0,hip-hop
-259,0iJPMG79hgWnDHjufnoplb,Porkanda Singam EDM Version (Additional Song),Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,149433,0,hip-hop
-260,0kzmBBR1Jjx5zBZKx9lsJr,Legend,Sidhu Moose Wala,Legend,Sidhu Moose Wala,278622,0,hip-hop
-261,0l1i3nJ4aDMk0inxnvzYTz,Amplifier,Imran Khan,Amplifier,Imran Khan,232906,0,hip-hop
-262,0mvcsYusnTYlAkOZ077lDb,Ghana Kasoota (feat. Surbhi Jyoti),Raftaar;Rashmeet Kaur;Surbhi Jyoti,Ghana Kasoota (feat. Surbhi Jyoti),Raftaar,168640,0,hip-hop
-263,0obvnPQaTe8fRAQHWyOWBv,Pathala Pathala,Anirudh Ravichander;Kamal Haasan,Vikram (Original Motion Picture Soundtrack),Anirudh Ravichander,211384,0,hip-hop
-264,0pM7PCxuclmb1qsjTqt6WX,Nenjinile Rebirth,Chris G.;Mc Sai;Sahi Siva,Nenjinile Rebirth,Chris G.,215800,0,hip-hop
-265,0pPMSxTHDxROblb7yID8Ar,Иса,Andro,MOON FLAME,Andro,159529,0,hip-hop
-266,0qvoxfYodIfe14gaidhnsV,Andha Kanna Paathaakaa,Anirudh Ravichander;Yuvan Shankar Raja,Master (Original Motion Picture Soundtrack),Anirudh Ravichander,194500,0,hip-hop
-267,0sSapNABKrGwgaMhn0p8uL,Long Drive,Mika Singh,Khiladi 786,Mika Singh,268442,0,hip-hop
-268,0t0mHozF8Xsif9w8bemh9D,"So Baby (From ""Doctor"")",Anirudh Ravichander;Ananthakrrishnan,"So Baby (From ""Doctor"")",Anirudh Ravichander,252631,0,hip-hop
-269,0uk9sQ7MjK0CdAUinD4xBV,Ek Din Pyaar,MC STAN,Tadipaar,MC STAN,186600,1,hip-hop
-270,0usNFsDDoVMYVE732zM3QI,KR L$DA SIGN,Emiway Bantai,KR L$DA SIGN,Emiway Bantai,492160,1,hip-hop
-271,0wGrTrI43CKmfzbFNNhftb,East Side Flow,Sidhu Moose Wala,East Side Flow,Sidhu Moose Wala,224211,0,hip-hop
-272,0wgOTeDbMblOxncPcXLCvf,Ghost Unmasked - Background Score,Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,74410,0,hip-hop
-273,0xttqqTj7ZAGyVkfOYxQ4F,Nee Paartha Vizhigal - The Touch of Love,Anirudh Ravichander;Vijay Yesudas;Shweta Mohan,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,264506,0,hip-hop
-274,0yCWDaAgOtg6TKlNCg9rwA,Tu Aake Dekhle,King,The Carnival,King,270000,0,hip-hop
-275,0ydyIEJ02X3kcZ6Bop6sHO,Sohne Lagde,Sidhu Moose Wala;The PropheC,Sohne Lagde,Sidhu Moose Wala,209453,0,hip-hop
-276,0zsA45R0SQPfqC5TyDOqY8,Neeyum Naanum Anbe,Hiphop Tamizha;Raghu Dixit;Sathyaprakash D.;Jithin Raj,Imaikkaa Nodigal (Original Motion Picture Soundtrack),Hiphop Tamizha,285250,0,hip-hop
-277,12D1SCxBRDjbROUa5GQkf1,Usuraiya Tholaichaen,Stephen Zechariah;Pragathi Guruprasad,Usuraiya Tholaichaen,Stephen Zechariah,339442,0,hip-hop
-278,12LE4Omy9ze8xTOMofMVB3,"Porkanda Singam (EDM Version) [From ""Vikram""]",Anirudh Ravichander,"Porkanda Singam (EDM Version) [From ""Vikram""]",Anirudh Ravichander,149433,0,hip-hop
-279,12V0iduYsoXxsQYTSeFB2H,Viah,Jass Manak,Age 19,Jass Manak,162441,0,hip-hop
-280,12afGworQ5MJaw8M8hBd9b,Yaar Beli,Guri,Yaar Beli,Guri,211796,0,hip-hop
-281,1418IuVKQPTYqt7QNJ9RXN,Maan Meri Jaan,King,Champagne Talk,King,194653,0,hip-hop
-282,15JINEqzVMv3SvJTAXAKED,Love The Way You Lie,Eminem;Rihanna,Recovery,Eminem,263373,1,hip-hop
-283,16xg7UwH9hbs96vCD8k6bC,GRIND,Emiway Bantai,GRIND,Emiway Bantai,175449,0,hip-hop
-284,18oO0TSyS9lIW9sioZyCNN,Aankhein,Vilen,Aankhein,Vilen,219428,0,hip-hop
-285,19EZKr7Kf0XWCcspyWL8Rp,Celebrity Killer (feat. Tion Wayne),Sidhu Moose Wala;Tion Wayne,Moosetape,Sidhu Moose Wala,203333,0,hip-hop
-286,1C5e7ZRscn79tjMEc3swc7,Kangna,Dr Zeus;Master Rakesh;Shortie;Deepti,Unda Da Influence,Dr Zeus,210680,0,hip-hop
-287,1CYn0jiSz0gubTpYJbuTMS,Uchiyaan Dewaraan,Bilal Saeed;Momina Mustehsan,Uchiyaan Dewaraan,Bilal Saeed,227976,0,hip-hop
-288,1DIXPcTDzTj8ZMHt3PDt8p,Gangsta's Paradise,Coolio;L.V.,Gangsta's Paradise,Coolio,240693,0,hip-hop
-289,1FdbP9ZAcqQnOcda55boaL,Billian Billian,Guri,Billian Billian,Guri,177600,0,hip-hop
-290,1Hdz67JES35Z4h3Yd4PXvV,Bimbilikki Pilapi,Anirudh Ravichander;Ramya Behra;Sahithi Chaganti,Prince (Tamil),Anirudh Ravichander,247000,0,hip-hop
-291,1J9OoW4eLxIjwo10lBB83x,Broke Is A Joke,MC STAN,Broke Is A Joke,MC STAN,215409,1,hip-hop
-292,1JxGjonVZMfWUxorsVLYQQ,Pind Hood Damn Good (RMG Intro),Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,75000,0,hip-hop
-293,1LFTKTSfPQRM3a8mOvNtnE,Ethir Neechal,Anirudh Ravichander;Yo Yo Honey Singh;Hiphop Tamizha,Ethir Neechal (Original Motion Picture Soundtrack),Anirudh Ravichander,270720,0,hip-hop
-294,1MGvSryQcSR7zsNG4lQOjN,Lil Bunty,KR$NA,Lil Bunty,KR$NA,192000,1,hip-hop
-295,1O00WM9qGLUBA5gq2yw0WF,Bloodlust (feat. Mr. Capone-E),Sidhu Moose Wala;Mr. Capone-E,No Name,Sidhu Moose Wala,159085,0,hip-hop
-296,1O3WfEwaSpsgZ6tw8jNT8I,Maana Ke Hum Yaar Nahin,Sachin-Jigar;Parineeti Chopra;Kausar Munir,Meri Pyaari Bindu,Sachin-Jigar,264614,0,hip-hop
-297,1PaxAUxLEVpi75l0nDtwu1,Sakkarakatti,Hiphop Tamizha,Meesaya Murukku (Original Motion Picture Soundtrack),Hiphop Tamizha,189358,0,hip-hop
-298,1PckUlxKqWQs3RlWXVBLw3,About Damn Time,Lizzo,About Damn Time,Lizzo,191822,1,hip-hop
-299,1QZRCi2Z1DQQaR6bGAzhtN,Love Dose,Yo Yo Honey Singh,Desi Kalakaar,Yo Yo Honey Singh,224444,0,hip-hop
-300,1SC5rEoYDGUK4NfG82494W,MONTERO (Call Me By Your Name),Lil Nas X,MONTERO,Lil Nas X,137704,1,hip-hop
-301,1SFwLNaHkV8WhW3ud1GBIJ,Hanji Hanji,Amrit Maan;The PropheC,Hanji Hanji,Amrit Maan,214459,0,hip-hop
-302,1TRgZ55GFCKSbrTb62rmra,No Competition,Jass Manak;DIVINE,No Competition,Jass Manak,205500,0,hip-hop
-303,1UUgngRGzFWfgpyN0WAN1r,"Naan Pizhai (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander;Ravi G;Shashaa Tirupati,"Naan Pizhai (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander,243570,0,hip-hop
-304,1VvGJIAjhGdB7InVP9NA7V,Haareya,Sachin-Jigar;Arijit Singh;Priya Saraiya,Meri Pyaari Bindu,Sachin-Jigar,214735,0,hip-hop
-305,1W1dS4VnIrYnllQJ3CAcZy,So High,Sidhu Moose Wala,So High,Sidhu Moose Wala,218666,0,hip-hop
-306,1XWCqa4qi714D7THtTk4Xk,Tera Mera Viah,Jass Manak,Tera Mera Viah,Jass Manak,197142,0,hip-hop
-307,1XdUEm2MwB6ysy6E80ltMg,No Cap,KR$NA,No Cap,KR$NA,205423,1,hip-hop
-308,1ZMq0qzXfGnFo7BN03yddJ,Ilzaam (From the Album 'Industry'),Arjun Kanungo;King,Ilzaam (From the Album 'Industry'),Arjun Kanungo,247374,0,hip-hop
-309,1a9fgoiGXoWmaFm60n1YeK,Laal Bindi,Akull,Holi Party With Akull,Akull,202963,0,hip-hop
-310,1aL9518P5G72N92b48tuKw,Summer High,AP Dhillon,Summer High,AP Dhillon,177391,0,hip-hop
-311,1aQ58u4guUf999iQX3J2HF,"Beast Mode (From ""Beast"")",Anirudh Ravichander,"Beast Mode (From ""Beast"")",Anirudh Ravichander,220350,0,hip-hop
-312,1aUfggX5E0nKDikNuiDQ3D,Ishq Tera,Guru Randhawa,Ishq Tera,Guru Randhawa,211931,0,hip-hop
-313,1cQQk3EyZsWrbIzRBz68P9,Me and My Girlfriend,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,203544,0,hip-hop
-314,1fewSx2d5KIZ04wsooEBOz,Space Cadet (feat. Gunna),Metro Boomin;Gunna,NOT ALL HEROES WEAR CAPES (Deluxe),Metro Boomin,203266,1,hip-hop
-315,1gwu4J4HIbbQrPUHHRc415,Chup Chup,Wazir Patar;Roop Bhullar,Keep It Gangsta,Wazir Patar,155714,0,hip-hop
-316,1iKqYeWSuNtpiv1L9IGAbB,"Hathyar - From ""Sikander 2""",Sidhu Moose Wala;The Kidd,"Hathyar (From ""Sikander 2"")",Sidhu Moose Wala,276279,0,hip-hop
-317,1kJL5ouqpWRitSej8fdTor,GOAT,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,214883,0,hip-hop
-318,1lIb7Ze8PHhWwdXDtPF00j,"Jailaan (From ""Moosa Jatt"")",Sidhu Moose Wala,"Jailaan (From ""Moosa Jatt"")",Sidhu Moose Wala,178604,0,hip-hop
-319,1n1b2lwdRdWF5RAaA0vewk,Aahun Aahun,Neeraj Shridhar;Master Saleem;Suzi Q,Love Aaj Kal (Original Motion Picture Soundtrack),Neeraj Shridhar,290493,0,hip-hop
-320,1orM67pmkNc4alrZkWjYkV,Naach Meri Rani,Guru Randhawa;Nikhita Gandhi;Tanishk Bagchi;Nora Fatehi,Naach Meri Rani,Guru Randhawa,212692,0,hip-hop
-321,1ozrNv9W4KlprAmvgH0Yrq,"High Rated Gabru (From ""Nawabzaade"")",Guru Randhawa,"High Rated Gabru (From ""Nawabzaade"")",Guru Randhawa,179099,0,hip-hop
-322,1pFOGFtQyqdlFgzmSVJ2fz,Adore You,Prabh Gill,Adore You,Prabh Gill,60000,0,hip-hop
-323,1pLKHyfC7VPp7NPJqwxzMp,Gang wale munde,Paradox,Hustle 2.0,Paradox,153000,0,hip-hop
-324,1pW5BQT2ltq0NPSlbkev0v,Pablo,King,Pablo,King,279120,1,hip-hop
-325,1qrAgbcxQpeaDv4ptgjl9e,Shinin',Tegi Pannu;Manni Sandhu,Shinin',Tegi Pannu,195699,0,hip-hop
-326,1r8ZCjfrQxoy2wVaBUbpwg,Thousand Miles,The Kid LAROI,Thousand Miles,The Kid LAROI,164781,1,hip-hop
-327,1rDQ4oMwGJI7B4tovsBOxc,First Class,Jack Harlow,First Class,Jack Harlow,173947,1,hip-hop
-328,1rDQJd8kzwBRXeoTtojkQn,Roz,Ritviz;Nucleya,Baaraat,Ritviz,219240,0,hip-hop
-329,1skGwRjc7wYY70PJCAkKMr,Love Sick (feat. AR Paisley),Sidhu Moose Wala;AR Paisley,No Name,Sidhu Moose Wala,232258,0,hip-hop
-330,1sroeVHD561J3z28gphnlf,Tibeyan Da Putt,Sidhu Moose Wala,Tibeyan Da Putt,Sidhu Moose Wala,308571,0,hip-hop
-331,1sxh0eqIb8ulYypPuq6ZRu,"Bhaag D.K. Bose, Aandhi Aayi",Ram Sampath,Delhi Belly (Original Motion Picture Soundtrack),Ram Sampath,241304,0,hip-hop
-332,1t25hKpVYInuzw2opW97yJ,Lethal,Rav Aulakh,Lethal,Rav Aulakh,151128,0,hip-hop
-333,1tEto4JrqNmBZFH5uAiYqb,Sadi Gali,Lehmber Hussainpuri,Tanu Weds Manu,Lehmber Hussainpuri,264900,0,hip-hop
-334,1tzMa1ma7O05lIgr4XKia8,angels,HRJXT;Intense,Twenty Two,HRJXT,204545,0,hip-hop
-335,1v7L65Lzy0j0vdpRjJewt1,"Lose Yourself - From ""8 Mile"" Soundtrack",Eminem,Just Lose It,Eminem,322226,1,hip-hop
-336,1v8NfOckFEnck9gp7iyetm,Bachalo,Akhil,Bachalo,Akhil,165108,0,hip-hop
-337,1vDK1yoxF0mOkckgDfPDj2,Baazi,King,Baazi,King,208800,0,hip-hop
-338,1vSXwYeKnzsVvekSpqVabx,Chikni Chameli,Ajay-Atul;Shreya Ghoshal,Agneepath (Original Motion Picture Soundtrack),Ajay-Atul,301586,0,hip-hop
-339,1vnDu8pbmwz88G6RDugerQ,Kannuladha - The Kiss of Love,Anirudh Ravichander;Dhanush;Shruti Haasan,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,206253,0,hip-hop
-340,1w3exvIgbRFV2ijf6qyWm8,Everybody Hurts,Sidhu Moose Wala,No Name,Sidhu Moose Wala,173333,0,hip-hop
-341,1xSCr5uIndaHKFdO4s2V6B,Satya,DIVINE,Punya Paap,DIVINE,182640,1,hip-hop
-342,1xoQjCAP6a63tZXbsMziXk,Bombay to Punjab,Deep Jandu;DIVINE,Down to Earth,Deep Jandu,243297,0,hip-hop
-343,1zAkNzJZVPrWDCnowb1vpZ,Oh Penne,Anirudh Ravichander;Vishal Dadlani,Vanakkam Chennai (Original Motion Picture Soundtrack),Anirudh Ravichander,276400,0,hip-hop
-344,1zPlQih67ZvC3Xp6c2dxUI,Who Am I ?,Arivu,Prince (Tamil),Arivu,243000,0,hip-hop
-345,1zi7xx7UVEFkmKfv06H8x0,One Dance,Drake;Wizkid;Kyla,Views,Drake,173986,0,hip-hop
-346,209pScL6fUhISxcLWkB6rf,Lokiverse - Background Score,Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,156330,0,hip-hop
-347,20tnxv4NAzTCayQQln3EZP,Dhakka,Sidhu Moose Wala;Afsana Khan,Dhakka,Sidhu Moose Wala,246818,0,hip-hop
-348,2109dBho14Lqh2wr8goqAP,Enna Solla - The New Life of Tamizh,Anirudh Ravichander;Shweta Mohan,Thangamagan (Original Motion Picture Soundtrack),Anirudh Ravichander,215999,0,hip-hop
-349,21bFBk0oi19JQzHJoifZSn,Allah Maaf Kre,Amrit Maan;Tehjeeb Hafi,Allah Maaf Kre,Amrit Maan,210000,0,hip-hop
-350,22kRCQPyNXWZSQEcDvCmGD,Gulabi,Sachin-Jigar;Priya Saraiya;Jaideep Sahni,Shuddh Desi Romance,Sachin-Jigar,230661,0,hip-hop
-351,24GlSNySJ9tAwkvZPuVb63,Udhungada Sangu,Anirudh Ravichander,Velai Illa Pattadhaari (Original Motion Picture Soundtrack),Anirudh Ravichander,209640,0,hip-hop
-352,24MVilhtBOg06UxlnNOonf,Bekaar,Vilen,Bekaar,Vilen,197307,0,hip-hop
-353,27NovPIUIRrOZoCHxABJwK,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X;Jack Harlow,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,212000,1,hip-hop
-354,27OeeYzk6klgBh83TSvGMA,WITHOUT YOU,The Kid LAROI,F*CK LOVE (SAVAGE),The Kid LAROI,161384,1,hip-hop
-355,27ZZdyTSQWI7Cug2d2PkqV,BILLIE EILISH.,Armani White,BILLIE EILISH.,Armani White,99282,1,hip-hop
-356,298atiKYvG84VfbXNbZiX5,Adhoore,Vishal Dadlani;Alyssa Mendonsa,Break Ke Baad,Vishal Dadlani,264210,0,hip-hop
-357,29m79w9xPMH4YCD6r8JSmV,Excuses,AP Dhillon;Gurinder Gill;Intense,Excuses,AP Dhillon,176232,0,hip-hop
-358,2AilvPt1AQ8PixlCKqkjfj,Elevated,Shubh,Elevated,Shubh,200658,1,hip-hop
-359,2BcPFQ7nrtUObgAs72xaac,Vaathi Coming,Anirudh Ravichander;Gana Balachandar,Master (Original Motion Picture Soundtrack),Anirudh Ravichander,228257,0,hip-hop
-360,2E2G88mTTJjbbmEpqTkbaV,Tu Meri,Vishal Dadlani,Bang Bang (Original Motion Picture Soundtrack),Vishal Dadlani,257089,0,hip-hop
-361,2GDWnzRp5wsBXMBtR25dzv,Sira E Hou,Amrit Maan;Nimrat Khaira,All Bamb,Amrit Maan,200769,0,hip-hop
-362,2J2da9welNmoeeBDLl9fUk,Aroma,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,256909,0,hip-hop
-363,2JHX4L5wNhzxVMPwc7UMAw,Na Ja Tu,King,Champagne Talk,King,202105,0,hip-hop
-364,2JzZzZUQj3Qff7wapcbKjc,See You Again (feat. Charlie Puth),Wiz Khalifa;Charlie Puth,See You Again (feat. Charlie Puth),Wiz Khalifa,229525,0,hip-hop
-365,2KJUr9U6a3balnh1W7hDwZ,Issa Jatt,Sidhu Moose Wala;Sunny Malton,Issa Jatt,Sidhu Moose Wala,232000,0,hip-hop
-366,2MwCoo4GeXpi8soWn9EiPo,Kannazhaga - The Kiss of Love,Anirudh Ravichander;Dhanush;Shruti Haasan,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,205946,0,hip-hop
-367,2N0oWy78RT70bW10QfIVHT,Top Boy,AP Dhillon,Top Boy,AP Dhillon,136941,0,hip-hop
-368,2NBYiYtI4v1ujkhHZBq3xw,Invincible (feat. Stefflon Don),Sidhu Moose Wala;Stefflon Don,Moosetape,Sidhu Moose Wala,244444,0,hip-hop
-369,2NTVtNcpC0i1R7LVGaCZCF,Jugnu,Badshah;Nikhita Gandhi,Jugnu,Badshah,230400,0,hip-hop
-370,2OKo7g3KfmCt3kyLvUAL0g,The Search,NF,The Search,NF,248040,0,hip-hop
-371,2PEo8JQ48mfEv8a2HLqDvt,"Nadiyon Paar (Let the Music Play Again) (From ""Roohi"")",Sachin-Jigar;Rashmeet Kaur;Shamur;IP Singh,"Nadiyon Paar (Let the Music Play Again) [From ""Roohi""]",Sachin-Jigar,164045,0,hip-hop
-372,2PcGqmKToUz0s65q1Acg7d,SPACESHIP,AP Dhillon;Shinda Kahlon;Gminxr,HIDDEN GEMS,AP Dhillon,124498,0,hip-hop
-373,2PxZSFOv7RebkeSEwQTjr7,Tera Mera Rishta,Mustafa Zahid,Awarapan (Original Soundtrack),Mustafa Zahid,347040,0,hip-hop
-374,2QkUgk0UgTYBViwZKN0l3H,Famous,Sidhu Moose Wala;Intense,Famous,Sidhu Moose Wala,249782,0,hip-hop
-375,2RB3zzgxWc2RRBaJOkSEka,Senjitaley,Anirudh Ravichander,Remo (Original Motion Picture Soundtrack),Anirudh Ravichander,251333,0,hip-hop
-376,2RBkVQwpkDeYytMTQwjyTk,Baaki Baatein Peene Baad (Shots) (feat. Badshah),Arjun Kanungo;Badshah,Baaki Baatein Peene Baad (Shots) (feat. Badshah),Arjun Kanungo,220312,0,hip-hop
-377,2SazZ5d4m9G5IWu5xdMjZf,Satisfy,Sidhu Moose Wala;Shooter Kahlon,Satisfy,Sidhu Moose Wala,280464,0,hip-hop
-378,2UKK9UEbKlykbmLVP1zWIQ,Haule Haule,Sukhwinder Singh,Rab Ne Bana Di Jodi (Original),Sukhwinder Singh,263967,0,hip-hop
-379,2Uik6DjW1n5CWbRNdZilV5,Death Route,Sidhu Moose Wala,Pbx 1,Sidhu Moose Wala,217520,0,hip-hop
-380,2V52mICuJnWB3C4lrJZd7v,Youngest In Charge,Sidhu Moose Wala;Sunny Malton,Youngest In Charge,Sidhu Moose Wala,198409,0,hip-hop
-381,2VGs7EmaIxq96Wcog6DQOc,Why This Kolaveri Di? - The Soup of Love,Anirudh Ravichander;Dhanush,Why This Kolaveri Di? (The Soup of Love),Anirudh Ravichander,259293,0,hip-hop
-382,2Wu9PNpLUCBl3W1GaPqkhl,"Morni Banke (From ""Badhaai Ho"")",Guru Randhawa;Neha Kakkar;Tanishk Bagchi;Panjabi MC,"Morni Banke (From ""Badhaai Ho"")",Guru Randhawa,198025,0,hip-hop
-383,2YMlGrhVHdbXeDejv0R77R,Together Forever,Yo Yo Honey Singh,Together Forever,Yo Yo Honey Singh,229218,0,hip-hop
-384,2YpeDb67231RjR0MgVLzsG,Old Town Road - Remix,Lil Nas X;Billy Ray Cyrus,7 EP,Lil Nas X,157066,0,hip-hop
-385,2ZRo7axmMPeSVUvDbGkJah,Hope,XXXTENTACION,?,XXXTENTACION,110886,1,hip-hop
-386,2a7zxjZ1I88Z6sYm0ThuSc,Black Effect,Jordan Sandhu;Mehar Vaani;Desi Crew,Black Effect,Jordan Sandhu,175890,0,hip-hop
-387,2cVJDlu9jmkPUeuJxA6v8i,"Master the Blaster (From ""Master"")",Anirudh Ravichander;Bjorn Surrao,"Master the Blaster (From ""Master"")",Anirudh Ravichander,92250,0,hip-hop
-388,2ccThCjEt1t1SF72mP7as2,Few Days,Amantej Hundal;Karan Aujla,Few Days,Amantej Hundal,177391,0,hip-hop
-389,2dpMdklbSc5CmZ3ijhknZ5,Wasted,Anirudh Ravichander,Vikram (Original Motion Picture Soundtrack),Anirudh Ravichander,182608,0,hip-hop
-390,2e1tIq1uwyKO2oeLQOqaXs,One Side,DIVINE,One Side,DIVINE,161839,0,hip-hop
-391,2erjvSbTPKGalbZZhPgcCL,Dawood,Sidhu Moose Wala,Pbx 1,Sidhu Moose Wala,197102,0,hip-hop
-392,2fsPrE2NYiHOHPMuWbjvTj,Ramta Jogi,Sukhwinder Singh;Alka Yagnik,Taal (Original Motion Picture Soundtrack),Sukhwinder Singh,377000,0,hip-hop
-393,2g6tReTlM2Akp41g0HaeXN,Die Hard,Kendrick Lamar;Blxst;Amanda Reifer,Mr. Morale & The Big Steppers,Kendrick Lamar,239026,1,hip-hop
-394,2gNC2UZGVSK0iW4Ymc56na,Devil,Sidhu Moose Wala,Pbx 1,Sidhu Moose Wala,245524,0,hip-hop
-395,2gNMXJDKRmKWuevBGjN8wo,3:59 AM,DIVINE,Punya Paap,DIVINE,272197,1,hip-hop
-396,2gp0OtnltLdrcNhKHVL2qM,Nee Nenacha,Hiphop Tamizha;Sid Sriram,Mr. Local (Original Motion Picture Soundtrack),Hiphop Tamizha,268683,0,hip-hop
-397,2hDMBVN3P47GEhH5VtmA6m,Untouchable,Tegi Pannu;Manni Sandhu,Untouchable,Tegi Pannu,153210,0,hip-hop
-398,2hTn8oS49IQULxAWs7hEBz,Sakhiyan2.0,Maninder Buttar;Zahrah S Khan;Tanishk Bagchi,Sakhiyan2.0 - BellBottom,Maninder Buttar,177694,0,hip-hop
-399,2iNqdCchlUZEgjJbQyZf8T,Teri Deewani,Kailash Kher;Paresh Kamath;Naresh Kamath,Kailasa,Kailash Kher,323520,0,hip-hop
-400,2ikI9Y7PCPIavU0TMSpF31,Saza-E-Maut,KR$NA;Raftaar,Still Here,KR$NA,180000,0,hip-hop
-401,2jt9VV6QGn0tbwkrr26OO6,Arrogant,AP Dhillon;Shinda Kahlon;Gminxr,Arrogant,AP Dhillon,102315,0,hip-hop
-402,2kLFzLJgHtreNbNlbVzQy4,Jagga Jiteya,Daler Mehndi;Dee MC;Shashwat Sachdev,Uri - The Surgical Strike,Daler Mehndi,191489,0,hip-hop
-403,2kbxGCtWSV0f1ON720Bd4O,Don'u Don'u Don'u - The Don's Romance,Anirudh Ravichander;Alisha Thomas,Maari (Original Motion Picture Soundtrack),Anirudh Ravichander,195709,0,hip-hop
-404,2m49DOqdk0n4ofCEovrydG,Ye Mantramo,Bobo Shashi,Andala Rakshasi (Original Motion Picture Soundtrack),Bobo Shashi,167889,0,hip-hop
-405,2mKvEIvd912eg3FZ8WamMS,Bitch I'm Back,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,230400,1,hip-hop
-406,2mldMnu7kHSm4l5se4Zo7Y,Vikram Title Track - Telugu,Anirudh Ravichander;Prudhvi Chandra,Vikram Hitlist (Original Motion Picture Soundtrack),Anirudh Ravichander,218823,0,hip-hop
-407,2mwBSO58y92EYmEFpDfmS7,Suit Suit,Guru Randhawa;Arjun,Hits Of Guru Randhawa,Guru Randhawa,190131,0,hip-hop
-408,2oEHcVe21whTKWQBqRAYPp,"Halamithi Habibo (From ""Beast"")",Anirudh Ravichander;Jonita Gandhi,"Halamithi Habibo (From ""Beast"")",Anirudh Ravichander,279677,0,hip-hop
-409,2q0V50aNlI1RQXJyE5HDgD,"Odhani (From ""Made in China"")",Sachin-Jigar;Darshan Raval;Neha Kakkar,"Odhani (From ""Made in China"")",Sachin-Jigar,195397,0,hip-hop
-410,2qPNdVlqZl1cYqsNc3MXnA,Sher Aaya Sher,DIVINE;Major C,Gully Boy,DIVINE,134351,0,hip-hop
-411,2qgXrzJsry4KgYoJCpuaul,Choo Lo,The Local Train,Aalas Ka Pedh,The Local Train,233630,0,hip-hop
-412,2r32XiAWtZbT3eLUvf4pag,Jee Le Zaraa,Vishal Dadlani,Talaash,Vishal Dadlani,215202,0,hip-hop
-413,2tTmW7RDtMQtBk7m2rYeSw,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap;Quevedo,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,198937,0,hip-hop
-414,2tjWCe2W7sgvS3C8NHcdtI,"Duniyaa (From ""Luka Chuppi"")",Akhil;Dhvani Bhanushali;Abhijit Vaghani;Bob,"Duniyaa (From ""Luka Chuppi"")",Akhil,222500,0,hip-hop
-415,2uThc9fZx2BEL3t6uuRMO1,Cold Hours,aleemrk;Umair,Cold Hours,aleemrk,206117,0,hip-hop
-416,2vR23BjIzpLMtzsyKrM6Mb,Saiyyan,Kailash Kher;Paresh Kamath;Naresh Kamath,Kailasa Jhoomo Re,Kailash Kher,343906,0,hip-hop
-417,2vkNA9I029dTwX0y6d59Sc,"Dippam Dappam (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander;Anthony Daasan,"Dippam Dappam (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander,209032,0,hip-hop
-418,2wHTMZwkLbpM6LNkUBs2Xt,Calaboose,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,245200,0,hip-hop
-419,2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,Travis Scott,ASTROWORLD,Travis Scott,312820,1,hip-hop
-420,2zQE8TE5BQDJA11ggnope9,These Days (feat. Bohemia),Sidhu Moose Wala;Bohemia,Moosetape,Sidhu Moose Wala,209230,0,hip-hop
-421,2zVOFcdPAurQMbP1D6czwo,Amar Theme - Background Score,Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,148023,0,hip-hop
-422,322TxW77VZdX9gHynK5Xue,Aaj Na,Ritviz,Mimmi,Ritviz,193425,0,hip-hop
-423,32FVH23yFXr8Z0sfjRw4It,Wo Noor,AP Dhillon,Two Hearts Never Break The Same,AP Dhillon,199420,0,hip-hop
-424,32U1XMh3DKlm45uvpofhvY,Zaroorat,Mustafa Zahid,Ek Villain,Mustafa Zahid,368852,0,hip-hop
-425,342pJxy678kgQrZXCL9RG7,Urvashi,Yo Yo Honey Singh,Urvashi,Yo Yo Honey Singh,215483,0,hip-hop
-426,36cqlmc53NqlEUqPJdgUOx,US (feat. Raja Kumari),Sidhu Moose Wala;Raja Kumari,Moosetape,Sidhu Moose Wala,230068,0,hip-hop
-427,36ylvIx1fVaM4i5pux7Ea1,Emannavoo,Anirudh Ravichander;Shweta Mohan,Nava Manmadhudu (Original Motion Picture Soundtrack),Anirudh Ravichander,214765,0,hip-hop
-428,38T0tPVZHcPZyhtOcCP7pF,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,210575,1,hip-hop
-429,38nwBRjoNg7FeNsn7ebFOk,Yedhalo Oka Mounam - The Innocence of Love,Anirudh Ravichander;Ajesh,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,207026,0,hip-hop
-430,39QJ7KkN3L8LLqQqsO85W1,Saiyaan Ji,Yo Yo Honey Singh;Neha Kakkar;Nushrratt Bharuccha,Saiyaan Ji,Yo Yo Honey Singh,205450,0,hip-hop
-431,39ujbBjTwwqUFySaCYDMMT,Proper Patola,Badshah;Diljit Dosanjh;Aastha Gill,Namaste England (Original Motion Picture Soundtrack),Badshah,178604,0,hip-hop
-432,39vrbjCMTRXEdiIr2IsBgd,She Move It Like,Badshah,ONE (Original Never Ends),Badshah,181764,0,hip-hop
-433,3B4Wf3Fo11BXSuVPi1dtDO,Oh Oh - The First Love of Tamizh,Anirudh Ravichander;Dhanush;Nikhita Gandhi,Thangamagan (Original Motion Picture Soundtrack),Anirudh Ravichander,276705,0,hip-hop
-434,3B54sVLJ402zGa6Xm4YGNe,Unforgettable,French Montana;Swae Lee,Jungle Rules,French Montana,233901,1,hip-hop
-435,3BApUOeS8cihFTyoMKQTVk,Tabahi,Badshah,Tabahi,Badshah,168500,0,hip-hop
-436,3Blsc8iWj4LLgnCe0DhnU0,Bitch,MC STAN,Insaan,MC STAN,186666,1,hip-hop
-437,3D0pmiK3zyF9PudyJ8mkor,Ma Belle,AP Dhillon;Amari,Ma Belle,AP Dhillon,160824,0,hip-hop
-438,3Eb4VbsbXMpS5Mk9HWTDia,Chandigarh Mein,Badshah;Harrdy Sandhu;Lisa Mishra;Asees Kaur,"Chandigarh Mein (From ""Good Newwz"")",Badshah,205200,0,hip-hop
-439,3F0I9AkbRwz12yz7Hxn0bF,Oh Ho Ho Ho (Remix),Sukhbir;Ikka,Hindi Medium,Sukhbir,244416,0,hip-hop
-440,3F5CgOj3wFlRv51JsHbxhe,Jimmy Cooks (feat. 21 Savage),Drake;21 Savage,"Honestly, Nevermind",Drake,218364,1,hip-hop
-441,3FHl1QYu76zguwjqhqcglX,"Kar Har Maidaan Fateh (From ""Sanju"")",Sukhwinder Singh;Shreya Ghoshal;Vikram Montrose,"Kar Har Maidaan Fateh (From ""Sanju"")",Sukhwinder Singh,312157,0,hip-hop
-442,3Fr1WmziIKmhU9s5fNKZrQ,It Ain't Legal,Karan Aujla;Gurlez Akhtar,Bacthafu*up,Karan Aujla,214405,0,hip-hop
-443,3GCdLUSnKSMJhs4Tj6CV3s,All The Stars (with SZA),Kendrick Lamar;SZA,Black Panther The Album Music From And Inspired By,Kendrick Lamar,232186,1,hip-hop
-444,3GVkPk8mqxz0itaAriG1L7,Everybody Dies In Their Nightmares,XXXTENTACION,17,XXXTENTACION,95466,1,hip-hop
-445,3HHOY3hOZRJf1ORqNSDS8B,Black Matte,Jaura Phagwara;Enzo,Black Matte,Jaura Phagwara,214520,0,hip-hop
-446,3JkVYvxNoGf2HCWJo61462,Never Fold (feat. Sunny Malton),Sidhu Moose Wala;Sunny Malton,No Name,Sidhu Moose Wala,183225,0,hip-hop
-447,3K3mo4LoxPKk18oqIC3hQC,Udaarian,Satinder Sartaaj,Seasons of Sartaaj,Satinder Sartaaj,342585,0,hip-hop
-448,3LEMmV0BgtM7TaJk40PFZU,Dippam Dappam,Anirudh Ravichander;Anthony Daasan,Kaathuvaakula Rendu Kaadhal (Original Motion Picture Soundtrack),Anirudh Ravichander,209032,0,hip-hop
-449,3LlEnO0INKAExVe4JMi7p7,Khatam Hue Waande,Emiway Bantai,Khatam Hue Waande,Emiway Bantai,193882,0,hip-hop
-450,3NpbGCDrcQTERaZb5dHhd3,"Nain Ta Heere (From ""Jugjugg Jeeyo"")",Guru Randhawa;Asees Kaur,"Nain Ta Heere (From ""Jugjugg Jeeyo"")",Guru Randhawa,216328,0,hip-hop
-451,3OZr3vo7SmYpn5XqeQEAOM,Manali Trance,Yo Yo Honey Singh;Neha Kakkar,The Neha Kakkar Collection,Yo Yo Honey Singh,203206,0,hip-hop
-452,3Ofmpyhv5UAQ70mENzB277,Astronaut In The Ocean,Masked Wolf,Astronaut In The Ocean,Masked Wolf,132780,1,hip-hop
-453,3Oh2FwWbnKIAyUE2gToFYu,Blowing Up,KR$NA,Blowing Up,KR$NA,247272,1,hip-hop
-454,3Qm35fbJSuclok2fQB2rzZ,Moaning Theme - Background Score,Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,84650,0,hip-hop
-455,3T0oPETOdddxJ2xTt2qJe4,Aaya Na Tu,Arjun Kanungo;Momina Mustehsan,Aaya Na Tu,Arjun Kanungo,210000,0,hip-hop
-456,3UhmuWcFaLS3AO3kI9ynQ2,Insane,AP Dhillon;Shinda Kahlon;Gurinder Gill;Gminxr,Insane,AP Dhillon,206060,0,hip-hop
-457,3UmaczJpikHgJFyBTAJVoz,Stan,Eminem;Dido,The Marshall Mathers LP,Eminem,404106,1,hip-hop
-458,3Vb8KkT6Ub5fFGPYJCJyLh,Rolex Theme - Background Score,Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,53247,0,hip-hop
-459,3Vmo13MxVRKBszmfK61ONH,Gangsta,Karan Aujla;YG,Way Ahead,Karan Aujla,190153,1,hip-hop
-460,3X3BiiDYiPVIn5gEpO9HiF,Gustakhiyan,The Landers,Gustakhiyan,The Landers,152727,0,hip-hop
-461,3XyFQxpSlGowWpZkIn3ISA,One Two Three Four (Get On The Dance Floor),Vishal Dadlani;Hamsika Iyer,Chennai Express,Vishal Dadlani,228323,0,hip-hop
-462,3YV4Go0hpYXjGTGLJXjfda,"Sajna, Say Yes To The Dress",Badshah;Payal Dev,"Sajna, Say Yes To The Dress",Badshah,158055,0,hip-hop
-463,3YikBQVdIZ8azTBglbehVu,Jatti Jeone Morh Wargi,Sidhu Moose Wala;Sonam Bajwa,Jatti Jeone Morh Wargi,Sidhu Moose Wala,181333,0,hip-hop
-464,3bHI0o9TLQ2jJzjr0ES7dX,"Ishare Tere (From ""Ishare Tere"")",Guru Randhawa;Dhvani Bhanushali,High Rated Gabru - Guru Randhawa,Guru Randhawa,189151,0,hip-hop
-465,3ee8Jmje8o58CHK66QrVC2,SAD!,XXXTENTACION,?,XXXTENTACION,166605,1,hip-hop
-466,3eekarcy7kvN4yt5ZFzltW,HIGHEST IN THE ROOM,Travis Scott,HIGHEST IN THE ROOM,Travis Scott,175720,1,hip-hop
-467,3fPgIknlkDWXs1l2noKZbp,Kar Gayi Chull,Badshah;Amaal Mallik;Fazilpuria;Sukriti Kakar;Neha Kakkar,The Badshah of Party Hits,Badshah,187710,0,hip-hop
-468,3hVc5y5mbcIEPADRGGGru9,One Bottle Down,Yo Yo Honey Singh,One Bottle Down,Yo Yo Honey Singh,196556,0,hip-hop
-469,3jW0wb61ySku4gmORXuGDn,Deewana,Akhil,Deewana,Akhil,221044,0,hip-hop
-470,3k9PtGmPNnQtt32TKWm6f3,Basti Ka Hasti,MC STAN,Insaan,MC STAN,195428,1,hip-hop
-471,3kpYJjvM8Ja6btr5hEJLWc,Venom - Music From The Motion Picture,Eminem,Venom (Music From The Motion Picture),Eminem,269573,1,hip-hop
-472,3lRzVvMNG1QJcHlhLXM0lA,Signed to God,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,147741,0,hip-hop
-473,3mVpbUvLXvzPH2zL0p7Q2U,Burberry,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,203443,0,hip-hop
-474,3oWv5qDKYN7MH6FdlglMN5,Moon Rise,Guru Randhawa;Sanjoy,Man Of The Moon,Guru Randhawa,174056,0,hip-hop
-475,3sqRODOZ1Z6hR4F2tnFAlg,Sakhiyaan,Maninder Buttar,Sakhiyaan,Maninder Buttar,179325,0,hip-hop
-476,3uB2mkp8ovjiuJA734dbGe,Chalo Chalein,Ritviz;Seedhe Maut,Dev,Ritviz,184370,0,hip-hop
-477,3uHisD8WxXOYLaxeOl098L,Teri Khair Mangdi,Bilal Saeed,Baar Baar Dekho (Original Motion Picture Soundtrack),Bilal Saeed,225273,0,hip-hop
-478,3uZiNvBNQldjl4OJiKsuxe,Brothers Anthem,Ajay-Atul;Vishal Dadlani,Brothers (Original Motion Picture Soundtrack),Ajay-Atul,353676,0,hip-hop
-479,3ubdbuynat3QLfKtdtJ5BH,Sift,Bhalwaan;Signature By SB,Priceless,Bhalwaan,118762,0,hip-hop
-480,3wz2vWhYnnBoFmgMkqtzLy,Daku,Chani Nattan;Inderpal Moga,Daku,Chani Nattan,131077,0,hip-hop
-481,3yRLROmAcKJBqTrdEczFB8,Brown Rang,Yo Yo Honey Singh,International Villager,Yo Yo Honey Singh,211394,0,hip-hop
-482,3yfqSUWxFvZELEM4PmlwIR,The Real Slim Shady,Eminem,The Marshall Mathers LP,Eminem,284200,1,hip-hop
-483,3yiEaNgKJWN3gCfHfB8Q1u,Chances,AP Dhillon;Gurinder Gill;Money Musik,Not by Chance,AP Dhillon,172235,0,hip-hop
-484,3yqkV2Vd0u4l9lUnlaFNZT,Porkanda Singam,Anirudh Ravichander;Ravi G,Vikram (Original Motion Picture Soundtrack),Anirudh Ravichander,198000,0,hip-hop
-485,3ywjIbXWgG5Vjom6zhA2aP,Velicha Poove,Anirudh Ravichander;Mohit Chauhan;Shreya Ghoshal,Ethir Neechal (Original Motion Picture Soundtrack),Anirudh Ravichander,312280,0,hip-hop
-486,40BjkQhSOqS7j8Z0JHiF07,Udi Udi Jaye,Sukhwinder Singh;Bhoomi Trivedi;Karsan Sagathia,Raees,Sukhwinder Singh,260507,0,hip-hop
-487,40KuvsFD0zpUFuCcmt5Xm0,Ex Bitch,XXXTENTACION,Bad Vibes Forever,XXXTENTACION,121671,1,hip-hop
-488,40MlMSv2kkmph6XhYMOovm,Somberi,Mathan;Naven,Intha Vechiko,Mathan,236143,0,hip-hop
-489,40iJIUlhi6renaREYGeIDS,Fair Trade (with Travis Scott),Drake;Travis Scott,Certified Lover Boy,Drake,291175,1,hip-hop
-490,42TMa2hgBNjte4uV7jNCnQ,Baller,Shubh;Ikky,Baller,Shubh,148188,0,hip-hop
-491,43mHckutQvJr49nT0UvRxy,Sage,Ritviz,Ved,Ritviz,230204,0,hip-hop
-492,455OjhLhU9JCNYKKoUOFwr,Into You,Tegi Pannu;Manni Sandhu,Into You,Tegi Pannu,174508,0,hip-hop
-493,47Rqh5ZSamtIOFi7G6VgFJ,Paani Paani,Badshah;Aastha Gill,Paani Paani,Badshah,174002,0,hip-hop
-494,47mlmMUesrgqCzSdTz6DXF,Sagiyae,Stephen Zechariah,Sagiyae,Stephen Zechariah,184500,0,hip-hop
-495,491DwnBb3MA8RzyA2E0Skt,"Nenjame (From ""Doctor"")",Anirudh Ravichander,"Nenjame (From ""Doctor"")",Anirudh Ravichander,256500,0,hip-hop
-496,49TNlAQZXmFBteKZBF9rj0,Ram Ram,MC SQUARE,Hustle 2.0,MC SQUARE,213600,0,hip-hop
-497,4BExko3OEVRa3RI50gpFgA,Huzur (Reprise),Rusha & Blizza,Bazaar,Rusha & Blizza,296092,0,hip-hop
-498,4BWOTlwOwhdOGRZni7nxin,She Don't Give A,King,The Carnival,King,206134,1,hip-hop
-499,4C6Uex2ILwJi9sZXRdmqXp,Super Freaky Girl,Nicki Minaj,Super Freaky Girl,Nicki Minaj,170977,1,hip-hop
-500,4FL8i7miD18FuMN08XGKcM,"Takkunu Takkunu - From ""Mr. Local""",Hiphop Tamizha;Anirudh Ravichander,"Takkunu Takkunu (From ""Mr. Local"")",Hiphop Tamizha,212727,0,hip-hop
-501,4FcknXDJ8yW2QYUl0cm6uJ,Bewafa,Imran Khan,Bewafa,Imran Khan,224853,0,hip-hop
-502,4Ft4Tj0l8kzfKBv8vGuR4t,Tum Saath Rehnaa,King,Tum Saath Rehnaa,King,215536,0,hip-hop
-503,4HEzmqZuqVk3qSwD6Dtk6K,My Block,Sidhu Moose Wala,My Block,Sidhu Moose Wala,221539,0,hip-hop
-504,4HdzYTQiouB9BVYX7JOrhh,"Jalabulajangu (From ""Don"")",Anirudh Ravichander;Rokesh,"Jalabulajangu (From ""Don"")",Anirudh Ravichander,202607,0,hip-hop
-505,4IQqOlTZpfjnSTOArpZX5j,BIBA,Farasat Anees;Slick Trick;Toshi,OFIVE1,Farasat Anees,216216,0,hip-hop
-506,4IUGuoJ41g5fLIqsO1MJoU,"Ilamai Thirumbudhe - From ""Petta""",Anirudh Ravichander,Petta (Original Motion Picture Soundtrack),Anirudh Ravichander,217000,0,hip-hop
-507,4LCNHHhUJB0rqvmlxwstmN,Vibe Hai,DIVINE;Aavrutti;D'Evil;Shah Rule,Kohinoor,DIVINE,201000,0,hip-hop
-508,4LMQWQqpweFys6elnjBvR6,Chosen,Sidhu Moose Wala;Sunny Malton,Chosen,Sidhu Moose Wala,264000,0,hip-hop
-509,4Mh04VNolWA9g97ychP72l,Offshore,Shubh,Offshore,Shubh,172054,0,hip-hop
-510,4N0TO4VfONQDwynV2khBL1,Unfuckwithable (Bonus Track from Moosetape),Sidhu Moose Wala;Afsana Khan,Unfuckwithable (Bonus Track from Moosetape),Sidhu Moose Wala,283636,0,hip-hop
-511,4NQBqInyE7zvjIiP4j1dmy,Sirikkadhey,Anirudh Ravichander;Arjun Kanungo;Srinidhi Venkatesh,Remo (Original Motion Picture Soundtrack),Anirudh Ravichander,245888,0,hip-hop
-512,4OUAXw3SXI7bUiNtKC7ErW,Voodoo (with J Balvin & Tainy),Badshah;J Balvin;Tainy,Voodoo (with J Balvin & Tainy),Badshah,198130,1,hip-hop
-513,4P0r0yO7HNPvOra7BHGixH,Money Rain - Phonk Remix,VTORNIK;Phonk,Money Rain (Phonk Remix),VTORNIK,150941,1,hip-hop
-514,4PML5RtrVcYAwTTS46otXB,Vaathi Raid,Anirudh Ravichander;Arivu,Master (Original Motion Picture Soundtrack),Anirudh Ravichander,209500,0,hip-hop
-515,4Q3D7EnZNDNnIZsfjSbGkh,Pata Chalgea,Imran Khan,Pata Chalgea,Imran Khan,285173,0,hip-hop
-516,4RbRZYPR7Dwg8WRNn4UA8m,Racks and Rounds (feat. Sikander Kahlon),Sidhu Moose Wala;Sikander Kahlon,Moosetape,Sidhu Moose Wala,225000,0,hip-hop
-517,4UKCKdYiLN6IMA5ZESUTL7,the remedy for a broken heart (why am I so in love),XXXTENTACION,?,XXXTENTACION,160184,1,hip-hop
-518,4VUpM5CFGeaeWY7akhQwQB,Bambiha Bole,Amrit Maan;Sidhu Moose Wala,Bambiha Bole (feat. Sidhu Moose Wala),Amrit Maan,301348,0,hip-hop
-519,4Wy1PEoKfF3wPikE3GcWLl,Positivity,Jordan Sandhu,Positivity,Jordan Sandhu,170714,0,hip-hop
-520,4YIhJmihoXwjtbY4vsV9Nh,"Kudi Nu Nachne De (From ""Angrezi Medium"")",Vishal Dadlani;Sachin-Jigar,"Kudi Nu Nachne De (From ""Angrezi Medium"")",Vishal Dadlani,172381,0,hip-hop
-521,4Znd47cztY1DEmoWWVcP74,Sinner,King,Khwabeeda,King,229104,0,hip-hop
-522,4bbeXHwW95npFQuPa2D8e1,"Mathuga Mathuga (From ""Vikram Hitlist"")",Anirudh Ravichander;Kamal Haasan,"Mathuga Mathuga (From ""Vikram Hitlist"")",Anirudh Ravichander,211384,0,hip-hop
-523,4beibTdsFNXHq7bosci34R,Pogiren,Mugen Rao;Prashan Sean,Pogiren,Mugen Rao,243373,0,hip-hop
-524,4cacyP5c3PMlfnyjpg13xW,Betty (Get Money),Yung Gravy,Betty (Get Money),Yung Gravy,146470,0,hip-hop
-525,4chxJYv0qsOKQukt6cKp97,Toh Phir Aao,Mustafa Zahid,Awarapan (Original Soundtrack),Mustafa Zahid,348280,0,hip-hop
-526,4d3tiblcaqGdji7XvPGHiq,Malwa Block,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,239294,0,hip-hop
-527,4dCLUBJwtZwc4HYXvfcpyP,Untitled,KR$NA,Untitled,KR$NA,151384,0,hip-hop
-528,4dJrjWtAhEkW7VdPYSL1Ip,"Vaathi Coming (From ""Master"")",Anirudh Ravichander;Gana Balachandar,"Vaathi Coming (From ""Master"")",Anirudh Ravichander,228257,0,hip-hop
-529,4enBboQxIXJ104dP5MFQGw,Bapu Tere Karke,Amar Sandhu,Bapu Tere Karke,Amar Sandhu,230561,0,hip-hop
-530,4faDlXyZMSxEuxBdd5gDIz,Toxic,AP Dhillon;Intense,Toxic,AP Dhillon,184102,0,hip-hop
-531,4fyR24BKznXBLNkK8LwWla,Dheere Dheere,Yo Yo Honey Singh,Dheere Dheere,Yo Yo Honey Singh,212412,0,hip-hop
-532,4gyPGtExOjj1rsByKW33LR,Paagal,Badshah,Paagal,Badshah,169906,0,hip-hop
-533,4hAmLeBT1Ryk2oxSMMiJ7z,Oouuu,Karan Aujla,Way Ahead,Karan Aujla,147200,0,hip-hop
-534,4hzDCJUFDyk66oIBirPiCl,Gunehgar,DIVINE,Gunehgar,DIVINE,163404,0,hip-hop
-535,4jRoXx97M0sSZBfwMkBEDV,Roll Deep,Tegi Pannu;Manni Sandhu,Roll Deep,Tegi Pannu,182378,0,hip-hop
-536,4kw1Tl4ryNxjTtAdFJkD19,Pinnak,SAMBATA,Pinnak,SAMBATA,390321,1,hip-hop
-537,4mBMyfaNeG40BUBm3DP5xV,Gaddi Vich,Dilpreet Dhillon;Desi Crew;Kaur B,Gaddi Vich,Dilpreet Dhillon,172800,0,hip-hop
-538,4mtGAPsQCIlD4ZXdpRi0wf,Chandra (Featuring. Shreya Ghoshal),Ajay-Atul;Shreya Ghoshal,Chandramukhi,Ajay-Atul,315653,0,hip-hop
-539,4nSwWiwtieiNmRAjy9fEXN,Kannala Kannala - The Melting Point of Love,Hiphop Tamizha;Kaushik Krish;Padmalatha,Thani Oruvan (Original Motion Picture Soundtrack),Hiphop Tamizha,215456,0,hip-hop
-540,4ngIVcfL0Pm564bTpDIS8H,Po Ve Po - The Pain of Love,Anirudh Ravichander;Mohit Chauhan,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,254280,0,hip-hop
-541,4oKcFaWmBSF3SGGYo4qq6R,Teesri Manzil,DIVINE,Teesri Manzil,DIVINE,205880,0,hip-hop
-542,4oglYe270D9yn6Gc0JWc03,"Oo Bolega Ya Oo Oo Bolega (From ""Pushpa The Rise Part - 01"")",Kanika Kapoor;Devi Sri Prasad,"Oo Bolega Ya Oo Oo Bolega (From ""Pushpa The Rise Part - 01"")",Kanika Kapoor,226313,0,hip-hop
-543,4sCcDvX30uu39ozvxcRsqB,"Vilambara Idaiveli - From ""Imaikkaa Nodigal""",Hiphop Tamizha;Christopher Stanley;Sudarshan Ashok;Srinisha Jayaseelan,"Vilambara Idaiveli (From ""Imaikkaa Nodigal"")",Hiphop Tamizha,273396,0,hip-hop
-544,4t22MCG1GHjKlXRCIlJlDd,Paris Ka Trip,Yo Yo Honey Singh;Millind Gaba;Asli GOLD,Paris Ka Trip,Yo Yo Honey Singh,196430,0,hip-hop
-545,4tBMbRwLJa5BjwJ6FrBlks,Soni De Nakhre,Wajid;Labh Janjua;Sneha Pant,Partner,Wajid,261013,0,hip-hop
-546,4u7IQqFz6ZSZoLwTcWDfLQ,Secrets,The PropheC,Secrets,The PropheC,192475,0,hip-hop
-547,4uW8CuyO9r7vOXgYf1eqCz,I'm Done,MC STAN,I'm Done,MC STAN,170847,1,hip-hop
-548,4vVTI94F9uJ8lHNDWKv0i2,Eenie Meenie,Sean Kingston;Justin Bieber,Eenie Meenie,Sean Kingston,201946,0,hip-hop
-549,4w2W5Gh1GjbbSWGF0TD2iC,Kaun Hain Voh,Kailash Kher;Mounima,Baahubali - The Beginning,Kailash Kher,197984,0,hip-hop
-550,4wCy7erulqUfFQNVaZBD9b,Once Upon a Time,Anirudh Ravichander,Vikram (Original Motion Picture Soundtrack),Anirudh Ravichander,143709,0,hip-hop
-551,4wWugVbhblSjTsW1fjwf3u,Dear Mama,Sidhu Moose Wala,Dear Mama,Sidhu Moose Wala,186315,0,hip-hop
-552,4woTEX1wYOTGDqNXuavlRC,Superman,Eminem;Dina Rae,The Eminem Show,Eminem,350320,1,hip-hop
-553,4xkOaSrkexMciUUogZKVTS,Till I Collapse,Eminem;Nate Dogg,The Eminem Show,Eminem,297786,1,hip-hop
-554,4yurVSNjaPBKkOpbZWtuJO,Kalla Sohna Nai,Akhil,Kalla Sohna Nai,Akhil,156613,0,hip-hop
-555,503OTo2dSqe7qk76rgsbep,Still D.R.E.,Dr. Dre;Snoop Dogg,2001,Dr. Dre,270586,1,hip-hop
-556,50BYymJYX2k7hnmfiXnYXs,Naah,Jass Manak,Naah,Jass Manak,185574,0,hip-hop
-557,51hrri99KuNwhALxbRRJnq,Rule Over (Putt Jattan Dey),The Landers,Rule Over (Putt Jattan Dey),The Landers,140800,0,hip-hop
-558,525NKU3UFgZQtCXWBWE0al,Sandhanam Theme - Background Score,Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,106495,0,hip-hop
-559,52XpQt2fDLozI4qlhYvWl0,Fate,AP Dhillon;Gurinder Gill;Money Musik;Shinda Kahlon,Not by Chance,AP Dhillon,170666,0,hip-hop
-560,53DXM0bHfB7xkqJZYlksuh,Kaise Mujhe,Benny Dayal;Shreya Ghoshal,Ghajini,Benny Dayal,343741,0,hip-hop
-561,56TXkBMhaHhmqNq1M30qlE,Forget About It (feat. Sunny Malton),Sidhu Moose Wala;Sunny Malton,Forget About It (feat. Sunny Malton),Sidhu Moose Wala,222312,0,hip-hop
-562,57DhVYA7E1CyrE4OKuyLb7,Ik Tera,Maninder Buttar,Ik Tera,Maninder Buttar,160768,0,hip-hop
-563,58f4twRnbZOOVUhMUpplJ4,Brown Munde,AP Dhillon;Gminxr;Gurinder Gill;Shinda Kahlon,Brown Munde,AP Dhillon,254400,0,hip-hop
-564,58pYOqfeO87Uk8zPHuOGBu,Gajanana,Sukhwinder Singh,Bajirao Mastani (Original Motion Picture Soundtrack),Sukhwinder Singh,213707,0,hip-hop
-565,58prIObJ1GMpyG51jnMjeS,Badfella,Sidhu Moose Wala,Pbx 1,Sidhu Moose Wala,217531,0,hip-hop
-566,59nOXPmaKlBfGMDeOVGrIK,WAIT FOR U (feat. Drake & Tems),Future;Drake;Tems,I NEVER LIKED YOU,Future,189893,1,hip-hop
-567,5D507IC1VOAg7bKkmOblr6,"Bae (From ""Don"")",Anirudh Ravichander;Adithya RK,"Bae (From ""Don"")",Anirudh Ravichander,242628,0,hip-hop
-568,5DIt4eq2D6CZjX1s5jwrnP,"Tere Naal Nachna (From ""Nawabzaade"")",Badshah;Sunanda Sharma,"Tere Naal Nachna (From ""Nawabzaade"")",Badshah,166614,0,hip-hop
-569,5DVnSQ90r2M3gm6XbgTCLp,Takeover,AP Dhillon;Gurinder Gill;Money Musik;AR Paisley,Not by Chance,AP Dhillon,209142,1,hip-hop
-570,5DqdesEfbRyOlSS3Tf6c29,It's You,Ali Gatie,YOU,Ali Gatie,212606,0,hip-hop
-571,5EjVRbQFSLYyeNLlO7qGLY,What a Karavaad,Anirudh Ravichander;Dhanush,Velai Illa Pattadhaari (Original Motion Picture Soundtrack),Anirudh Ravichander,267942,0,hip-hop
-572,5H4rKylLnO8KrmdXTRhj5s,Chaiyya Chaiyya,Sukhwinder Singh;Sapna Awasthi,Dil Se (Original Motion Picture Soundtrack),Sukhwinder Singh,416613,0,hip-hop
-573,5HCyWlXZPP0y6Gqq8TgA20,STAY (with Justin Bieber),The Kid LAROI;Justin Bieber,STAY (with Justin Bieber),The Kid LAROI,141805,1,hip-hop
-574,5I2wbDvSI98HLVB42YO9sU,"Lagdi Lahore Di (From ""Street Dancer 3D"")",Guru Randhawa;Tulsi Kumar;Sachin-Jigar;Vee,"Lagdi Lahore Di (From ""Street Dancer 3D"")",Guru Randhawa,215368,0,hip-hop
-575,5I35M1ruDXFzK63YCg7Ijw,Snapchat Story,Bilal Saeed;Romee Khan,Snapchat Story,Bilal Saeed,199998,0,hip-hop
-576,5I3Xih0C2ID3fqngBrBbGv,"Bad Boy (From ""Saaho"")",Badshah;Neeti Mohan,"Bad Boy (From ""Saaho"")",Badshah,178496,0,hip-hop
-577,5KkCsYIgMK5H7Ih31Dnd2Q,Mirchi,DIVINE;MC Altaf;Stylo G;Phenom,Mirchi,DIVINE,192923,0,hip-hop
-578,5LEjxlKCcYH8irGpRtjbj0,Adhiya,Karan Aujla,Adhiya,Karan Aujla,177397,0,hip-hop
-579,5MbszOoRyTOwOIJEOIZn6v,Sirikkalam Parakkalam,Benny Dayal;Madurai Soulijos,Kannum Kannum Kollaiyadithaal,Benny Dayal,196025,0,hip-hop
-580,5NEGfbKMcNuEWOzpWufScA,Yaanji,Anirudh Ravichander;Shakthisree Gopalan,Vikram Vedha (Original Motion Picture Soundtrack),Anirudh Ravichander,270375,0,hip-hop
-581,5NeP5LxzlLaGlsVFHviHUj,Majhail 1.0,Jordan Sandhu,FAME,Jordan Sandhu,169230,0,hip-hop
-582,5OotwkHgMpNYfsCwAOs4jP,Private Party,Anirudh Ravichander;Jonita Gandhi,Don (Original Motion Picture Soundtrack),Anirudh Ravichander,216774,0,hip-hop
-583,5RrOyaV2xOAnf62uWj24dB,OOPS,King,OOPS,King,163200,0,hip-hop
-584,5SAgi6ZXqpCWQADP8XyRDY,Aaina,AFKAP,Aaina,AFKAP,180618,0,hip-hop
-585,5Se9PXWc57LRT0zthjI5cG,Woh Kisna Hai,Sukhwinder Singh;Ayesha Darbar;S. P. Sailaja,Kisna (Original Motion Picture Soundtrack),Sukhwinder Singh,357186,0,hip-hop
-586,5W7DOVGQLTigu09afW7QMT,295,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,270000,0,hip-hop
-587,5WWplXimzIjlJiN2N7T9Q3,"Pathala Pathala (From ""Vikram"")",Anirudh Ravichander;Kamal Haasan,"Pathala Pathala (From ""Vikram"")",Anirudh Ravichander,211384,0,hip-hop
-588,5XsoDbDt98b0FkFLOhsJuS,Lat Lag Gayee,Benny Dayal;Shalmali Kholgade;Pritam,Race 2 (Original Motion Picture Soundtrack),Benny Dayal,280369,0,hip-hop
-589,5YctxMWPzEXjnmHLA0mYUN,Kamm Koi Na,The Landers;Davi Singh,Kamm Koi Na,The Landers,177391,0,hip-hop
-590,5ZTsPwtt7aCuzbWd5rDGys,Shana Bann,MC STAN,Shana Bann,MC STAN,228112,1,hip-hop
-591,5ZsAhuQ24mWHiduaxJqnhW,Udd Gaye,Ritviz,Ved,Ritviz,180413,0,hip-hop
-592,5aNAawi2jFEe0qGPJSogRp,They Know,Karan Aujla,Way Ahead,Karan Aujla,144428,0,hip-hop
-593,5aa4zMfrJ16iDnS6UIKtlL,Aasman Ko Chukar,Daler Mehndi;Hrishikesh;Neuman;FRANCO;Shazneen Arethna;Samantha;Sunayana,Hanuman Returns,Daler Mehndi,274081,0,hip-hop
-594,5dvGOTBXFSgpKddB6MGe0P,WAR,AP Dhillon;Gurinder Gill,HIDDEN GEMS,AP Dhillon,221142,0,hip-hop
-595,5e0sqZrtakU2phj6IFxf79,Puff Puff Pass,Sultaan;Gavy Dhaliwal;Bhallwaan;Swapan Sekhon;Gur Chahal,Puff Puff Pass,Sultaan,291818,1,hip-hop
-596,5eGsHi6RcL33gb9k89UYaB,Schedule,Tegi Pannu;Manni Sandhu,Schedule,Tegi Pannu,148376,0,hip-hop
-597,5eN1nmOe9R29OBL6soTJov,MAJHE AALE,AP Dhillon;Shinda Kahlon;Gurinder Gill;Gminxr,HIDDEN GEMS,AP Dhillon,170322,0,hip-hop
-598,5f3PgI4zW2oErM3j3MWTWW,Don't Look,Karan Aujla,Don't Look,Karan Aujla,186409,0,hip-hop
-599,5gSVKG0R4xc8qtDIoyDNy8,Saada Pyaar,AP Dhillon;Gurinder Gill;Money Musik,Not by Chance,AP Dhillon,213626,0,hip-hop
-600,5iUbq311UD3MZYmfi2a1Ob,Pablo Sandhanam - Background Score,Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,45055,0,hip-hop
-601,5k38wzpLb15YgncyWdTZE4,Him & I (with Halsey),G-Eazy;Halsey,The Beautiful & Damned,G-Eazy,268866,1,hip-hop
-602,5lNQ2M1yJ1HAQGHgUfLlY3,Selfmade,Sidhu Moose Wala,Pbx 1,Sidhu Moose Wala,179513,0,hip-hop
-603,5m62bM6EN1ysBb3nnedLBR,Titli,Satinder Sartaaj,Titli,Satinder Sartaaj,277500,0,hip-hop
-604,5pAo2q7eVt65OSkwYgqhHl,Daaru Desi,Benny Dayal;Shalmali Kholgade,Cocktail (Original Motion Picture Soundtrack),Benny Dayal,269200,0,hip-hop
-605,5pOY1Vg2TIIbVBfR6yAg0C,Gaali Vaaluga,Anirudh Ravichander,Agnyaathavaasi,Anirudh Ravichander,258333,0,hip-hop
-606,5pcmtf1lwrMqmAWWm248fY,DESIRES,AP Dhillon;Gurinder Gill,HIDDEN GEMS,AP Dhillon,168000,0,hip-hop
-607,5qoxoGIbLCLSMJXpxr5COw,Broken Dreams,King,Champagne Talk,King,197351,0,hip-hop
-608,5raWEZXYAapq6Qw1GIEIkU,Zingaat,Ajay-Atul,Dhadak,Ajay-Atul,226501,0,hip-hop
-609,5tIr2cGQsj0oeqLk2tAU0L,Built Different,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,247578,0,hip-hop
-610,5uEYRdEIh9Bo4fpjDd4Na9,Goosebumps - Remix,Travis Scott;HVME,Goosebumps (Remix),Travis Scott,162802,1,hip-hop
-611,5uHy68Q7ZWe8Qq9k7EAprS,Sheesha,Karan Aujla,Sheesha,Karan Aujla,160851,0,hip-hop
-612,5uaIbU3oHHcSOK6WFNK5nj,Apna Time Aayega,Ranveer Singh;Dub Sharma;DIVINE,Gully Boy,Ranveer Singh,140463,0,hip-hop
-613,5uuVGnkZEFHBz8unViC3iA,G-Shit (feat. Blockboi Twitch),Sidhu Moose Wala;Blockboi Twitch,Moosetape,Sidhu Moose Wala,233571,0,hip-hop
-614,5vdWj5rEzg9lg5qbE98PmX,Desi Dan Bilzerian,King,The Gorilla Bounce,King,201379,0,hip-hop
-615,5vwpOLQh2PpIbuJSjHhFwZ,Sin,Sidhu Moose Wala,Sin,Sidhu Moose Wala,187764,0,hip-hop
-616,5yj7D4UllTkAccTmROibCQ,Final Thoughts,AP Dhillon;Shinda Kahlon;Gminxr,Two Hearts Never Break The Same,AP Dhillon,192000,0,hip-hop
-617,5zUPoHkgqAr1XwTMNzNtGs,Fully Loaded,Tegi Pannu;Manni Sandhu,Fully Loaded,Tegi Pannu,148858,1,hip-hop
-618,5zjFsuLrTM5sp6coribhCa,Taal Se Taal - Western Version,Sukhwinder Singh,Taal (Original Motion Picture Soundtrack),Sukhwinder Singh,154200,0,hip-hop
-619,60YICjIPdL7LDBcCMK0tAk,Levels,Sidhu Moose Wala;Sunny Malton;The Kidd,Levels,Sidhu Moose Wala,228705,1,hip-hop
-620,60suOlM8VpTVITPFeqth8r,Sarkar,Jaura Phagwara,Sarkar,Jaura Phagwara,210116,0,hip-hop
-621,61gu4XQFyAfIUneEyW4EJu,Brown Shortie (feat. Sonam Bajwa),Sidhu Moose Wala;Sonam Bajwa,Moosetape,Sidhu Moose Wala,208000,0,hip-hop
-622,62KDpF0Hv7KJLZrrKXsz8r,Thangamey,Anirudh Ravichander,Naanum Rowdy Dhaan (Original Motion Picture Soundtrack),Anirudh Ravichander,262539,0,hip-hop
-623,65c6VCikt7f5sAS1heoYQC,Same Beef,Bohemia;Sidhu Moose Wala,Same Beef,Bohemia,290360,0,hip-hop
-624,65usiCnRUHhBgd1CIlwGf5,Pakkam Vanthu,Anirudh Ravichander;Hiphop Tamizha,Kaththi (Original Motion Picture Soundtrack),Anirudh Ravichander,258359,0,hip-hop
-625,67KTXqxMEyBMq3LApqCgNV,Moosedrilla (feat. DIVINE),Sidhu Moose Wala;DIVINE,Moosetape,Sidhu Moose Wala,232173,0,hip-hop
-626,68BrFM98WyShOImDZ58sah,Do Vaari Jatt,Jordan Sandhu;Arjan virk,Do Vaari Jatt,Jordan Sandhu,163580,0,hip-hop
-627,68Dni7IE4VyPkTOH9mRWHr,No Role Modelz,J. Cole,2014 Forest Hills Drive,J. Cole,292799,1,hip-hop
-628,6A6mDExVoAEJmc5JyVSQeK,"Life of Pazham (From ""Thiruchitrambalam"")",Anirudh Ravichander,"Life of Pazham (From ""Thiruchitrambalam"")",Anirudh Ravichander,234514,0,hip-hop
-629,6AooRgSRDzbCYL4NZ4RCjU,Chal Bombay,DIVINE,Kohinoor,DIVINE,174000,0,hip-hop
-630,6BWssu3CWDgkZXHnSWiwSh,Laut Aana,Karan Aujla,Laut Aana,Karan Aujla,217226,0,hip-hop
-631,6C8JJFoGC4dkVtAHVK3iif,"Two Two Two (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander;Sunidhi Chauhan;Sanjana Kalmanje,"Two Two Two (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander,176345,0,hip-hop
-632,6CzMKOYzhBXzZszsy4yFIG,Feels,AP Dhillon;Gurinder Gill;Gminxr,Feels,AP Dhillon,151304,0,hip-hop
-633,6DCZcSspjsKoFjzjrWoCdn,God's Plan,Drake,Scorpion,Drake,198973,1,hip-hop
-634,6DXLO8LndZMVOHM0wNbpzg,Danza Kuduro,Don Omar;Lucenzo,Meet The Orphans,Don Omar,198786,0,hip-hop
-635,6E6BCsQHXDAdXsrL7zV71N,Roz Roz,The Yellow Diary;Shilpa Rao,Roz Roz,The Yellow Diary,218550,0,hip-hop
-636,6EP117i3gizdFg9neGen0s,Tadipaar,MC STAN,Tadipaar,MC STAN,466285,1,hip-hop
-637,6ElANRiS4S25oIn361o8Ye,Trend,Sidhu Moose Wala,Pbx 1,Sidhu Moose Wala,221818,0,hip-hop
-638,6EwRpLL5QThnF2k1sZzQpC,Kadhal Oru Aagayam,Hiphop Tamizha;Teejay;Al Rufian,Imaikkaa Nodigal (Original Motion Picture Soundtrack),Hiphop Tamizha,161762,0,hip-hop
-639,6FQQiTpYnfc5803p84bQp1,Vikram - Title Track,Anirudh Ravichander,Vikram (Original Motion Picture Soundtrack),Anirudh Ravichander,218823,0,hip-hop
-640,6GFtWQYco30oKpMr5xJwy2,"Soul of Doctor (Theme) [From ""Doctor""]",Anirudh Ravichander;Niranjana Ramanan,"Soul of Doctor (Theme) [From ""Doctor""]",Anirudh Ravichander,63711,0,hip-hop
-641,6HGoVbCUr63SgU3TjxEVj6,Satisfya,Imran Khan,Satisfya,Imran Khan,180056,0,hip-hop
-642,6Kynli1iHBqJRWUCohcV9h,Kaam 25 - Sacred Games,DIVINE,Kaam 25 (Sacred Games),DIVINE,149524,0,hip-hop
-643,6LvHrLiW1z8PS7MIAiufKg,Bad Boy X Bad Girl (feat. Nikhita Gandhi),Badshah;Nikhita Gandhi,Bad Boy X Bad Girl (feat. Nikhita Gandhi),Badshah,199402,0,hip-hop
-644,6M47gaKejso9772SKTa3yH,Face Off,Tech N9ne;Joey Cool;King Iso;Dwayne Johnson,ASIN9NE,Tech N9ne,219802,1,hip-hop
-645,6N6mJlsjYRV0yoMSPS5JiQ,The Wakhra Song,Navv Inder;Lisa Mishra;Raja Kumari,"The Wakhra Song (From ""Judgementall Hai Kya"")",Navv Inder,196000,0,hip-hop
-646,6NwEpX2JUWHVKWfDDfcqC4,Idhazhin Oram - The Innocence of Love,Anirudh Ravichander;Ajesh,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,204866,0,hip-hop
-647,6OcnzwOfKQc0ZWJoMuFQam,Adi Penne - Dad's Love,Stephen Zechariah,Adi Penne (Dad's Love),Stephen Zechariah,191650,0,hip-hop
-648,6OgjDxorTU4qeLvVuB9zoW,Attitude,Raj Ranjodh,Babe Bhangra Paunde Ne,Raj Ranjodh,169787,0,hip-hop
-649,6Ozx2ngGtXrqznTKhKBlrT,Deva Shree Ganesha,Ajay-Atul;Ajay Gogavale,Agneepath (Original Motion Picture Soundtrack),Ajay-Atul,356826,0,hip-hop
-650,6P8dmbcOEz7XPFQjd1V6d5,Nesamaguren,Stephen Zechariah;Saindhavi,Nesamaguren,Stephen Zechariah,263600,0,hip-hop
-651,6PSGzXHJaQogb2G8m8gGZZ,Dhundhala,Yashraj;Dropped Out;Talwiinder,Dhundhala,Yashraj,182400,0,hip-hop
-652,6RVmuLStrBGHGJ0CJhRh0U,Gucci di Sole,Kahlon,Gucci di Sole,Kahlon,168020,0,hip-hop
-653,6RXJKdpBp6AVL6H6sHyNp0,Yennai Maatrum Kadhale,Anirudh Ravichander;Sid Sriram,Naanum Rowdy Dhaan (Original Motion Picture Soundtrack),Anirudh Ravichander,274678,0,hip-hop
-654,6S6HSSk9HzWe3pqvUJn6Vq,Let 'em Play,Karan Aujla,Let 'em Play,Karan Aujla,195652,1,hip-hop
-655,6SPLYHHBN0dKGaoD2Jcccs,Hills,AP Dhillon,Two Hearts Never Break The Same,AP Dhillon,159942,0,hip-hop
-656,6TClJ8jXi3OBV7gcrU3jx5,TERE TE,AP Dhillon;Gurinder Gill,HIDDEN GEMS,AP Dhillon,114418,0,hip-hop
-657,6ULjJomtdRstnT9BPMAf9d,Swad Kutde,The Landers,Still Here,The Landers,120000,0,hip-hop
-658,6UeMjHhzYnidHi7I4isoGg,Most Wanted,AP Dhillon;Gurinder Gill;Gminxr,Most Wanted,AP Dhillon,184090,0,hip-hop
-659,6XPmY4hIb1RGRyNuq0UBsl,Kina Chir,The PropheC,The Lifestyle,The PropheC,216026,0,hip-hop
-660,6Y1cH3RzDCMWGQtOS0HmP8,Allah Ke Bande,Kailash Kher,Waisa Bhi Hota Hai Part 2,Kailash Kher,246883,0,hip-hop
-661,6YtlaPxgVWZHO7OB1atIEf,Kahan Par Hai,MC STAN,Kahan Par Hai,MC STAN,219758,1,hip-hop
-662,6ZYxNjuAU9Vy3VtF6W1dtE,We Rollin,Shubh,We Rollin,Shubh,199205,1,hip-hop
-663,6ZmtxXUXRVjxOhugKkmerC,Dil Mere,The Local Train,Aalas Ka Pedh,The Local Train,211290,0,hip-hop
-664,6btegcu44HqquqArljhFxu,Nanchaku,Seedhe Maut;MC STAN,न,Seedhe Maut,193116,1,hip-hop
-665,6cbW2scRULV7RnFT4u8gnA,Sidhu Son,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,217142,0,hip-hop
-666,6cdiviyVL3tFYE1eDcmUzL,Gumaan,Young Stunners;Talha Anjum;Talhah Yunus,Gumaan,Young Stunners,260173,0,hip-hop
-667,6dUGQzqCA18wKzVuiGttJF,Game Over,Karan Aujla,Way Ahead,Karan Aujla,154925,0,hip-hop
-668,6dgYHmc5yBnQFI4FSCbp6y,12 Bande,Varinder Brar,12 Bande,Varinder Brar,204507,0,hip-hop
-669,6eYsOcDdB5b6rTO5ubMxeV,"Private Party (From ""Don"")",Anirudh Ravichander;Jonita Gandhi,"Private Party (From ""Don"")",Anirudh Ravichander,216774,0,hip-hop
-670,6fP7zEaXUaGmzTDyvA79Ng,Nee Paata Madhuram - The Touch of Love,Anirudh Ravichander;Roop Kumar Rathod;Shreya Ghoshal,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,263826,0,hip-hop
-671,6gBFPUFcJLzWGx4lenP6h2,goosebumps,Travis Scott,Birds In The Trap Sing McKnight,Travis Scott,243836,1,hip-hop
-672,6i5QcWVTuzM67pXgD9Q7Vw,"Kanne Kanne (From ""Ayogya"")",Anirudh Ravichander;Sam C.S.,"Kanne Kanne (From ""Ayogya"")",Anirudh Ravichander,225558,0,hip-hop
-673,6lfSsCL894Qw15xbt7cSUy,"Jai Jai Shivshankar (From ""War"")",Vishal Dadlani;Benny Dayal,"Jai Jai Shivshankar (From ""War"")",Vishal Dadlani,230557,0,hip-hop
-674,6nmkEV0oW6QJ340afYUlx0,Jatt te Jawani,Dilpreet Dhillon;Karan Aujla,Next Chapter,Dilpreet Dhillon,240000,0,hip-hop
-675,6oloWgrErtc8dG2WiV55gn,Sawan Mein Lag Gayi Aag,Mika Singh;Payal Dev;Neha Kakkar;Badshah,Ginny Weds Sunny (Original Motion Picture Soundtrack),Mika Singh,226615,0,hip-hop
-676,6or1bKJiZ06IlK0vFvY75k,Rap God,Eminem,The Marshall Mathers LP2 (Deluxe),Eminem,363521,1,hip-hop
-677,6pW1AQhs75Cc5WTgoRQ8vi,Saaral Mazhaiyaa,Stephen Zechariah;Kaushik Iyer,Saaral Mazhaiyaa,Stephen Zechariah,279066,0,hip-hop
-678,6q9XTgfWilsnyiFofvYrIF,"Garmi (From ""Street Dancer 3D"") (feat. Varun Dhawan)",Badshah;Neha Kakkar;Varun Dhawan,"Garmi (From ""Street Dancer 3D"")",Badshah,182738,0,hip-hop
-679,6qCNaRRr5xJALfNJvh0NAw,Bom Diggy Diggy,Zack Knight;Jasmin Walia,"Bom Diggy Diggy (From ""Sonu Ke Titu Ki Sweety"")",Zack Knight,238530,0,hip-hop
-680,6qDHgeUBJFKYAGPBj3eVD6,Balcony,Jordan Sandhu,FAME,Jordan Sandhu,163404,0,hip-hop
-681,6qJrmD6CXKWkWcsYwu9AV3,Aathma Raama,Brodha V,Aathma Raama,Brodha V,234863,0,hip-hop
-682,6qS40yL7kXVoChI8SSCQIQ,Ykwim,Karan Aujla;KR$NA;Mehar Vaani,Ykwim,Karan Aujla,194857,0,hip-hop
-683,6sAdmaffuMijDszeFrGF1H,"Enakenna Yaarum Illaye (From ""Aakko"")",Anirudh Ravichander,"Enakenna Yaarum Illaye (From ""Aakko"")",Anirudh Ravichander,260812,0,hip-hop
-684,6udC4b4jOSnHb9ItnXgKLR,Saibo,Sachin-Jigar;Shreya Ghoshal;Tochi Raina,Shor in the City (Original Motion Picture Soundtrack),Sachin-Jigar,195253,0,hip-hop
-685,6wKu6jqzVtxikYztRUWkoS,Aathi,Anirudh Ravichander;Vishal Dadlani,Kaththi (Original Motion Picture Soundtrack),Anirudh Ravichander,304920,0,hip-hop
-686,6wWxQMhQgOCbmQkdOGslT4,Prada,Jass Manak,Prada,Jass Manak,182115,0,hip-hop
-687,6yvxu91deFKt3X1QoV6qMv,"Arabic Kuthu - Halamithi Habibo (From ""Beast"")",Anirudh Ravichander;Jonita Gandhi,"Arabic Kuthu - Halamithi Habibo (From ""Beast"")",Anirudh Ravichander,279677,0,hip-hop
-688,6zdikHQs2PBFgGIZBxqOeV,Po Nee Po - The Pain of Love,Anirudh Ravichander;Mohit Chauhan,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,251786,0,hip-hop
-689,70wFZWY6cKFxp3Qcq8uxH4,Ektarfa,King,Ektarfa,King,230903,0,hip-hop
-690,71Udwiv5GsZghU6XQ5LXQj,Jaat Da Muqabala,Sidhu Moose Wala,Pbx 1,Sidhu Moose Wala,204360,0,hip-hop
-691,71VXewVKFs0HcwEom489zH,Machayenge 4,KR$NA,Machayenge 4,KR$NA,398750,1,hip-hop
-692,73N5AghXPjYtAoS6RIYPZd,CHUSAMBA,Emiway Bantai,CHUSAMBA,Emiway Bantai,193663,1,hip-hop
-693,74Qks1cW4TkoZYUPUHTq46,B-Town (feat. Sunny Malton),Sidhu Moose Wala;Sunny Malton,B-Town (feat. Sunny Malton),Sidhu Moose Wala,182117,0,hip-hop
-694,74qF0JeFMVilMEeFDiQZ48,"Mummy Nu Pasand (From ""Jai Mummy Di"")",Sunanda Sharma;Tanishk Bagchi,"Mummy Nu Pasand (From ""Jai Mummy Di"")",Sunanda Sharma,184609,0,hip-hop
-695,7503mEfiZf6vgONFMYX5Jr,"Arjunar Villu (From ""Gilli"")",Sukhwinder Singh;Manikka Vinayagam,Manikkavinayagam - Playback Singer,Sukhwinder Singh,266309,0,hip-hop
-696,75Ak0cit8hV604Wjlq1gf2,Aaja We Mahiya,Imran Khan,Aaja We Mahiya,Imran Khan,232066,0,hip-hop
-697,78PDj0uocOvtSJCdOt65qy,Aankhon Aankhon,Yo Yo Honey Singh,Bhaag Johnny,Yo Yo Honey Singh,244831,0,hip-hop
-698,79MHQXymz8cGX8OOAjXn7J,Baby Marvake Maanegi,Raftaar,Zero to Infinity,Raftaar,187541,0,hip-hop
-699,79blZUG11a6vtTL3Nt9J78,Punjabi Mashup,Arjun;Badshah;Bohemia;Diljit Dosanjh;Fateh;Gippy Grewal;Girik Aman;Gupz Sehra;Guru Randhawa;Hans Raj Hans;Harjit Harman;Harrdy Sandhu;Labh Janjua;Neha Kakkar;Ranjit Bawa;Sharry Mann;Sukhbir;Surjit Bindrakhia;Yo Yo Honey Singh;Amit Trivedi;Anand Raj Anand;Atul Sharma;B Praak;Beat Minister;Dr Zeus;Intense;Manj Musik;Mista Baaz;Preet Hundal;Vee;DJ Yogii,Punjabi Mashup,Arjun,306572,0,hip-hop
-700,7AQim7LbvFVZJE3O8TYgf2,Fuck Love (feat. Trippie Redd),XXXTENTACION;Trippie Redd,17,XXXTENTACION,146520,1,hip-hop
-701,7AW4g4I9fPfUIyqtbsuAkM,Droptop,AP Dhillon;Gurinder Gill;Gminxr,Droptop,AP Dhillon,141176,0,hip-hop
-702,7AsG1F1eMWd17RYan8M3Wm,Dil Nu,AP Dhillon;Shinda Kahlon,Two Hearts Never Break The Same,AP Dhillon,233666,0,hip-hop
-703,7B4uYqxTpTOS1sgxFB9Ann,The Last Ride,Sidhu Moose Wala,The Last Ride,Sidhu Moose Wala,262247,0,hip-hop
-704,7B8WJgjZzzV1uS7v9z8FGX,Naah Lofi,Jass Manak,Naah Lofi,Jass Manak,198995,0,hip-hop
-705,7DonyrUlcVcrtk28mqvWNL,Bang Bang,Benny Dayal;Neeti Mohan,Bang Bang (Original Motion Picture Soundtrack),Benny Dayal,320000,0,hip-hop
-706,7F5O2pMgNNjONTbdqQx9b3,IDGAF (feat. Morrisson),Sidhu Moose Wala;Morrisson,Moosetape,Sidhu Moose Wala,176842,1,hip-hop
-707,7FIWs0pqAYbP91WWM0vlTQ,Godzilla (feat. Juice WRLD),Eminem;Juice WRLD,Music To Be Murdered By,Eminem,210800,1,hip-hop
-708,7FcQRdlqMvAKmQH1SXCk1s,Ishqam,Mika Singh;Ali Quli Mirza,Ishqam,Mika Singh,194418,0,hip-hop
-709,7GNRUsU3M4XNDDB9xle5Dz,That That (prod. & feat. SUGA of BTS),PSY;SUGA,PSY 9th,PSY,174646,0,hip-hop
-710,7GfdU12uRL2xtSQcRXmqNN,Laare,Maninder Buttar,Laare,Maninder Buttar,270545,0,hip-hop
-711,7H3mfOvtPNA8YDF3EdKy0L,Tum Hi Ho Bandhu,Neeraj Shridhar;Kavita Seth,Cocktail (Original Motion Picture Soundtrack),Neeraj Shridhar,283693,0,hip-hop
-712,7HNHIRAYrKeuobsj6n3l1y,Designer,Guru Randhawa;Yo Yo Honey Singh;Divya Khosla Kumar,Designer,Guru Randhawa,219095,0,hip-hop
-713,7HRvfjNicVkQnohrpOvjjL,Chithiyaan,Karan Aujla,Chithiyaan,Karan Aujla,198119,0,hip-hop
-714,7I4JOGn1A3GzTiaEMsp3Ur,Me & Me,King,Champagne Talk,King,276096,0,hip-hop
-715,7IK26RNUdgoZWJdlarrcty,All Night (Live),AP Dhillon;Shinda Kahlon,Two Hearts Never Break The Same,AP Dhillon,229510,0,hip-hop
-716,7Ie9W94M7OjPoZVV216Xus,Not Afraid,Eminem,Recovery,Eminem,248133,1,hip-hop
-717,7JoI4RoMUdZXBgIs7ZkhHV,B & W,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,245454,0,hip-hop
-718,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.,Kendrick Lamar,DAMN.,Kendrick Lamar,177000,1,hip-hop
-719,7Kj2LjwzJFygTn24TFulwK,Chamkeela Chehra,Badshah,Retropanda - Part 1,Badshah,179076,0,hip-hop
-720,7KqmDr9lTjwXnX5krMIKiC,JD Intro - Background Score,Anirudh Ravichander,Master (Original Background Score),Anirudh Ravichander,80000,0,hip-hop
-721,7KtQd5BN1cGQIvefTWEZLq,Kaththi - Theme,Anirudh Ravichander,Kaththi (Original Motion Picture Soundtrack),Anirudh Ravichander,63706,0,hip-hop
-722,7Lvxcrbzuz1mNCPkFakS9K,Ek Raat,Vilen,Ek Raat,Vilen,224040,0,hip-hop
-723,7MAw33OyE75nD1om6y9bHR,AGAINST ALL ODDS,AP Dhillon;Gurinder Gill;Gminxr;Shinda Kahlon,HIDDEN GEMS,AP Dhillon,170126,0,hip-hop
-724,7MdX25DW2YXXwCWl8fSHnq,Priceless,Bhalwaan;Signature By SB,Priceless,Bhalwaan,107755,0,hip-hop
-725,7MtXu7mXRMdICKyTOb8CuR,Baitikochi Chuste,Anirudh Ravichander,Agnyaathavaasi,Anirudh Ravichander,206666,0,hip-hop
-726,7cVe3mYMIfhOlz1NXFWv70,0 to 100,Sidhu Moose Wala,No Name,Sidhu Moose Wala,108493,0,hip-hop
-727,7d5ufSYehroRIgCXxJvcTM,"Chura Ke Dil Mera - From ""Hungama 2""",Benny Dayal;Anmol Malik;Anu Malik,"Chura Ke Dil Mera (From ""Hungama 2"")",Benny Dayal,285773,0,hip-hop
-728,7e6qTHVfRdaYsio90s1fHC,Ik Junoon (Paint It Red),Vishal Dadlani,Zindagi Na Milegi Dobara,Vishal Dadlani,299119,0,hip-hop
-729,7fdsoKCtpx2hYXDRMoActW,Chellamma,Anirudh Ravichander;Jonita Gandhi,Doctor (Original Motion Picture Soundtrack),Anirudh Ravichander,236500,0,hip-hop
-730,7floNISpH8VF4z4459Qo18,Look At Me!,XXXTENTACION,Look At Me!,XXXTENTACION,126345,1,hip-hop
-731,7fm1Nbus8X19wI4oz6FFcb,Scapegoat,Sidhu Moose Wala,Scapegoat,Sidhu Moose Wala,237176,0,hip-hop
-732,7fttjqzmvgvpRQoOzyYng3,Po Indru Neeyaga,Anirudh Ravichander;Dhanush,Velai Illa Pattadhaari (Original Motion Picture Soundtrack),Anirudh Ravichander,223326,0,hip-hop
-733,7gFzBppKTiKAs38SWOjbO6,Kyun Dhunde,Vilen,Kyun Dhunde,Vilen,70434,0,hip-hop
-734,7gl8XJ8EmiObfSFppTATt6,Twist,Neeraj Shridhar,Love Aaj Kal (Original Motion Picture Soundtrack),Neeraj Shridhar,299440,0,hip-hop
-735,7iL6o9tox1zgHpKUfh9vuC,In Da Club,50 Cent,Get Rich Or Die Tryin',50 Cent,193466,1,hip-hop
-736,7j7fS14vlwVk0Pfnr0hovC,"Marana Mass - From ""Petta""",Anirudh Ravichander;S. P. Balasubrahmanyam,Petta (Original Motion Picture Soundtrack),Anirudh Ravichander,216000,0,hip-hop
-737,7lQ8MOhq6IN2w8EYcFNSUk,Without Me,Eminem,The Eminem Show,Eminem,290320,1,hip-hop
-738,7m4CgL81VVIHaaiSxyH922,Desi Kalakaar,Yo Yo Honey Singh,Desi Kalakaar,Yo Yo Honey Singh,253352,0,hip-hop
-739,7m9OqQk4RVRkw9JJdeAw96,Jocelyn Flores,XXXTENTACION,17,XXXTENTACION,119133,1,hip-hop
-740,7mNQwVYgoB3mtjkjCKsbXM,Hoyna Hoyna,Anirudh Ravichander;Inno Genga,Gang Leader (Original Motion Picture Soundtrack),Anirudh Ravichander,271937,0,hip-hop
-741,7mNZUnDWUDidWBFaUpVtOC,Chidiya,Vilen,Chidiya,Vilen,253333,0,hip-hop
-742,7mUuarQfB0E0Xs80Vzd2gw,Chitta Kurta,Karan Aujla;Gurlez Akhtar,Chitta Kurta,Karan Aujla,217260,0,hip-hop
-743,7mhJ08BCG6goQ8mPpk9TuZ,Two Two Two,Anirudh Ravichander;Sunidhi Chauhan;Sanjana Kalmanje,Kaathuvaakula Rendu Kaadhal (Original Motion Picture Soundtrack),Anirudh Ravichander,176345,0,hip-hop
-744,7n6AQKpZUGiJM2auF3yuDY,All Black,Raftaar;Sukh-E Muzical Doctorz,All Black,Raftaar,218145,0,hip-hop
-745,7nMFbXSPRgJDE01Tbfx7Qe,Dark Love,Sidhu Moose Wala,Dark Love,Sidhu Moose Wala,232081,0,hip-hop
-746,7q7eYVerltlW2sYBuga6Mj,High Heels,Jaz Dhami;Yo Yo Honey Singh,High Heels,Jaz Dhami,297770,0,hip-hop
-747,7r48j4khJzIT2uqcIU33ax,Lala Lori,Fazilpuria;Afsana Khan,Lala Lori,Fazilpuria,160000,0,hip-hop
-748,7rXDc2ImBGwcypUFbNqbFB,"Dollar - From ""Dakuaan Da Munda""",Sidhu Moose Wala;Byg Byrd,"Dollar (From ""Dakuaan Da Munda"")",Sidhu Moose Wala,157516,0,hip-hop
-749,7rlulUEMn27TLbdHpNPugE,Freestyle,Jordan Sandhu,FAME,Jordan Sandhu,175714,0,hip-hop
-750,7rnqq7955ubY95MRPiRpue,Hai Mera Dil,Alfaaz,Alfaaz,Alfaaz,209853,0,hip-hop
-751,7sp9SYjIBBniAJ7xa1nkZh,Champagne Talk,King,Champagne Talk,King,163008,0,hip-hop
-752,7tZQznsUajYIVj4IwALXmz,Outlaw,Sidhu Moose Wala;Byg Bird,Outlaw,Sidhu Moose Wala,179375,0,hip-hop
-753,7tavmiMMEibizGOiXoozar,Goat,AP Dhillon;Gurinder Gill;Money Musik,Not by Chance,AP Dhillon,159130,0,hip-hop
-754,7tbzfR8ZvZzJEzy6v0d6el,Liggi,Ritviz,Dev,Ritviz,181176,0,hip-hop
-755,7tpRgru0h8B4eCvdBegLTA,Nakhre,Zack Knight,Nakhre,Zack Knight,194676,0,hip-hop
-756,7w4kFO2slzHCu1qEOMaPkl,Maari Thara Local - Here Comes Maari,Anirudh Ravichander;Dhanush,Maari (Original Motion Picture Soundtrack),Anirudh Ravichander,230252,0,hip-hop
-757,7wW9scVNLYFLsmBb1yAUmS,Blue Eyes,Yo Yo Honey Singh,Blue Eyes,Yo Yo Honey Singh,220943,0,hip-hop
-758,7xHG6LdShPMXeL5SllDprP,IICONIC,King,The Carnival,King,178339,1,hip-hop
-759,7xt1AuUbQBZC4yvxxm4nAI,Sohnea,Miss Pooja;Millind Gaba,Sohnea,Miss Pooja,269643,0,hip-hop
-760,7ycWLEP1GsNjVvcjawXz3z,Praise The Lord (Da Shine) (feat. Skepta),A$AP Rocky;Skepta,TESTING,A$AP Rocky,205040,1,hip-hop
-761,7yn0E97MoGLBaW8mqIwqNr,Ud-daa Punjab,Vishal Dadlani;Amit Trivedi,Udta Punjab,Vishal Dadlani,274701,0,hip-hop
+1,deezer:1841735047,Nzaza,Asake,,Asake,,,
+2,deezer:2324457295,Remember,Asake,,Asake,,,
+3,deezer:3299157891,Abantwana Bakho,DJ Maphorisa,,DJ Maphorisa,,,
+4,deezer:3365922691,Very Soon,BNXN,,BNXN,,,
+5,deezer:3473550911,Amanxeba,Sami'Kay,,Sami'Kay,,,
+6,deezer:3494302711,Shela,Sam Deep,,Sam Deep,,,
+7,deezer:3584222341,Isibaya Sikababa,Nkeshemba,,Nkeshemba,,,
+8,deezer:3604707482,Thandolwethu,Mzukulu,,Mzukulu,,,
+9,deezer:3617073562,MONEY CONSTANT,DJ Maphorisa,,DJ Maphorisa,,,
+10,deezer:3626239242,Umaqondana,Feza,,Feza,,,
+11,deezer:3654436332,Phumelela,Skillz,,Skillz,,,
+12,deezer:3661294122,AMABULAWO,Inkos'yamagcokama,,Inkos'yamagcokama,,,
+13,deezer:3661294252,ISAZOCHOMELANA,Inkos'yamagcokama,,Inkos'yamagcokama,,,
+14,deezer:3668675752,Ungenzani,Dlala Thukzin,,Dlala Thukzin,,,
+15,deezer:3675334382,Nakupenda,TxC,,TxC,,,
+16,deezer:3765778262,Jogodo,Wizkid,,Wizkid,,,
+17,deezer:3841945481,UKHETHE MINA,Ntencane,,Ntencane,,,
+18,deezer:3858273341,Big Bum Bum,Kidd Carder,,Kidd Carder,,,
+19,deezer:3879800031,WORSHIP,Asake,,Asake,,,
+20,deezer:3885709061,Khanya Njalo,Kabza De Small,,Kabza De Small,,,
+21,deezer:3912586831,Usungikhombisile,Nkeshemba,,Nkeshemba,,,
+22,deezer:3930375631,Baba Yilwa,DJ Zinhle,,DJ Zinhle,,,
+23,deezer:3951887041,Ngithathiwe,Zee Nxumalo,,Zee Nxumalo,,,
+24,deezer:3967194451,Back Outside,BNXN,,BNXN,,,
+25,deezer:3975322391,fine ting (fine $hit),FOLA,,FOLA,,,
+26,deezer:3975693441,Gratitude,Asake,,Asake,,,
+27,deezer:3975693471,Wa,Asake,,Asake,,,
+28,deezer:3975693481,MCBH,Asake,,Asake,,,
+29,deezer:3975693501,Forgiveness,Asake,,Asake,,,
+30,deezer:3987126681,Everybody Wanna Be In Love,Calvin Fallo,,Calvin Fallo,,,
+31,deezer:4005110281,Chanel,Blaqbonez,,Blaqbonez,,,
+32,deezer:4033050791,Remember,Tman Xpress,,Tman Xpress,,,
+33,deezer:4035750811,Elumelu,Young Jonn,,Young Jonn,,,
+34,deezer:4045968641,Sengithole Omunye,Feza,,Feza,,,
+35,deezer:4060619411,U XA,UMnotho,,UMnotho,,,
+36,deezer:4068362081,Imfene Yakho,Isitha sama ex,,Isitha sama ex,,,
+37,deezer:4075212751,treat u right,FOLA,,FOLA,,,
+38,deezer:4081963141,Wo Lo,Mihlali The Guy,,Mihlali The Guy,,,
+39,deezer:4083767311,SASEZOLA,Novex,,Novex,,,
+40,deezer:4083882431,Owabulala uBaba,SIHAYO,,SIHAYO,,,
+41,deezer:4094734851,GTA,Seyi Vibez,,Seyi Vibez,,,
+42,deezer:4127326321,SLICK,Victony,,Victony,,,
+43,deezer:4135747021,Ama hem hem,Thatohatsi,,Thatohatsi,,,
+44,deezer:4154583492,Luqale sakudlala,G-Jealous,,G-Jealous,,,
+45,deezer:4162946442,Waka Waka,TUFF KING,,TUFF KING,,,
+46,deezer:4168302732,B4 B4,Davido,,Davido,,,
+47,deezer:4174144692,TEZE,W4DE,,W4DE,,,
+48,deezer:4174333902,THAT GIRL!,Darkoo,,Darkoo,,,
+49,deezer:4180437672,Eja Meja,BNXN,,BNXN,,,
+50,deezer:4191080622,Sanamarena,Makhadzi Entertainment,,Makhadzi Entertainment,,,
+51,deezer:4191920672,Tap Am,Famous Pluto,,Famous Pluto,,,
+52,deezer:4192681612,TEA,Rema,,Rema,,,
+53,deezer:4193292712,H’s On The Table,Royal MusiQ,,Royal MusiQ,,,
+54,deezer:4193895182,Yimi umaqondana,Mahostela 97,,Mahostela 97,,,
+55,deezer:4199092882,attention!,FOLA,,FOLA,,,
+56,deezer:4210210602,Isesheli,Mzukulu,,Mzukulu,,,
+57,deezer:4229884152,BACK 2 U,Seyi Vibez,,Seyi Vibez,,,
+58,deezer:4230351002,Distance,Zulu Queens,,Zulu Queens,,,
+59,deezer:4231360652,BIG PERFORMER,Blaqbonez,,Blaqbonez,,,
+60,deezer:4232082932,TWIN,Victony,,Victony,,,
+61,deezer:4236272362,Online,BNXN,,BNXN,,,
+62,deezer:4244735101,Gumba Fire,Focalistic,,Focalistic,,,
+63,deezer:4250594601,VOLUME,Seyi Vibez,,Seyi Vibez,,,
+64,deezer:4250594621,DIAMONDS,Seyi Vibez,,Seyi Vibez,,,
+65,deezer:4250594641,GOD,Seyi Vibez,,Seyi Vibez,,,
+66,deezer:4250594651,PANSA,Seyi Vibez,,Seyi Vibez,,,
+67,deezer:4250594661,ILOME,Seyi Vibez,,Seyi Vibez,,,
+68,deezer:4250678831,Oh No,Rema,,Rema,,,
+69,deezer:4266541472,it's over,FOLA,,FOLA,,,
+70,deezer:4274483562,Thando lwathola kabi,Skhanga,,Skhanga,,,
+71,deezer:4275874502,2am in toronto,FOLA,,FOLA,,,
+72,deezer:4275874522,miss u ii (nriri),FOLA,,FOLA,,,
+73,deezer:4275874582,waf,FOLA,,FOLA,,,
+74,deezer:4275874602,my type,FOLA,,FOLA,,,
+75,deezer:4305981812,Nayvee's Prayer,DJ Zinhle,,DJ Zinhle,,,
+76,deezer:4316053292,16,BNXN,,BNXN,,,
+77,deezer:4316053312,Shamaya,BNXN,,BNXN,,,
+78,deezer:4316053322,If You Like,BNXN,,BNXN,,,
+79,deezer:4322045952,BETHII BETHII,Bello B,,Bello B,,,
+80,deezer:4323778442,IKEBE 3000,Blaqbonez,,Blaqbonez,,,
+81,deezer:4328881752,Myeke,Mshinwemali,,Mshinwemali,,,
+82,deezer:4335806212,Ore Agbako,Double Gee2x,,Double Gee2x,,,
+83,deezer:4349648082,Ingoma Ezimnandi (iGwijo),Culture Motion,,Culture Motion,,,
+84,deezer:4357747272,iXesha,Funky Qla,,Funky Qla,,,
+85,deezer:4361720231,Macheleni,PLG Chanty,,PLG Chanty,,,
+86,deezer:4364685151,Polo,Empro,,Empro,,,
+87,deezer:4369201041,INFERNO,Peruzzi,,Peruzzi,,,
+88,deezer:4379056481,i1000,Khazozo,,Khazozo,,,
+89,deezer:4386339601,REALLY A LOT,Dj Clen,,Dj Clen,,,
+90,deezer:4386339611,YAMAL,Dj Clen,,Dj Clen,,,
+91,deezer:4386339621,MENACE,Dj Clen,,Dj Clen,,,
+92,deezer:4386339631,4EVA,Dj Clen,,Dj Clen,,,
+93,deezer:4386339681,DRIVE ME CRAZY,Dj Clen,,Dj Clen,,,
+94,deezer:4388884761,Living Thing,T.I BLAZE,,T.I BLAZE,,,
+95,deezer:4393911761,Omo Ologo,Zinoleesky,,Zinoleesky,,,
+96,deezer:4409256491,Sorry Batswadi Baka,DJ Maphorisa,,DJ Maphorisa,,,
+97,deezer:4409959081,Ubaba wakho,Mzukulu,,Mzukulu,,,
+98,deezer:3343819681,We On Go,Bia,,Bia,,,
+99,deezer:3444462491,I Need Us,Rob49 & Loe Shimmy,,Rob49 & Loe Shimmy,,,
+100,deezer:3661467392,What You Need,Tems,,Tems,,,
+101,deezer:3763842212,I Just Might,Bruno Mars,,Bruno Mars,,,
+102,deezer:3966979401,Spend Dat,Yung Miami,,Yung Miami,,,
+103,deezer:4022872421,WNBA,Drake,,Drake,,,
+104,deezer:4022872461,I'm Spent,Drake Featuring Loe Shimmy,,Drake Featuring Loe Shimmy,,,
+105,deezer:4022872471,Classic,Drake,,Drake,,,
+106,deezer:4022917771,Janice STFU,Drake,,Drake,,,
+107,deezer:4022917791,Shabang,Drake,,Drake,,,
+108,deezer:4051818441,Okayyy,Latto Featuring Doja Cat,,Latto Featuring Doja Cat,,,
+109,deezer:4072004711,Ghetto Love Story,BabyChiefDoit,,BabyChiefDoit,,,
+110,deezer:4081630461,WTF GOIN,Belly Gang Kushington & 21 Savage,,Belly Gang Kushington & 21 Savage,,,
+111,deezer:4081976861,Face Card,Skilla Baby Featuring Chris Brown & Bryson Tiller,,Skilla Baby Featuring Chris Brown & Bryson Tiller,,,
+112,deezer:4105812921,Piece Of Your Love,Rod Wave,,Rod Wave,,,
+113,deezer:4131547751,Morning Dew (Donk),Beyonce,,Beyonce,,,
+114,deezer:4144145162,California Girls,Future,,Future,,,
+115,deezer:4144145192,Konnichiwa,Future,,Future,,,
+116,deezer:4151325382,Is It Cool?,Steve Lacy Featuring SZA,,Steve Lacy Featuring SZA,,,
+117,deezer:4151325392,The Feeling,Steve Lacy,,Steve Lacy,,,
+118,deezer:4158680742,Dead Fresh,Lil Baby,,Lil Baby,,,
+119,deezer:4198445322,AH HA,Cardi B,,Cardi B,,,
+120,deezer:4233933902,Some Of Your Love,PARTYNEXTDOOR,,PARTYNEXTDOOR,,,
+121,deezer:4234530822,Around Me,Noodah05,,Noodah05,,,
+122,deezer:4245404511,Lite,BigXthaPlug Featuring Belly Gang Kushington,,BigXthaPlug Featuring Belly Gang Kushington,,,
+123,deezer:4247943571,Dope Girl,Rod Wave,,Rod Wave,,,
+124,deezer:4265016102,onsra,comehelpglo,,comehelpglo,,,
+125,deezer:4278790462,So Good,Jhene Aiko Featuring Kendrick Lamar,,Jhene Aiko Featuring Kendrick Lamar,,,
+126,deezer:4288047052,Bow Bow Bow,Zeddy Will,,Zeddy Will,,,
+127,deezer:4302331442,No Limit,BigXthaPlug Featuring Leon Thomas,,BigXthaPlug Featuring Leon Thomas,,,
+128,deezer:4302331472,CRACCED,BigXthaPlug,,BigXthaPlug,,,
+129,deezer:4302331532,Believe,BigXthaPlug Featuring Babyface Ray & Lil Yachty,,BigXthaPlug Featuring Babyface Ray & Lil Yachty,,,
+130,deezer:4302331542,I Like It,BigXthaPlug Featuring Loe Shimmy,,BigXthaPlug Featuring Loe Shimmy,,,
+131,deezer:4302331552,Give It All,BigXthaPlug,,BigXthaPlug,,,
+132,deezer:4302331562,FAF,BigXthaPlug Featuring GloRilla,,BigXthaPlug Featuring GloRilla,,,
+133,deezer:4305706802,Pink Blush,Dolly Babe Featuring Megan Thee Stallion,,Dolly Babe Featuring Megan Thee Stallion,,,
+134,deezer:4306586472,Burn,BigXthaPlug Featuring Ava Max,,BigXthaPlug Featuring Ava Max,,,
+135,deezer:4321519892,Solar Eclipse,Drake & Don Toliver,,Drake & Don Toliver,,,
+136,deezer:4321519902,Quebec,Drake,,Drake,,,
+137,deezer:4321519912,Cold Shoulder,"Drake , Don Toliver & Yebba",,"Drake , Don Toliver & Yebba",,,
+138,deezer:4334493232,Impulsive,Thekidszn,,Thekidszn,,,
+139,deezer:4337604592,Don't Chart,Cardi B,,Cardi B,,,
+140,deezer:4360304621,Airbender,Anderson .Paak & Cordae,,Anderson .Paak & Cordae,,,
+141,deezer:4368888681,Tina Tuesday,Megan Thee Stallion,,Megan Thee Stallion,,,
+142,deezer:4368888691,Is You Cool,Megan Thee Stallion,,Megan Thee Stallion,,,
+143,deezer:4368888701,Thin Ice,Megan Thee Stallion,,Megan Thee Stallion,,,
+144,deezer:4374538661,I Get It,BigXthaPlug,,BigXthaPlug,,,
+145,deezer:4374538681,DA FUCC,BigXthaPlug Featuring Ro$ama,,BigXthaPlug Featuring Ro$ama,,,
+146,deezer:4403834721,Every Night,Offset Featuring Don Toliver,,Offset Featuring Don Toliver,,,
+147,03EcqaAMg58r10dgbl0o6y,Boa Me (feat. Ed Sheeran & Mugeez),Fuse ODG;Ed Sheeran;Mugeez,Boa Me (feat. Ed Sheeran & Mugeez),Fuse ODG,180500,0,dancehall
+148,03YUNUpazIbzwqJq2YSBvB,Kilometre,Burna Boy,"Love, Damini",Burna Boy,152692,1,dancehall
+149,03cKmr45ZcgYzng3s76STy,Feel,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,194400,0,dancehall
+150,06mcgnr3eJ8cF8ed0WfdPA,Southy Love,Peruzzi;Fireboy DML,Rum & Boogie,Peruzzi,210048,1,dancehall
+151,092PSCM3LlkiCatgTN0vrU,Oliver Twist,D'banj,King Don Come,D'banj,237453,0,dancehall
+152,09gysnJpfQ3ublBmJDfcEC,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae;Kali Uchis;Moliy,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy),Amaarae,204763,1,alternative
+153,0D9Bnm77CkYlzpZijEKFuy,Glory (feat. Ladysmith Black Mambazo),Burna Boy;Ladysmith Black Mambazo,"Love, Damini",Burna Boy,231205,1,dancehall
+154,0Eq1YipYrFdRzPKT8y7iOC,Love Like This (feat. Fireboy DML),Lil Kesh;Fireboy DML,Ecstasy,Lil Kesh,189280,0,dancehall
+155,0HaRLPnr887lcQM2YQzkff,For My Hand (feat. Ed Sheeran),Burna Boy;Ed Sheeran,"Love, Damini",Burna Boy,159123,0,dance
+156,0JqY1VDNn7p92rsvUGs6m1,Never Gonna Forget (with Diplo feat. Elderbrook),Black Coffee;Diplo;Elderbrook,Subconsciously,Black Coffee,199768,0,deep-house
+157,0RqiNQYAB75utUwQF82MdY,Jealous,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,216699,0,dancehall
+158,0WZv29OGhRABeryXBPMAV6,Ozumba Mbadiwe - Remix,Reekado Banks;Fireboy DML,Ozumba Mbadiwe (Remix),Reekado Banks,211636,0,dancehall
+159,0WtM2NBVQNNJLh6scP13H8,Calm Down (with Selena Gomez),Rema;Selena Gomez,Calm Down (with Selena Gomez),Rema,239317,0,pop
+160,0cE68B5sCz9f3snJ5ueTGZ,Cloak & Dagger (feat. J Hus),Burna Boy;J Hus,"Love, Damini",Burna Boy,211050,0,dancehall
+161,0fxjsll9jmmRgMFbwdp4Xg,Yègellé Tezeta,Mulatu Astatke,New York - Addis - London: The Story of Ethio Jazz 1965-1975,Mulatu Astatke,194293,0,afrobeat
+162,0hp62UwmajmzAjXkMKznhD,Collabo,P-Square;Don Jazzy,Double Trouble,P-Square,223587,0,dancehall
+163,0jjH8vwVEENKNpDPWWOwuK,Vanilla,Burna Boy,"Love, Damini",Burna Boy,155466,0,dancehall
+164,0rWlFiu0sMqLdtrViUwLT5,Chop My Money - Remix,P-Square;Akon;May D,Chop My Money,P-Square,272297,0,dancehall
+165,0s3ZpsAaVCbWxDhLq2B2wh,Scatter,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,164000,0,dancehall
+166,0s5nhb6ts6uCKAVnGg46y6,Different Size (feat. Victony),Burna Boy;Victony,"Love, Damini",Burna Boy,209968,0,dancehall
+167,0v9w61bEVbIgYbVu0frJag,Your Number REMIX (feat. Chris Brown & Kid Ink),Ayo Jay;Chris Brown;Kid Ink,Your Number REMIX (feat. Chris Brown & Kid Ink),Ayo Jay,271606,1,dancehall
+168,1090OWoP6JTpYAaSSEBvGy,Kontrol,Maleek Berry,Kontrol,Maleek Berry,206315,0,dancehall
+169,11qqSo6AyQR68xqVlmwYls,Green Light,Olamide,Carpe Diem,Olamide,194425,1,dancehall
+170,163l4xzEe3JAfPbv0kYNQo,Question (feat. Don Jazzy),Burna Boy;Don Jazzy,Question (feat. Don Jazzy),Burna Boy,168461,0,dancehall
+171,18t2ofQiViidZHxOBVjpD1,Koroba,Tiwa Savage,Celia,Tiwa Savage,153876,0,dancehall
+172,1AtBzcUzKLh4BGwXhFA9K6,Ojuelegba,Wizkid,Ayo,Wizkid,216242,0,dancehall
+173,1B6d6tSoQTZyYalEFVu86p,No One Like You,Eben;Nathaniel Bassey,No One Like You,Eben,317675,0,afrobeat
+174,1Cg51Jk6EoXBQ0KiwzWJfm,Playboy,Fireboy DML,Playboy,Fireboy DML,207474,1,dancehall
+175,1ETZhP9orTkDclKEyt0xqm,Fantastic Man,William Onyeabor,World Psychedelic Classics 5: Who Is William Onyeabor?,William Onyeabor,386160,0,afrobeat
+176,1FhP3mymDoN2hX5p57uTnu,Come on Home,Lijadu Sisters,Horizon Unlimited,Lijadu Sisters,318785,0,afrobeat
+177,1GuLgNKd4lrI1vugkxMCAX,Iskaba,Wande Coal;DJ Tunez,Iskaba,Wande Coal,224640,1,dancehall
+178,1HG9yS1bhOSsrUoHdUEnbW,Timoti,Fireboy DML,Playboy,Fireboy DML,139171,1,dancehall
+179,1IARNA3zsu39Kul2ov9n3J,King,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,165040,0,dancehall
+180,1JiR4RJaZlbZ5b3HG8jkeL,Longtime (feat. Skepta),Wizkid;Skepta,Made In Lagos,Wizkid,239893,1,dancehall
+181,1M65Sv8RxdOpTiKKqjphxf,How Bad Could It Be,Burna Boy,"Love, Damini",Burna Boy,297651,0,dancehall
+182,1PoJXULCvl03b1fiZmMxmd,On the Low,Burna Boy,African Giant,Burna Boy,185898,0,dancehall
+183,1TeIFb2AIbExCZjInMxGha,Azonto,Fuse ODG;Tiffany Owusu,T.I.N.A.,Fuse ODG,232255,0,dancehall
+184,1UM3RVanAaakxcx9GkfNTL,KOLO (feat. Oxlade),Ice Prince;Oxlade,KOLO (feat. Oxlade),Ice Prince,168013,0,dancehall
+185,1V9xax1XoP0YpVp941UHJt,I'm In Love,Patoranking,I'm In Love,Patoranking,209638,0,dancehall
+186,1VCzfYwgyZk4fYl7Tyv7BC,Bank Alert,P-Square,Bank Alert,P-Square,253939,0,dancehall
+187,1XhaUSmhANVIRtDvs7p2UP,Solid (feat. Blxst & Kehlani),Burna Boy;Blxst;Kehlani,"Love, Damini",Burna Boy,195134,0,dancehall
+188,1YPkBfrRCpvBrwJU66LQWq,Osama,Zakes Bantwini;Kasango,Osama,Zakes Bantwini,409180,0,deep-house
+189,1ZiTQSxZmbff7hmjD8fENw,Damn,Omah Lay,Get Layd,Omah Lay,159338,1,dancehall
+190,1jloWdvMh9nwHUu3mag8CL,Mad Over You,Runtown,Mad Over You,Runtown,216058,0,dancehall
+191,1kd8fI9o55GNWvNOfzKcz5,Legalize,Mr Eazi,Legalize,Mr Eazi,146249,0,dancehall
+192,1mSdbey7RstGLY2udgXv74,Essence (feat. Justin Bieber & Tems),Wizkid;Justin Bieber;Tems,Essence (feat. Justin Bieber & Tems),Wizkid,263288,0,dancehall
+193,1qIATFQg93M6KvhPh9QSNc,Therapy,Stonebwoy,Therapy,Stonebwoy,185341,1,dancehall
+194,1rgK0UrJNwkaIptPI0a5kg,Need You,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,221538,0,dancehall
+195,1tDf8B65kTrz87w5RJmgXG,Hate Me,Olamide;Wande Coal,Hate Me,Olamide,199322,1,dancehall
+196,1vPklJ1dH1kUbHod4UH0JS,Let Him Go,Ayo Jay,Lazy Genius,Ayo Jay,233286,0,dancehall
+197,1wADwLSkYhrSmy4vdy6BRn,soso,Omah Lay,Boy Alone,Omah Lay,183056,0,dancehall
+198,1xx7iMgSyLnbDUi170lVbb,Attention (with Justin Bieber) - Disclosure Remix,Omah Lay;Disclosure;Justin Bieber,Attention (with Justin Bieber) [Disclosure Remix],Omah Lay,256644,0,dancehall
+199,20hZEnFjyvUIk4YkONRGMZ,Lo Lo,Omah Lay,Get Layd,Omah Lay,171730,0,dancehall
+200,21s0bjVrP7RtQskeUKZxOu,Soul Makossa,Manu Dibango,Manu Dibango Anthology,Manu Dibango,264306,0,afrobeat
+201,2IMFiHPG7RF5acB0QPFJyj,Full Current (That's My Baby),Phyno;Tekno,Full Current (That's My baby),Phyno,208296,0,dancehall
+202,2MlOUXmcofMackX3bxfSwi,Jerusalema (feat. Nomcebo Zikode),Master KG;Nomcebo Zikode,Jerusalema,Master KG,342612,0,house
+203,2NcJDSpMJsbyabOLoa00GM,Free My Mind,Omah Lay,Free My Mind,Omah Lay,175989,0,dancehall
+204,2RCf3uUVix6XzRU0Z8quJs,For Life,Runtown,For Life,Runtown,229633,1,dancehall
+205,2RnkJgwCzgvQU3MUysO1fG,Kolo Kolo,Patoranking;Diamond Platnumz,Kolo Kolo,Patoranking,195135,0,dancehall
+206,2SEUmlCikPENN9hJytRHV2,Paranoia,Ayo Jay,Wonder Shall Never End,Ayo Jay,181241,0,dancehall
+207,2SVObssPWzeJquNyR05NjL,Damn (feat. 6lack),Omah Lay;6LACK,Damn (feat. 6lack),Omah Lay,159338,1,dancehall
+208,2SaRkvUkzNzL39fBB2hLpt,PALAZZO,SPINALL;Asake,PALAZZO,SPINALL,186002,0,dancehall
+209,2XuLnQELesgnkCGZbSJHO0,Don't Call Me (feat. Zinoleesky),Lil Kesh;Zinoleesky,Don't Call Me (feat. Zinoleesky),Lil Kesh,178983,1,dancehall
+210,2c00DlvpzthGKcyXpe5GHa,Bad Influence,Omah Lay,Bad Influence,Omah Lay,138652,1,dancehall
+211,2cerDm5EbuTNJ68EIMtrF2,Monsters You Made (feat. Chris Martin),Burna Boy;Chris Martin,Twice As Tall,Burna Boy,217541,1,dancehall
+212,2cgamRofJ1iWxAHD801DNu,Wild Dreams (feat. Khalid),Burna Boy;Khalid,"Love, Damini",Burna Boy,186189,0,dancehall
+213,2dG1cXdbEPKEOyUq96R9xz,Compromise (feat. Rema),Fireboy DML;Rema,Playboy,Fireboy DML,195939,1,dancehall
+214,2dGE7HMvZEjuNxzz4IDLyL,Jagele,Burna Boy,"Love, Damini",Burna Boy,182037,0,dancehall
+215,2frQh7VPaDY3y6a7ZoGw33,Magic In The Air (feat. Ahmed Chawki) - Version Champions du Monde 2018,Magic System;Chawki,Magic In The Air: la compilation,Magic System,233600,0,french
+216,2ieFaRzeA5yfRjanzaBS8Q,You Need Me (feat. Maxine Ashley & Sun-El Musician),Black Coffee;Maxine Ashley;Sun-El Musician,Subconsciously,Black Coffee,375917,0,deep-house
+217,2jZ2MrAk8iNZk1dsI0Vr5z,Cold Outside,Timaya;BNXN fka Buju,Cold Outside,Timaya,181224,1,dancehall
+218,2lGcaj9uJ8ahQxbNvvEqHi,Time to Party,Flavour;Diamond Platnumz,Time to Party,Flavour,212532,0,dancehall
+219,2oWex6rYoQ7Bl2D9zG8d3F,Water No Get Enemy,Fela Kuti,The Best of the Black President,Fela Kuti,591693,0,afrobeat
+220,2pUlBBWq8R10ylbBvZJV9j,Bad To Me,Wizkid,Bad To Me,Wizkid,176850,0,dancehall
+221,2pgDBO0ZAgvye7joSmdDm8,SAD GIRLZ LUV MONEY,Amaarae;Moliy,THE ANGEL YOU DON'T KNOW,Amaarae,196420,1,alternative
+222,2sh23PpmUcfrxKaBRvqxig,Dirty Secrets,Burna Boy,"Love, Damini",Burna Boy,151856,1,dancehall
+223,2tZPZ1lT8TMlEUxXTxCCeO,Jaiye (Ihe Geme),P-Square,Jaiye (Ihe Geme),P-Square,234404,0,dancehall
+224,2v52t6uTRjPIgnh9HHBAaf,Onyeka (Baby),Burna Boy,Twice As Tall,Burna Boy,202146,0,dancehall
+225,2xXRKDCqZYmbbwwIUerigW,Wetin Man Go Do,Burna Boy,African Giant,Burna Boy,188181,0,dancehall
+226,2zYs4BonN2ydkbrRk333SN,Come Closer (feat. Drake),Wizkid;Drake,Sounds From The Other Side,Wizkid,211293,1,dancehall
+227,33dN3Nd9aRz4nzha4oIGnX,Godly,Omah Lay,What Have We Done,Omah Lay,175215,0,dancehall
+228,35056uy2b4M1qJ3Z1ed3sf,Sere,SPINALL;Fireboy DML,Grace,SPINALL,185454,0,dancehall
+229,3B5slaBuBK0BsuNw570pmx,Like I Do,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,232800,0,dancehall
+230,3FEc6z5Q5mgeZtbeBDNEEy,African Queen,2Baba,REWIND. SELECT. UPDATE,2Baba,264360,0,dancehall
+231,3FskQrDXcY24ur2fCvz35O,Ye,Burna Boy,Outside,Burna Boy,231618,1,dancehall
+232,3KSnA0j67IFkiwmEotMGin,Secret (feat. Jeremih & Serani),Burna Boy;Jeremih;Serani,African Giant,Burna Boy,203537,1,dancehall
+233,3N3PWNgtiqsdLY5PQTKw6w,Rock,Olamide,UY Scuti,Olamide,185769,1,dancehall
+234,3PnkEOvEKu7s2qQJ5mHpNl,Come My Way,Wande Coal,Come My Way,Wande Coal,208718,0,dancehall
+235,3Q2hwP99f1IU9DaHcyB1vM,Things I Need,Peruzzi,Hypertension / Things I Need,Peruzzi,158608,1,dancehall
+236,3QO1m6i0nsrp8aOnapvbkx,Blessed (feat. Damian Marley),Wizkid;Damian Marley,Made In Lagos,Wizkid,262973,0,dancehall
+237,3RZoPvPHZsPTTc94DfWSCL,Zombie,Fela Kuti,Zombie,Fela Kuti,745653,0,afrobeat
+238,3Ry6M5to0EblssBg3pfJt8,Patek,Mr Eazi;DJ Tarico;Joey B,Patek,Mr Eazi,218396,1,dancehall
+239,3XsNRi2cypsksscysYbyaF,Drive - Edit,Black Coffee;David Guetta;Delilah Montagu,Subconsciously,Black Coffee,191258,0,deep-house
+240,3Yt1ovsh3v3VEzRuhI1TL5,Joro,Wizkid,Joro,Wizkid,262736,0,dancehall
+241,3Z9B9GQ2fFx4IRCG8bbWys,Somebody’s Son (Ft Brandy),Tiwa Savage;Brandy,Water & Garri,Tiwa Savage,218130,0,dancehall
+242,3dEqPYFBUAOU0fqpudVnJW,Want (feat. Fave),Olamide;Fave,UY Scuti,Olamide,101250,1,dancehall
+243,3dOBB8XZNu8aqi7JstoRZO,Dangerous Love,Fuse ODG;Sean Paul,T.I.N.A.,Fuse ODG,235375,0,dancehall
+244,3gUQD6BF1RKWsWfboTZYuE,temptations,Omah Lay,Boy Alone,Omah Lay,151588,0,dancehall
+245,3h7pI8oM2CpXiNSZbQuEtV,Million Pound Girl (Badder Than Bad),Fuse ODG,T.I.N.A.,Fuse ODG,246124,0,dancehall
+246,3iRKwxW8ZDjmL9nKk3nisz,Jaiye Foreign,Tiwa Savage;Zinoleesky,Jaiye Foreign,Tiwa Savage,190164,0,dancehall
+247,3ketN3dth18vSJ1T3HIztN,B. D’OR (feat. Wizkid),Burna Boy;Wizkid,B. D’OR (feat. Wizkid),Burna Boy,189800,0,dancehall
+248,3kv0lHXKrW8oltTe7fYbBq,Peru - R3HAB Remix,Fireboy DML;Ed Sheeran;R3HAB,Peru (R3HAB Remix),Fireboy DML,149752,1,dancehall
+249,3lB31lvF4GEwKwMgFWwCJ7,Nomalizo,Letta Mbulu,In The Music The Village Never Ends,Letta Mbulu,311866,0,afrobeat
+250,3mNtJ94LS5gTrclSCE9w9r,Eye Nyam Nam 'A' Mensuro - Henrik Schwarz Blend,Ebo Taylor;Pat Thomas;Henrik Schwarz,Ene Nyame (Henrik Schwarz Blend),Ebo Taylor,563866,0,afrobeat
+251,3qF8DcoQpQ1IXlMbTKHylP,Pull Up,Timaya;Burna Boy,Chulo Vibes,Timaya,196800,0,dancehall
+252,3qvZW1bLvAsJIUhYcuvf4F,Real Life (feat. Stormzy),Burna Boy;Stormzy,Twice As Tall,Burna Boy,197933,1,dancehall
+253,3s6ltUrI93LBKU8taezsLn,Magic in the Air (feat. Ahmed Chawki),Magic System;Chawki,Africainement vôtre,Magic System,233693,0,french
+254,3uaObCyjKCjktezgA5MBX1,Personally - Bonus,P-Square,Double Trouble,P-Square,192885,0,dancehall
+255,414J8tKHbtF16XOiHGBEso,Tezeta (Nostalgia),Mulatu Astatke,"Ethiopiques, Vol. 4: Ethio Jazz 1969-1974",Mulatu Astatke,376640,0,afrobeat
+256,4204hwPYuToiuSunPFUoML,True Love (feat. Tay Iwar & Projexx),Wizkid;Tay Iwar;Projexx,Made In Lagos,Wizkid,247333,1,dancehall
+257,44SSviC4R1TkAdsyptjDpE,Anybody,Burna Boy,African Giant,Burna Boy,188741,0,dancehall
+258,45s98gUcOcj5nJeFDNLH2g,Want It All (feat. Polo G),Burna Boy;Polo G,Want It All (feat. Polo G),Burna Boy,232500,1,dancehall
+259,48BBynvMm4jmI7hZ9hgPtU,One Side,Iyanya,One Side,Iyanya,161626,0,dancehall
+260,4DPvMjCqZPTBDpahYjMSy2,Whiskey,Burna Boy,"Love, Damini",Burna Boy,203576,0,dancehall
+261,4FtuDjqmTPP9mjxygLKzEm,Omo,Burna Boy,African Giant,Burna Boy,147143,0,dancehall
+262,4LbEUmACVAFj8e0WrMUdlN,Rock Your Body,Burna Boy,Outside,Burna Boy,221228,0,dancehall
+263,4MjW0jp8b9hAe1dmzJIBCG,Lost (with Angelos feat. Jinadu),Black Coffee;Angelos;Jinadu,Subconsciously,Black Coffee,364951,0,deep-house
+264,4NLFnAPoMAiuuK8iXnit6W,Ozumba Mbadiwe,Reekado Banks,Ozumba Mbadiwe,Reekado Banks,212636,0,dancehall
+265,4S0UUI7C5TRoktM4gnkh06,ON GOD,Shatta Wale,ON GOD,Shatta Wale,195056,1,dancehall
+266,4bUe0OUcwdu85AMBkZzYFg,Toni-Ann Singh (feat. Popcaan),Burna Boy;Popcaan,"Love, Damini",Burna Boy,175677,1,dancehall
+267,4btYeVhPo0QIbUxySZGjba,Shake Body,Skales,Man Of The Year,Skales,208933,0,dancehall
+268,4cukkgbgG9P9PKouQ462aV,bend you,Omah Lay,Boy Alone,Omah Lay,159965,1,dancehall
+269,4eMq3u4vIWoofiziFBTV1j,10 Over 10 (feat. Rotimi),Ayo Jay;Rotimi,Lazy Genius,Ayo Jay,229630,0,dancehall
+270,4lzkcjVC7xT3HBIg2PjJ30,Ghetto Love,Wizkid,Ghetto Love,Wizkid,198367,0,dancehall
+271,4qOfbZChxf8ZLEaAxeotFB,Eko Miami,Maleek Berry,Last Daze Of Summer,Maleek Berry,211764,0,dancehall
+272,4rEuaYXYUrHtcpIo26pxAt,Attention,Tiwa Savage,Attention,Tiwa Savage,208000,0,dancehall
+273,4rlaH7EbXL55bj9pvp57nP,Way Too Big,Burna Boy,Twice As Tall,Burna Boy,200413,1,dancehall
+274,51mLQ3w7yR7vjdSTFLWaY5,Ginger (feat. Burna Boy),Wizkid;Burna Boy,Made In Lagos,Wizkid,196146,0,dancehall
+275,51psaXOJAkOUdRQrp2Wjsa,Leg Over,Mr Eazi,"Life is Eazi, Vol. 1 - Accra To Lagos",Mr Eazi,197972,0,dancehall
+276,54UrIc5qQRjX128jcvMKIT,Miss You Bad,Mr Eazi;Burna Boy,"Life is Eazi, Vol. 2 - Lagos to London",Mr Eazi,176766,1,dancehall
+277,558ULLj8yY2vT8XGtgY0q9,Loading (feat. Bad Boy Timz),Olamide;Bad Boy Timz,Carpe Diem,Olamide,194000,1,dancehall
+278,5C3vZiMOn2KHMbNQOhL6oQ,No Stress,Wizkid,Made In Lagos,Wizkid,202640,1,dancehall
+279,5CHXbSS76okOT6NeuEY9gr,Oh My Gawd (feat. Nicki Minaj & K4mo),Mr Eazi;Major Lazer;Nicki Minaj;Diplo;K4mo,Oh My Gawd (feat. Nicki Minaj & K4mo),Mr Eazi,180000,0,dancehall
+280,5CTQCPv51aLWpwTbqo8mEL,Bandana,Fireboy DML;Asake,Bandana,Fireboy DML,178225,1,dancehall
+281,5DS9LiyEdw2zY8bM6kjjgM,Infinity (feat. Omah Lay),Olamide;Omah Lay,Carpe Diem,Olamide,171764,1,dancehall
+282,5FG7Tl93LdH117jEKYl3Cm,Essence (feat. Tems),Wizkid;Tems,Made In Lagos,Wizkid,248040,0,dancehall
+283,5GmvLu8Ok9KqBakA6jTEVK,Abule,Patoranking,Three,Patoranking,199198,0,dancehall
+284,5J4FiKDJIdJ8AKx2gaWMt4,Your Number,Ayo Jay,Your Number,Ayo Jay,204081,0,dancehall
+285,5Ky8pIlNDaSQtxfY45dqMw,Non Living Thing (feat. Oxlade),Sarkodie;Oxlade,No Pressure,Sarkodie,229345,1,dancehall
+286,5MAScTGPHzWAeivPjpATa9,"My Woman, My Everything (feat. Wandecoal)",Patoranking;Wande Coal,"My Woman, My Everything (feat. Wandecoal) - Single",Patoranking,233717,0,dancehall
+287,5PRGmpPJzsrOXijZdXalVK,TOP MAMA,SPINALL;Reekado Banks;Phyno;Ntosh Gazi,TOP MAMA,SPINALL,208141,0,dancehall
+288,5PRU9ErsMVSRNzDeczXanb,Saudi Arabia,Mr Eazi,Something Else,Mr Eazi,119290,0,dancehall
+289,5YbPxJwPfrj7uswNwoF1pJ,Last Last,Burna Boy,"Love, Damini",Burna Boy,172342,0,dancehall
+290,5Zez1biAREA2C8706kdlIb,Like (feat. Kizz Daniel),Iyanya;Davido;Kizz Daniel,Like (feat. Kizz Daniel),Iyanya,150545,0,dancehall
+291,5hVjoL3sHepZROri63wBxP,It's Plenty,Burna Boy,"Love, Damini",Burna Boy,216991,1,dancehall
+292,5jqh2kAjz4GxjOS3HHSz17,Bank On It,Burna Boy,Twice As Tall,Burna Boy,276536,0,dancehall
+293,5lAOltJO0aw2FUP5Use4cD,Baby I'm Jealous,Mr Eazi;emPawa Africa;King Promise,One Day You Will Understand,Mr Eazi,150000,0,dancehall
+294,5lLwFE3fCAQllnPLsKtFP9,Hypertension,Peruzzi,Hypertension / Things I Need,Peruzzi,197894,0,dancehall
+295,5lYLBAH2uSvERWy8GAcBJz,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) - Slowed + Reverb,Amaarae;Kali Uchis;Moliy;xxtristanxo,SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy) [Slowed + Reverb],Amaarae,138646,1,alternative
+296,5mN3xSyvCmFy1jkdA98IfS,Fever,Wizkid,Fever,Wizkid,252244,0,dancehall
+297,5nUiz96J8ZSmwoSuL4sGvh,Gum Body (feat. Jorja Smith),Burna Boy;Jorja Smith,African Giant,Burna Boy,195073,0,dancehall
+298,5rJSFuBV3QBGTrywHJt5sA,Coconut,Manu Dibango,African Voodoo,Manu Dibango,131045,0,afrobeat
+299,5srIkb35ees5dhgjK3zdfz,Collateral Damage,Burna Boy,African Giant,Burna Boy,197558,0,dancehall
+300,5sxFYtIrP2ubyF4S3Of9ZK,Ye Ye Ye,Omah Lay,Get Layd,Omah Lay,207133,1,dancehall
+301,5v8Fxy6Zw8gOzi802lpDOt,woman,Omah Lay,Boy Alone,Omah Lay,168742,0,dancehall
+302,5zN3hyqfKLYMZ0VGnBvahT,Ello Baby,Tiwa Savage;Kizz Daniel;Young John,Ello Baby,Tiwa Savage,166008,0,dancehall
+303,60lUecrFeE2t6QMJ1Nmsve,Anoti,Wizkid,Made In Lagos: Deluxe Edition,Wizkid,181360,1,dancehall
+304,6459gZKddpOoPIH8PAcCwS,All Of Us (Ashawo),Fireboy DML,Playboy,Fireboy DML,183349,1,dancehall
+305,65v99AWZyNz3aRmfrT2I7N,i'm a mess,Omah Lay,Boy Alone,Omah Lay,153946,1,dancehall
+306,672sXt55h2Ol2MTcbKR5Sw,Groovy Flute,Manu Dibango,African Voodoo,Manu Dibango,153097,0,afrobeat
+307,67aiZtmB5ZBCGxBN3pOL6C,Drive,Black Coffee;David Guetta;Delilah Montagu,Drive,Black Coffee,283620,0,deep-house
+308,67bOItGZHSECTH9LffxpUm,Personal Baby,Mr Eazi,Personal Baby,Mr Eazi,173646,1,dancehall
+309,69UTmQOhqIRoGcTWFUidSZ,Ready For You (feat. Celeste),Black Coffee;Celeste,Subconsciously,Black Coffee,268886,0,deep-house
+310,6BnKiK0FwqJoqCdVKh442g,Love You Die (feat. Diamond Platnumz),Patoranking;Diamond Platnumz,Love You Die (feat. Diamond Platnumz),Patoranking,195597,0,dancehall
+311,6G2M6vvToPz12ghZpeJSGe,Atomic Bomb - William Onyeabor vs. Hot Chip,William Onyeabor;Hot Chip,What?!,William Onyeabor,436236,0,afrobeat
+312,6GL0fX7lcTWiWqdCocOLk7,Victory,Eben,Victory,Eben,230505,0,afrobeat
+313,6HrYi2gwKxrwEtZX3Orype,Every Season,Tony Allen;Damon Albarn;Ty,HomeCooking,Tony Allen,247306,0,afrobeat
+314,6K8y9WcUbgv0j7RGceHvym,Ikeja Roads,Tony Allen,Afrobeat Makers (Tony Allen Rhythms Revisited),Tony Allen,160948,0,afrobeat
+315,6MMXwZyjQhw6HaIwFGW0JI,Enkèn Yèlélèbesh,Girma Bèyènè;Akalé Wubé,Mistakes on Purpose (Ethiopiques 30),Girma Bèyènè,238440,0,afrobeat
+316,6RAFf0mJ498F0GzrFZ1ZsS,Peru - Acoustic,Fireboy DML;Ed Sheeran,Peru (Acoustic),Fireboy DML,172256,1,dancehall
+317,6U9jxxdQ6TNzjshIpwWMTf,Ma Lo,Tiwa Savage;Wizkid;Spellz,Sugarcane,Tiwa Savage,182857,0,dancehall
+318,6UbWYuDxDYmYYhsNYuYPPC,Rollercoaster (feat. J Balvin),Burna Boy;J Balvin,"Love, Damini",Burna Boy,187269,0,dancehall
+319,6XPPB2eOwBid6EbveTmVYe,Shakara,Ice Prince;CKay,Shakara,Ice Prince,200869,0,dancehall
+320,6cfRX5ktaMj7ZzwM68HrYG,how to luv,Omah Lay,Boy Alone,Omah Lay,151117,1,dancehall
+321,6g8A0XVikKuWbcJv7p2I5Q,Pree Me,Burna Boy,Pree Me,Burna Boy,200501,1,dancehall
+322,6g8vNyogMW32lhHlNcDiwX,Diana,Fireboy DML;Chris Brown;Shenseea,Playboy,Fireboy DML,232155,1,dancehall
+323,6gHUiXF4BiJ9d7biTNmdKR,The Mood,Timaya,Chulo Vibes,Timaya,161684,0,dancehall
+324,6hyTI3In7vu6fqFRoypcuz,Common Person,Burna Boy,"Love, Damini",Burna Boy,210346,0,dancehall
+325,6jdTkoEaer7XNGSblczoSu,Mood (feat. BNXN),Wizkid;BNXN fka Buju,Made In Lagos: Deluxe Edition,Wizkid,209760,0,dancehall
+326,6kxo2n2WY48fAhLuiwYOAb,Sere - Remix,SPINALL;Fireboy DML;6LACK,Sere (Remix),SPINALL,194181,0,dancehall
+327,6mAdcIFP25eb37HjkzglSh,Steady,Wizkid,Made In Lagos: Deluxe Edition,Wizkid,203026,0,dancehall
+328,6oOCGD2Sp9UTcDsuDz8Hdu,understand,Omah Lay,Boy Alone,Omah Lay,174545,0,dancehall
+329,6pdip6qgVJOI5JxqgbAlu6,JA ARA E,Burna Boy,The Lion King: The Gift,Burna Boy,190108,0,dancehall
+330,6qXdAsUH8I7j3A0d7sX6qz,What If I Say,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,213916,0,dancehall
+331,6qk3jI8bKCgURI3h0d8zBZ,Again,Wande Coal,Realms,Wande Coal,156083,0,dancehall
+332,6tTeRmhhuwDl5Y4UiJdHuO,attention,Omah Lay;Justin Bieber,attention,Omah Lay,180563,0,dancehall
+333,6vxVWANYDzpoWJcF4vVbr2,Jesus at the Centre,Eben,Victory,Eben,369529,0,afrobeat
+334,71iknvVFjHMMs0nit8eh2M,Doyin,Mr Eazi;Simi,Doyin,Mr Eazi,153962,0,dancehall
+335,73QcmfEnoLv3pKt0aXKdOG,We Outside,Olamide,We Outside,Olamide,155428,1,dancehall
+336,73e0LixjWj3e8prfptVeGD,More Life,Burna Boy,Outside,Burna Boy,92342,0,dancehall
+337,771tThfRECkaHjTKb6clZx,Begging,Yemi Alade,Begging,Yemi Alade,135272,0,dancehall
+338,7AgLmxi5osmwH9dEm1ck4j,Change,Fireboy DML,Playboy,Fireboy DML,162903,1,dancehall
+339,7BGzlL4gGNqlevuJXMTKxJ,BomBae,Fuse ODG;Zack Knight;Badshah,BomBae,Fuse ODG,242843,0,dancehall
+340,7EEinxDxDsRX3AIIJ026TZ,safe haven,Omah Lay,Boy Alone,Omah Lay,169031,0,dancehall
+341,7EqoATlXAKNwzv45LAlqRt,23,Burna Boy,Twice As Tall,Burna Boy,245920,1,dancehall
+342,7JPNvoMjoIXkTDAMx9Aajj,Tezeta,Mulatu Astatke,New York - Addis - London: The Story of Ethio Jazz 1965-1975,Mulatu Astatke,368539,0,afrobeat
+343,7aUlBqAHppttybHHYrefZk,Turn Me On,Black Coffee,Turn Me On / Come To Me,Black Coffee,445746,0,deep-house
+344,7gReWQ16Qs5gtAkytHEKB8,Don Dada,Timaya,Gratitude,Timaya,208040,1,dancehall
+345,7ihWJfl0tB31F46fMiAVBZ,Shekini,P-Square,Double Trouble,P-Square,218165,0,dancehall
+346,7lJtRbSmuXwzoeFbtrYHzr,Can't Relate,Omah Lay,What Have We Done,Omah Lay,183640,1,dancehall
+347,7pG2mohladBSpE6CqxFik5,Johnny,Yemi Alade,King Of Queens,Yemi Alade,236012,0,dancehall
+348,7rpWDu9GPlLxbLorYKVys7,Gbona,Burna Boy,African Giant,Burna Boy,187609,0,dancehall
+349,7u0z6FcJDqkZwdpqAqUzmO,Vibration,Fireboy DML,"Laughter, Tears & Goosebumps",Fireboy DML,198461,0,dancehall
+350,7vQYsdVQMbB8d8DSxtHSgr,Power (Remember Who You Are) - From The Flipper’s Skate Heist Short Film,SPINALL;Äyanna;DJ Snake;Summer Walker,Power (Remember Who You Are) [From The Flipper’s Skate Heist Short Film],SPINALL,205530,0,dancehall
+351,7voSun33hCNkIrjxaj3g47,Peru - Remix,Fireboy DML;21 Savage;Blxst,Peru (Remix),Fireboy DML,186952,1,dancehall
+352,7xdHQUxVj0aOAvUOGLCYj3,Love My Baby,Wizkid,Superstar,Wizkid,246828,0,dancehall
+353,7xzMrUmlooPa1Fmp88hlYc,Sodade,Cesária Evora,Miss Perfumado,Cesária Evora,293640,0,world-music
+354,7yIsvwkZuWuskQrbtVWfrN,Tattoo,Fireboy DML,APOLLO,Fireboy DML,176842,0,dancehall
+355,000RDCYioLteXcutOjeweY,Teeje Week,Jordan Sandhu,Teeje Week,Jordan Sandhu,190203,0,hip-hop
+356,01AKiTk6iF60Kpvitd1Ih1,Astaghfirullah,MC STAN,Astaghfirullah,MC STAN,213333,1,hip-hop
+357,02Z90kqEwTvBQEOmP6jxyk,La La La (Reprise),Arjun Kanungo,La La La (Reprise),Arjun Kanungo,146666,0,hip-hop
+358,04VUjNx30IrigVZU3CQmrQ,Mercy,Badshah,ONE (Original Never Ends),Badshah,162404,0,hip-hop
+359,05REArTDZQd59A9Y4XC0Aq,Maine Khud Ko,Mustafa Zahid,Ragini Mms 2,Mustafa Zahid,329072,0,hip-hop
+360,05sqcYfU2wMlKwPVJ0rotq,Afsanay,Young Stunners;Talha Anjum;Talhah Yunus,Afsanay,Young Stunners,343118,0,hip-hop
+361,08Isz2ETWSBhvIl8UpKYsp,No Love,Shubh,No Love,Shubh,170387,0,hip-hop
+362,08j9wzt7Q9Ucq1IrpD4GVq,Machayenge,Emiway Bantai,Machayenge,Emiway Bantai,153077,0,hip-hop
+363,0BV0AYGLVlu2SdjN3J9twp,Fed Up,Ghostemane,ANTI-ICON,Ghostemane,151625,1,hip-hop
+364,0C4KChnQFHNgtjbppUFooH,Dirty Little Secret,Zack Knight;Nora Fatehi,Dirty Little Secret,Zack Knight,183092,0,hip-hop
+365,0F7FA14euOIX8KcbEturGH,Old Town Road,Lil Nas X,7 EP,Lil Nas X,113000,0,hip-hop
+366,0FoAlOXHI6KJ4RHP9v8jnw,Baby Girl,Guru Randhawa;Dhvani Bhanushali,Baby Girl,Guru Randhawa,207493,0,hip-hop
+367,0Fs9cdPDhptWEDJmiCbkEW,She Knows (feat. Amber Coffman & Cults),J. Cole;Cults;Amber Coffman,Born Sinner (Deluxe Version),J. Cole,296520,1,hip-hop
+368,0HTb4JfMtMkMYUtyd19In3,Baari,Bilal Saeed;Momina Mustehsan,Baari,Bilal Saeed,235297,0,hip-hop
+369,0I9RbCJItXY1jxGIAsQT0t,Jalsa Jalsa,Baba Sehgal;Rita,Jalsa,Baba Sehgal,258384,0,hip-hop
+370,0Id2IzhR3w50aP2PHfMUE3,Nira Ishq,Guri,Nira Ishq,Guri,181514,0,hip-hop
+371,0JBnAsReYppHqCZJbqy5H8,SYL,Sidhu Moose Wala,SYL,Sidhu Moose Wala,249662,0,hip-hop
+372,0JP9xo3adEtGSdUEISiszL,Moonlight,XXXTENTACION,?,XXXTENTACION,135090,1,hip-hop
+373,0M4HcGtxIWVVH4rSNp6XhQ,Dejalo,King,Champagne Talk,King,202826,0,hip-hop
+374,0MHiYjjcHNYM9KURa6NveF,"Manavaalan Thug - From ""Thallumaala""",Dabzee;SA,"Manavaalan Thug (From ""Thallumaala"")",Dabzee,200000,0,hip-hop
+375,0MRg2bzlVhGQTi4ecu792k,Vardaan,Ajey Nagar (CarryMinati);Wily Frenzy,Vardaan,Ajey Nagar (CarryMinati),202105,0,hip-hop
+376,0MYof8K1RPjc1Htnr7CDa6,Snake,MC STAN,Snake,MC STAN,281088,0,hip-hop
+377,0OvC1QkWdBI3ORrp2lEhNO,Pind Da Riwaaz,Wazir Patar;Azaad,Keep It Gangsta,Wazir Patar,188181,1,hip-hop
+378,0PcbVYxqG9Gx5vkEomupjJ,Band Theke,Jordan Sandhu,Band Theke,Jordan Sandhu,187835,0,hip-hop
+379,0QHEWicUbdyWuHsMcVd1Ka,"Chaar Botal Vodka (From ""Ragini Mms 2"")",Yo Yo Honey Singh,Yo Yo Honey Singh Is Back,Yo Yo Honey Singh,225837,0,hip-hop
+380,0RFxx8rwddnW4j9COvLmGK,Dilaan De Rajya,Maninder Buttar,Dilaan De Rajya,Maninder Buttar,122336,0,hip-hop
+381,0RGp4KA9wvndxqPIWoKwnD,Yalgaar,Ajey Nagar (CarryMinati);Wily Frenzy,Yalgaar (Original),Ajey Nagar (CarryMinati),195652,0,hip-hop
+382,0RRPAATvIWbP1BsvCaOYsO,Dracula,King,The Carnival,King,182400,0,hip-hop
+383,0SlwcOEjRSEdkOD7DRcPvg,Blood Talks,Jordan Sandhu;Zikar Sandhu,Blood Talks,Jordan Sandhu,188000,0,hip-hop
+384,0TYsZbl0ryJSUvyQeeLBRG,Aj Kal Ve,Sidhu Moose Wala,Snitches Get Stitches,Sidhu Moose Wala,203720,0,hip-hop
+385,0TeH0rRFmef6eqk86MPyUA,MACHAYENGE 4,Emiway Bantai,MACHAYENGE 4,Emiway Bantai,620320,1,hip-hop
+386,0TzpHT6hJ5pb3P6CqIduh3,Bt Ho Gayi,Paradox,Hustle 2.0,Paradox,160851,0,hip-hop
+387,0U8fm89VKJwDYa0mzh6foW,Badmos Chora,MC SQUARE,Hustle 2.0,MC SQUARE,144000,0,hip-hop
+388,0VgkVdmE4gld66l8iyGjgx,Mask Off,Future,FUTURE,Future,204600,1,hip-hop
+389,0WNCYgCd33LnBnw22WFuq8,Bhula Dena,Mustafa Zahid,Aashiqui 2,Mustafa Zahid,240723,0,hip-hop
+390,0YLSjVxSb5FT1Bo8Tnxr8j,Baaraat,Ritviz;Nucleya,Baaraat,Ritviz,222096,0,hip-hop
+391,0Yzg5gttgeusAFIDCNPR77,Dope Shope,Yo Yo Honey Singh;Deep Money,Chaar Ikke,Yo Yo Honey Singh,211764,0,hip-hop
+392,0Z2SFlnXH9yMN36djUeqyE,Fuck Em All,Sidhu Moose Wala;Sunny Malton,Fuck Em All,Sidhu Moose Wala,234130,1,hip-hop
+393,0a6zRnrjmaOcqsEIFkXIhw,Khaab,Akhil,Khaab,Akhil,201689,0,hip-hop
+394,0cHjQQFedPu64QoHmJdUlu,8 Cylinder,Sidhu Moose Wala,8 Cylinder,Sidhu Moose Wala,188780,0,hip-hop
+395,0cpyy8xLYRt1OdlnqPmMnm,Majhail,AP Dhillon;Gurinder Gill;Manni Sandhu,Majhail,AP Dhillon,175187,0,hip-hop
+396,0e8nrvls4Qqv5Rfa2UhqmO,THATS WHAT I WANT,Lil Nas X,MONTERO,Lil Nas X,143901,1,hip-hop
+397,0e9DDb2TnNwSv8lV1EpMuD,Notorious,Wazir Patar,Notorious,Wazir Patar,180000,1,hip-hop
+398,0eFNR4nWuhgvBw6vSDyVHj,Jatt Life,Varinder Brar,Jatt Life,Varinder Brar,242772,0,hip-hop
+399,0eu4C55hL6x29mmeAjytzC,Life Goes On,Oliver Tree,"Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",Oliver Tree,161803,0,hip-hop
+400,0fGclndst25Qqy8j4u5De5,"Chellamma (From ""Doctor"")",Anirudh Ravichander;Jonita Gandhi,"Chellamma (From ""Doctor"")",Anirudh Ravichander,236500,0,hip-hop
+401,0fX4oNGBWO3dSGUZcVdVV2,N95,Kendrick Lamar,Mr. Morale & The Big Steppers,Kendrick Lamar,195950,1,hip-hop
+402,0gmEt2nKOssVRStyUmjSpE,Jaadugar,Paradox,Hustle 2.0,Paradox,192000,0,hip-hop
+403,0gzu5mm36VJH2Zqu8sQPTf,Genda Phool (feat. Payal Dev),Badshah;Payal Dev,Genda Phool (feat. Payal Dev),Badshah,170769,0,hip-hop
+404,0hAMknym1ZPciljhPuX8pl,Its All About You,Sidhu Moose Wala,Its All About You,Sidhu Moose Wala,243157,0,hip-hop
+405,0iJPMG79hgWnDHjufnoplb,Porkanda Singam EDM Version (Additional Song),Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,149433,0,hip-hop
+406,0kzmBBR1Jjx5zBZKx9lsJr,Legend,Sidhu Moose Wala,Legend,Sidhu Moose Wala,278622,0,hip-hop
+407,0l1i3nJ4aDMk0inxnvzYTz,Amplifier,Imran Khan,Amplifier,Imran Khan,232906,0,hip-hop
+408,0mvcsYusnTYlAkOZ077lDb,Ghana Kasoota (feat. Surbhi Jyoti),Raftaar;Rashmeet Kaur;Surbhi Jyoti,Ghana Kasoota (feat. Surbhi Jyoti),Raftaar,168640,0,hip-hop
+409,0obvnPQaTe8fRAQHWyOWBv,Pathala Pathala,Anirudh Ravichander;Kamal Haasan,Vikram (Original Motion Picture Soundtrack),Anirudh Ravichander,211384,0,hip-hop
+410,0pM7PCxuclmb1qsjTqt6WX,Nenjinile Rebirth,Chris G.;Mc Sai;Sahi Siva,Nenjinile Rebirth,Chris G.,215800,0,hip-hop
+411,0pPMSxTHDxROblb7yID8Ar,Иса,Andro,MOON FLAME,Andro,159529,0,hip-hop
+412,0qvoxfYodIfe14gaidhnsV,Andha Kanna Paathaakaa,Anirudh Ravichander;Yuvan Shankar Raja,Master (Original Motion Picture Soundtrack),Anirudh Ravichander,194500,0,hip-hop
+413,0sSapNABKrGwgaMhn0p8uL,Long Drive,Mika Singh,Khiladi 786,Mika Singh,268442,0,hip-hop
+414,0t0mHozF8Xsif9w8bemh9D,"So Baby (From ""Doctor"")",Anirudh Ravichander;Ananthakrrishnan,"So Baby (From ""Doctor"")",Anirudh Ravichander,252631,0,hip-hop
+415,0uk9sQ7MjK0CdAUinD4xBV,Ek Din Pyaar,MC STAN,Tadipaar,MC STAN,186600,1,hip-hop
+416,0usNFsDDoVMYVE732zM3QI,KR L$DA SIGN,Emiway Bantai,KR L$DA SIGN,Emiway Bantai,492160,1,hip-hop
+417,0wGrTrI43CKmfzbFNNhftb,East Side Flow,Sidhu Moose Wala,East Side Flow,Sidhu Moose Wala,224211,0,hip-hop
+418,0wgOTeDbMblOxncPcXLCvf,Ghost Unmasked - Background Score,Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,74410,0,hip-hop
+419,0xttqqTj7ZAGyVkfOYxQ4F,Nee Paartha Vizhigal - The Touch of Love,Anirudh Ravichander;Vijay Yesudas;Shweta Mohan,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,264506,0,hip-hop
+420,0yCWDaAgOtg6TKlNCg9rwA,Tu Aake Dekhle,King,The Carnival,King,270000,0,hip-hop
+421,0ydyIEJ02X3kcZ6Bop6sHO,Sohne Lagde,Sidhu Moose Wala;The PropheC,Sohne Lagde,Sidhu Moose Wala,209453,0,hip-hop
+422,0zsA45R0SQPfqC5TyDOqY8,Neeyum Naanum Anbe,Hiphop Tamizha;Raghu Dixit;Sathyaprakash D.;Jithin Raj,Imaikkaa Nodigal (Original Motion Picture Soundtrack),Hiphop Tamizha,285250,0,hip-hop
+423,12D1SCxBRDjbROUa5GQkf1,Usuraiya Tholaichaen,Stephen Zechariah;Pragathi Guruprasad,Usuraiya Tholaichaen,Stephen Zechariah,339442,0,hip-hop
+424,12LE4Omy9ze8xTOMofMVB3,"Porkanda Singam (EDM Version) [From ""Vikram""]",Anirudh Ravichander,"Porkanda Singam (EDM Version) [From ""Vikram""]",Anirudh Ravichander,149433,0,hip-hop
+425,12V0iduYsoXxsQYTSeFB2H,Viah,Jass Manak,Age 19,Jass Manak,162441,0,hip-hop
+426,12afGworQ5MJaw8M8hBd9b,Yaar Beli,Guri,Yaar Beli,Guri,211796,0,hip-hop
+427,1418IuVKQPTYqt7QNJ9RXN,Maan Meri Jaan,King,Champagne Talk,King,194653,0,hip-hop
+428,15JINEqzVMv3SvJTAXAKED,Love The Way You Lie,Eminem;Rihanna,Recovery,Eminem,263373,1,hip-hop
+429,16xg7UwH9hbs96vCD8k6bC,GRIND,Emiway Bantai,GRIND,Emiway Bantai,175449,0,hip-hop
+430,18oO0TSyS9lIW9sioZyCNN,Aankhein,Vilen,Aankhein,Vilen,219428,0,hip-hop
+431,19EZKr7Kf0XWCcspyWL8Rp,Celebrity Killer (feat. Tion Wayne),Sidhu Moose Wala;Tion Wayne,Moosetape,Sidhu Moose Wala,203333,0,hip-hop
+432,1C5e7ZRscn79tjMEc3swc7,Kangna,Dr Zeus;Master Rakesh;Shortie;Deepti,Unda Da Influence,Dr Zeus,210680,0,hip-hop
+433,1CYn0jiSz0gubTpYJbuTMS,Uchiyaan Dewaraan,Bilal Saeed;Momina Mustehsan,Uchiyaan Dewaraan,Bilal Saeed,227976,0,hip-hop
+434,1DIXPcTDzTj8ZMHt3PDt8p,Gangsta's Paradise,Coolio;L.V.,Gangsta's Paradise,Coolio,240693,0,hip-hop
+435,1FdbP9ZAcqQnOcda55boaL,Billian Billian,Guri,Billian Billian,Guri,177600,0,hip-hop
+436,1Hdz67JES35Z4h3Yd4PXvV,Bimbilikki Pilapi,Anirudh Ravichander;Ramya Behra;Sahithi Chaganti,Prince (Tamil),Anirudh Ravichander,247000,0,hip-hop
+437,1J9OoW4eLxIjwo10lBB83x,Broke Is A Joke,MC STAN,Broke Is A Joke,MC STAN,215409,1,hip-hop
+438,1JxGjonVZMfWUxorsVLYQQ,Pind Hood Damn Good (RMG Intro),Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,75000,0,hip-hop
+439,1LFTKTSfPQRM3a8mOvNtnE,Ethir Neechal,Anirudh Ravichander;Yo Yo Honey Singh;Hiphop Tamizha,Ethir Neechal (Original Motion Picture Soundtrack),Anirudh Ravichander,270720,0,hip-hop
+440,1MGvSryQcSR7zsNG4lQOjN,Lil Bunty,KR$NA,Lil Bunty,KR$NA,192000,1,hip-hop
+441,1O00WM9qGLUBA5gq2yw0WF,Bloodlust (feat. Mr. Capone-E),Sidhu Moose Wala;Mr. Capone-E,No Name,Sidhu Moose Wala,159085,0,hip-hop
+442,1O3WfEwaSpsgZ6tw8jNT8I,Maana Ke Hum Yaar Nahin,Sachin-Jigar;Parineeti Chopra;Kausar Munir,Meri Pyaari Bindu,Sachin-Jigar,264614,0,hip-hop
+443,1PaxAUxLEVpi75l0nDtwu1,Sakkarakatti,Hiphop Tamizha,Meesaya Murukku (Original Motion Picture Soundtrack),Hiphop Tamizha,189358,0,hip-hop
+444,1PckUlxKqWQs3RlWXVBLw3,About Damn Time,Lizzo,About Damn Time,Lizzo,191822,1,hip-hop
+445,1QZRCi2Z1DQQaR6bGAzhtN,Love Dose,Yo Yo Honey Singh,Desi Kalakaar,Yo Yo Honey Singh,224444,0,hip-hop
+446,1SC5rEoYDGUK4NfG82494W,MONTERO (Call Me By Your Name),Lil Nas X,MONTERO,Lil Nas X,137704,1,hip-hop
+447,1SFwLNaHkV8WhW3ud1GBIJ,Hanji Hanji,Amrit Maan;The PropheC,Hanji Hanji,Amrit Maan,214459,0,hip-hop
+448,1TRgZ55GFCKSbrTb62rmra,No Competition,Jass Manak;DIVINE,No Competition,Jass Manak,205500,0,hip-hop
+449,1UUgngRGzFWfgpyN0WAN1r,"Naan Pizhai (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander;Ravi G;Shashaa Tirupati,"Naan Pizhai (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander,243570,0,hip-hop
+450,1VvGJIAjhGdB7InVP9NA7V,Haareya,Sachin-Jigar;Arijit Singh;Priya Saraiya,Meri Pyaari Bindu,Sachin-Jigar,214735,0,hip-hop
+451,1W1dS4VnIrYnllQJ3CAcZy,So High,Sidhu Moose Wala,So High,Sidhu Moose Wala,218666,0,hip-hop
+452,1XWCqa4qi714D7THtTk4Xk,Tera Mera Viah,Jass Manak,Tera Mera Viah,Jass Manak,197142,0,hip-hop
+453,1XdUEm2MwB6ysy6E80ltMg,No Cap,KR$NA,No Cap,KR$NA,205423,1,hip-hop
+454,1ZMq0qzXfGnFo7BN03yddJ,Ilzaam (From the Album 'Industry'),Arjun Kanungo;King,Ilzaam (From the Album 'Industry'),Arjun Kanungo,247374,0,hip-hop
+455,1a9fgoiGXoWmaFm60n1YeK,Laal Bindi,Akull,Holi Party With Akull,Akull,202963,0,hip-hop
+456,1aL9518P5G72N92b48tuKw,Summer High,AP Dhillon,Summer High,AP Dhillon,177391,0,hip-hop
+457,1aQ58u4guUf999iQX3J2HF,"Beast Mode (From ""Beast"")",Anirudh Ravichander,"Beast Mode (From ""Beast"")",Anirudh Ravichander,220350,0,hip-hop
+458,1aUfggX5E0nKDikNuiDQ3D,Ishq Tera,Guru Randhawa,Ishq Tera,Guru Randhawa,211931,0,hip-hop
+459,1cQQk3EyZsWrbIzRBz68P9,Me and My Girlfriend,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,203544,0,hip-hop
+460,1fewSx2d5KIZ04wsooEBOz,Space Cadet (feat. Gunna),Metro Boomin;Gunna,NOT ALL HEROES WEAR CAPES (Deluxe),Metro Boomin,203266,1,hip-hop
+461,1gwu4J4HIbbQrPUHHRc415,Chup Chup,Wazir Patar;Roop Bhullar,Keep It Gangsta,Wazir Patar,155714,0,hip-hop
+462,1iKqYeWSuNtpiv1L9IGAbB,"Hathyar - From ""Sikander 2""",Sidhu Moose Wala;The Kidd,"Hathyar (From ""Sikander 2"")",Sidhu Moose Wala,276279,0,hip-hop
+463,1kJL5ouqpWRitSej8fdTor,GOAT,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,214883,0,hip-hop
+464,1lIb7Ze8PHhWwdXDtPF00j,"Jailaan (From ""Moosa Jatt"")",Sidhu Moose Wala,"Jailaan (From ""Moosa Jatt"")",Sidhu Moose Wala,178604,0,hip-hop
+465,1n1b2lwdRdWF5RAaA0vewk,Aahun Aahun,Neeraj Shridhar;Master Saleem;Suzi Q,Love Aaj Kal (Original Motion Picture Soundtrack),Neeraj Shridhar,290493,0,hip-hop
+466,1orM67pmkNc4alrZkWjYkV,Naach Meri Rani,Guru Randhawa;Nikhita Gandhi;Tanishk Bagchi;Nora Fatehi,Naach Meri Rani,Guru Randhawa,212692,0,hip-hop
+467,1ozrNv9W4KlprAmvgH0Yrq,"High Rated Gabru (From ""Nawabzaade"")",Guru Randhawa,"High Rated Gabru (From ""Nawabzaade"")",Guru Randhawa,179099,0,hip-hop
+468,1pFOGFtQyqdlFgzmSVJ2fz,Adore You,Prabh Gill,Adore You,Prabh Gill,60000,0,hip-hop
+469,1pLKHyfC7VPp7NPJqwxzMp,Gang wale munde,Paradox,Hustle 2.0,Paradox,153000,0,hip-hop
+470,1pW5BQT2ltq0NPSlbkev0v,Pablo,King,Pablo,King,279120,1,hip-hop
+471,1qrAgbcxQpeaDv4ptgjl9e,Shinin',Tegi Pannu;Manni Sandhu,Shinin',Tegi Pannu,195699,0,hip-hop
+472,1r8ZCjfrQxoy2wVaBUbpwg,Thousand Miles,The Kid LAROI,Thousand Miles,The Kid LAROI,164781,1,hip-hop
+473,1rDQ4oMwGJI7B4tovsBOxc,First Class,Jack Harlow,First Class,Jack Harlow,173947,1,hip-hop
+474,1rDQJd8kzwBRXeoTtojkQn,Roz,Ritviz;Nucleya,Baaraat,Ritviz,219240,0,hip-hop
+475,1skGwRjc7wYY70PJCAkKMr,Love Sick (feat. AR Paisley),Sidhu Moose Wala;AR Paisley,No Name,Sidhu Moose Wala,232258,0,hip-hop
+476,1sroeVHD561J3z28gphnlf,Tibeyan Da Putt,Sidhu Moose Wala,Tibeyan Da Putt,Sidhu Moose Wala,308571,0,hip-hop
+477,1sxh0eqIb8ulYypPuq6ZRu,"Bhaag D.K. Bose, Aandhi Aayi",Ram Sampath,Delhi Belly (Original Motion Picture Soundtrack),Ram Sampath,241304,0,hip-hop
+478,1t25hKpVYInuzw2opW97yJ,Lethal,Rav Aulakh,Lethal,Rav Aulakh,151128,0,hip-hop
+479,1tEto4JrqNmBZFH5uAiYqb,Sadi Gali,Lehmber Hussainpuri,Tanu Weds Manu,Lehmber Hussainpuri,264900,0,hip-hop
+480,1tzMa1ma7O05lIgr4XKia8,angels,HRJXT;Intense,Twenty Two,HRJXT,204545,0,hip-hop
+481,1v7L65Lzy0j0vdpRjJewt1,"Lose Yourself - From ""8 Mile"" Soundtrack",Eminem,Just Lose It,Eminem,322226,1,hip-hop
+482,1v8NfOckFEnck9gp7iyetm,Bachalo,Akhil,Bachalo,Akhil,165108,0,hip-hop
+483,1vDK1yoxF0mOkckgDfPDj2,Baazi,King,Baazi,King,208800,0,hip-hop
+484,1vSXwYeKnzsVvekSpqVabx,Chikni Chameli,Ajay-Atul;Shreya Ghoshal,Agneepath (Original Motion Picture Soundtrack),Ajay-Atul,301586,0,hip-hop
+485,1vnDu8pbmwz88G6RDugerQ,Kannuladha - The Kiss of Love,Anirudh Ravichander;Dhanush;Shruti Haasan,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,206253,0,hip-hop
+486,1w3exvIgbRFV2ijf6qyWm8,Everybody Hurts,Sidhu Moose Wala,No Name,Sidhu Moose Wala,173333,0,hip-hop
+487,1xSCr5uIndaHKFdO4s2V6B,Satya,DIVINE,Punya Paap,DIVINE,182640,1,hip-hop
+488,1xoQjCAP6a63tZXbsMziXk,Bombay to Punjab,Deep Jandu;DIVINE,Down to Earth,Deep Jandu,243297,0,hip-hop
+489,1zAkNzJZVPrWDCnowb1vpZ,Oh Penne,Anirudh Ravichander;Vishal Dadlani,Vanakkam Chennai (Original Motion Picture Soundtrack),Anirudh Ravichander,276400,0,hip-hop
+490,1zPlQih67ZvC3Xp6c2dxUI,Who Am I ?,Arivu,Prince (Tamil),Arivu,243000,0,hip-hop
+491,1zi7xx7UVEFkmKfv06H8x0,One Dance,Drake;Wizkid;Kyla,Views,Drake,173986,0,hip-hop
+492,209pScL6fUhISxcLWkB6rf,Lokiverse - Background Score,Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,156330,0,hip-hop
+493,20tnxv4NAzTCayQQln3EZP,Dhakka,Sidhu Moose Wala;Afsana Khan,Dhakka,Sidhu Moose Wala,246818,0,hip-hop
+494,2109dBho14Lqh2wr8goqAP,Enna Solla - The New Life of Tamizh,Anirudh Ravichander;Shweta Mohan,Thangamagan (Original Motion Picture Soundtrack),Anirudh Ravichander,215999,0,hip-hop
+495,21bFBk0oi19JQzHJoifZSn,Allah Maaf Kre,Amrit Maan;Tehjeeb Hafi,Allah Maaf Kre,Amrit Maan,210000,0,hip-hop
+496,22kRCQPyNXWZSQEcDvCmGD,Gulabi,Sachin-Jigar;Priya Saraiya;Jaideep Sahni,Shuddh Desi Romance,Sachin-Jigar,230661,0,hip-hop
+497,24GlSNySJ9tAwkvZPuVb63,Udhungada Sangu,Anirudh Ravichander,Velai Illa Pattadhaari (Original Motion Picture Soundtrack),Anirudh Ravichander,209640,0,hip-hop
+498,24MVilhtBOg06UxlnNOonf,Bekaar,Vilen,Bekaar,Vilen,197307,0,hip-hop
+499,27NovPIUIRrOZoCHxABJwK,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X;Jack Harlow,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,212000,1,hip-hop
+500,27OeeYzk6klgBh83TSvGMA,WITHOUT YOU,The Kid LAROI,F*CK LOVE (SAVAGE),The Kid LAROI,161384,1,hip-hop
+501,27ZZdyTSQWI7Cug2d2PkqV,BILLIE EILISH.,Armani White,BILLIE EILISH.,Armani White,99282,1,hip-hop
+502,298atiKYvG84VfbXNbZiX5,Adhoore,Vishal Dadlani;Alyssa Mendonsa,Break Ke Baad,Vishal Dadlani,264210,0,hip-hop
+503,29m79w9xPMH4YCD6r8JSmV,Excuses,AP Dhillon;Gurinder Gill;Intense,Excuses,AP Dhillon,176232,0,hip-hop
+504,2AilvPt1AQ8PixlCKqkjfj,Elevated,Shubh,Elevated,Shubh,200658,1,hip-hop
+505,2BcPFQ7nrtUObgAs72xaac,Vaathi Coming,Anirudh Ravichander;Gana Balachandar,Master (Original Motion Picture Soundtrack),Anirudh Ravichander,228257,0,hip-hop
+506,2E2G88mTTJjbbmEpqTkbaV,Tu Meri,Vishal Dadlani,Bang Bang (Original Motion Picture Soundtrack),Vishal Dadlani,257089,0,hip-hop
+507,2GDWnzRp5wsBXMBtR25dzv,Sira E Hou,Amrit Maan;Nimrat Khaira,All Bamb,Amrit Maan,200769,0,hip-hop
+508,2J2da9welNmoeeBDLl9fUk,Aroma,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,256909,0,hip-hop
+509,2JHX4L5wNhzxVMPwc7UMAw,Na Ja Tu,King,Champagne Talk,King,202105,0,hip-hop
+510,2JzZzZUQj3Qff7wapcbKjc,See You Again (feat. Charlie Puth),Wiz Khalifa;Charlie Puth,See You Again (feat. Charlie Puth),Wiz Khalifa,229525,0,hip-hop
+511,2KJUr9U6a3balnh1W7hDwZ,Issa Jatt,Sidhu Moose Wala;Sunny Malton,Issa Jatt,Sidhu Moose Wala,232000,0,hip-hop
+512,2MwCoo4GeXpi8soWn9EiPo,Kannazhaga - The Kiss of Love,Anirudh Ravichander;Dhanush;Shruti Haasan,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,205946,0,hip-hop
+513,2N0oWy78RT70bW10QfIVHT,Top Boy,AP Dhillon,Top Boy,AP Dhillon,136941,0,hip-hop
+514,2NBYiYtI4v1ujkhHZBq3xw,Invincible (feat. Stefflon Don),Sidhu Moose Wala;Stefflon Don,Moosetape,Sidhu Moose Wala,244444,0,hip-hop
+515,2NTVtNcpC0i1R7LVGaCZCF,Jugnu,Badshah;Nikhita Gandhi,Jugnu,Badshah,230400,0,hip-hop
+516,2OKo7g3KfmCt3kyLvUAL0g,The Search,NF,The Search,NF,248040,0,hip-hop
+517,2PEo8JQ48mfEv8a2HLqDvt,"Nadiyon Paar (Let the Music Play Again) (From ""Roohi"")",Sachin-Jigar;Rashmeet Kaur;Shamur;IP Singh,"Nadiyon Paar (Let the Music Play Again) [From ""Roohi""]",Sachin-Jigar,164045,0,hip-hop
+518,2PcGqmKToUz0s65q1Acg7d,SPACESHIP,AP Dhillon;Shinda Kahlon;Gminxr,HIDDEN GEMS,AP Dhillon,124498,0,hip-hop
+519,2PxZSFOv7RebkeSEwQTjr7,Tera Mera Rishta,Mustafa Zahid,Awarapan (Original Soundtrack),Mustafa Zahid,347040,0,hip-hop
+520,2QkUgk0UgTYBViwZKN0l3H,Famous,Sidhu Moose Wala;Intense,Famous,Sidhu Moose Wala,249782,0,hip-hop
+521,2RB3zzgxWc2RRBaJOkSEka,Senjitaley,Anirudh Ravichander,Remo (Original Motion Picture Soundtrack),Anirudh Ravichander,251333,0,hip-hop
+522,2RBkVQwpkDeYytMTQwjyTk,Baaki Baatein Peene Baad (Shots) (feat. Badshah),Arjun Kanungo;Badshah,Baaki Baatein Peene Baad (Shots) (feat. Badshah),Arjun Kanungo,220312,0,hip-hop
+523,2SazZ5d4m9G5IWu5xdMjZf,Satisfy,Sidhu Moose Wala;Shooter Kahlon,Satisfy,Sidhu Moose Wala,280464,0,hip-hop
+524,2UKK9UEbKlykbmLVP1zWIQ,Haule Haule,Sukhwinder Singh,Rab Ne Bana Di Jodi (Original),Sukhwinder Singh,263967,0,hip-hop
+525,2Uik6DjW1n5CWbRNdZilV5,Death Route,Sidhu Moose Wala,Pbx 1,Sidhu Moose Wala,217520,0,hip-hop
+526,2V52mICuJnWB3C4lrJZd7v,Youngest In Charge,Sidhu Moose Wala;Sunny Malton,Youngest In Charge,Sidhu Moose Wala,198409,0,hip-hop
+527,2VGs7EmaIxq96Wcog6DQOc,Why This Kolaveri Di? - The Soup of Love,Anirudh Ravichander;Dhanush,Why This Kolaveri Di? (The Soup of Love),Anirudh Ravichander,259293,0,hip-hop
+528,2Wu9PNpLUCBl3W1GaPqkhl,"Morni Banke (From ""Badhaai Ho"")",Guru Randhawa;Neha Kakkar;Tanishk Bagchi;Panjabi MC,"Morni Banke (From ""Badhaai Ho"")",Guru Randhawa,198025,0,hip-hop
+529,2YMlGrhVHdbXeDejv0R77R,Together Forever,Yo Yo Honey Singh,Together Forever,Yo Yo Honey Singh,229218,0,hip-hop
+530,2YpeDb67231RjR0MgVLzsG,Old Town Road - Remix,Lil Nas X;Billy Ray Cyrus,7 EP,Lil Nas X,157066,0,hip-hop
+531,2ZRo7axmMPeSVUvDbGkJah,Hope,XXXTENTACION,?,XXXTENTACION,110886,1,hip-hop
+532,2a7zxjZ1I88Z6sYm0ThuSc,Black Effect,Jordan Sandhu;Mehar Vaani;Desi Crew,Black Effect,Jordan Sandhu,175890,0,hip-hop
+533,2cVJDlu9jmkPUeuJxA6v8i,"Master the Blaster (From ""Master"")",Anirudh Ravichander;Bjorn Surrao,"Master the Blaster (From ""Master"")",Anirudh Ravichander,92250,0,hip-hop
+534,2ccThCjEt1t1SF72mP7as2,Few Days,Amantej Hundal;Karan Aujla,Few Days,Amantej Hundal,177391,0,hip-hop
+535,2dpMdklbSc5CmZ3ijhknZ5,Wasted,Anirudh Ravichander,Vikram (Original Motion Picture Soundtrack),Anirudh Ravichander,182608,0,hip-hop
+536,2e1tIq1uwyKO2oeLQOqaXs,One Side,DIVINE,One Side,DIVINE,161839,0,hip-hop
+537,2erjvSbTPKGalbZZhPgcCL,Dawood,Sidhu Moose Wala,Pbx 1,Sidhu Moose Wala,197102,0,hip-hop
+538,2fsPrE2NYiHOHPMuWbjvTj,Ramta Jogi,Sukhwinder Singh;Alka Yagnik,Taal (Original Motion Picture Soundtrack),Sukhwinder Singh,377000,0,hip-hop
+539,2g6tReTlM2Akp41g0HaeXN,Die Hard,Kendrick Lamar;Blxst;Amanda Reifer,Mr. Morale & The Big Steppers,Kendrick Lamar,239026,1,hip-hop
+540,2gNC2UZGVSK0iW4Ymc56na,Devil,Sidhu Moose Wala,Pbx 1,Sidhu Moose Wala,245524,0,hip-hop
+541,2gNMXJDKRmKWuevBGjN8wo,3:59 AM,DIVINE,Punya Paap,DIVINE,272197,1,hip-hop
+542,2gp0OtnltLdrcNhKHVL2qM,Nee Nenacha,Hiphop Tamizha;Sid Sriram,Mr. Local (Original Motion Picture Soundtrack),Hiphop Tamizha,268683,0,hip-hop
+543,2hDMBVN3P47GEhH5VtmA6m,Untouchable,Tegi Pannu;Manni Sandhu,Untouchable,Tegi Pannu,153210,0,hip-hop
+544,2hTn8oS49IQULxAWs7hEBz,Sakhiyan2.0,Maninder Buttar;Zahrah S Khan;Tanishk Bagchi,Sakhiyan2.0 - BellBottom,Maninder Buttar,177694,0,hip-hop
+545,2iNqdCchlUZEgjJbQyZf8T,Teri Deewani,Kailash Kher;Paresh Kamath;Naresh Kamath,Kailasa,Kailash Kher,323520,0,hip-hop
+546,2ikI9Y7PCPIavU0TMSpF31,Saza-E-Maut,KR$NA;Raftaar,Still Here,KR$NA,180000,0,hip-hop
+547,2jt9VV6QGn0tbwkrr26OO6,Arrogant,AP Dhillon;Shinda Kahlon;Gminxr,Arrogant,AP Dhillon,102315,0,hip-hop
+548,2kLFzLJgHtreNbNlbVzQy4,Jagga Jiteya,Daler Mehndi;Dee MC;Shashwat Sachdev,Uri - The Surgical Strike,Daler Mehndi,191489,0,hip-hop
+549,2kbxGCtWSV0f1ON720Bd4O,Don'u Don'u Don'u - The Don's Romance,Anirudh Ravichander;Alisha Thomas,Maari (Original Motion Picture Soundtrack),Anirudh Ravichander,195709,0,hip-hop
+550,2m49DOqdk0n4ofCEovrydG,Ye Mantramo,Bobo Shashi,Andala Rakshasi (Original Motion Picture Soundtrack),Bobo Shashi,167889,0,hip-hop
+551,2mKvEIvd912eg3FZ8WamMS,Bitch I'm Back,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,230400,1,hip-hop
+552,2mldMnu7kHSm4l5se4Zo7Y,Vikram Title Track - Telugu,Anirudh Ravichander;Prudhvi Chandra,Vikram Hitlist (Original Motion Picture Soundtrack),Anirudh Ravichander,218823,0,hip-hop
+553,2mwBSO58y92EYmEFpDfmS7,Suit Suit,Guru Randhawa;Arjun,Hits Of Guru Randhawa,Guru Randhawa,190131,0,hip-hop
+554,2oEHcVe21whTKWQBqRAYPp,"Halamithi Habibo (From ""Beast"")",Anirudh Ravichander;Jonita Gandhi,"Halamithi Habibo (From ""Beast"")",Anirudh Ravichander,279677,0,hip-hop
+555,2q0V50aNlI1RQXJyE5HDgD,"Odhani (From ""Made in China"")",Sachin-Jigar;Darshan Raval;Neha Kakkar,"Odhani (From ""Made in China"")",Sachin-Jigar,195397,0,hip-hop
+556,2qPNdVlqZl1cYqsNc3MXnA,Sher Aaya Sher,DIVINE;Major C,Gully Boy,DIVINE,134351,0,hip-hop
+557,2qgXrzJsry4KgYoJCpuaul,Choo Lo,The Local Train,Aalas Ka Pedh,The Local Train,233630,0,hip-hop
+558,2r32XiAWtZbT3eLUvf4pag,Jee Le Zaraa,Vishal Dadlani,Talaash,Vishal Dadlani,215202,0,hip-hop
+559,2tTmW7RDtMQtBk7m2rYeSw,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap;Quevedo,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,198937,0,hip-hop
+560,2tjWCe2W7sgvS3C8NHcdtI,"Duniyaa (From ""Luka Chuppi"")",Akhil;Dhvani Bhanushali;Abhijit Vaghani;Bob,"Duniyaa (From ""Luka Chuppi"")",Akhil,222500,0,hip-hop
+561,2uThc9fZx2BEL3t6uuRMO1,Cold Hours,aleemrk;Umair,Cold Hours,aleemrk,206117,0,hip-hop
+562,2vR23BjIzpLMtzsyKrM6Mb,Saiyyan,Kailash Kher;Paresh Kamath;Naresh Kamath,Kailasa Jhoomo Re,Kailash Kher,343906,0,hip-hop
+563,2vkNA9I029dTwX0y6d59Sc,"Dippam Dappam (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander;Anthony Daasan,"Dippam Dappam (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander,209032,0,hip-hop
+564,2wHTMZwkLbpM6LNkUBs2Xt,Calaboose,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,245200,0,hip-hop
+565,2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,Travis Scott,ASTROWORLD,Travis Scott,312820,1,hip-hop
+566,2zQE8TE5BQDJA11ggnope9,These Days (feat. Bohemia),Sidhu Moose Wala;Bohemia,Moosetape,Sidhu Moose Wala,209230,0,hip-hop
+567,2zVOFcdPAurQMbP1D6czwo,Amar Theme - Background Score,Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,148023,0,hip-hop
+568,322TxW77VZdX9gHynK5Xue,Aaj Na,Ritviz,Mimmi,Ritviz,193425,0,hip-hop
+569,32FVH23yFXr8Z0sfjRw4It,Wo Noor,AP Dhillon,Two Hearts Never Break The Same,AP Dhillon,199420,0,hip-hop
+570,32U1XMh3DKlm45uvpofhvY,Zaroorat,Mustafa Zahid,Ek Villain,Mustafa Zahid,368852,0,hip-hop
+571,342pJxy678kgQrZXCL9RG7,Urvashi,Yo Yo Honey Singh,Urvashi,Yo Yo Honey Singh,215483,0,hip-hop
+572,36cqlmc53NqlEUqPJdgUOx,US (feat. Raja Kumari),Sidhu Moose Wala;Raja Kumari,Moosetape,Sidhu Moose Wala,230068,0,hip-hop
+573,36ylvIx1fVaM4i5pux7Ea1,Emannavoo,Anirudh Ravichander;Shweta Mohan,Nava Manmadhudu (Original Motion Picture Soundtrack),Anirudh Ravichander,214765,0,hip-hop
+574,38T0tPVZHcPZyhtOcCP7pF,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,STAR WALKIN' (League of Legends Worlds Anthem),Lil Nas X,210575,1,hip-hop
+575,38nwBRjoNg7FeNsn7ebFOk,Yedhalo Oka Mounam - The Innocence of Love,Anirudh Ravichander;Ajesh,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,207026,0,hip-hop
+576,39QJ7KkN3L8LLqQqsO85W1,Saiyaan Ji,Yo Yo Honey Singh;Neha Kakkar;Nushrratt Bharuccha,Saiyaan Ji,Yo Yo Honey Singh,205450,0,hip-hop
+577,39ujbBjTwwqUFySaCYDMMT,Proper Patola,Badshah;Diljit Dosanjh;Aastha Gill,Namaste England (Original Motion Picture Soundtrack),Badshah,178604,0,hip-hop
+578,39vrbjCMTRXEdiIr2IsBgd,She Move It Like,Badshah,ONE (Original Never Ends),Badshah,181764,0,hip-hop
+579,3B4Wf3Fo11BXSuVPi1dtDO,Oh Oh - The First Love of Tamizh,Anirudh Ravichander;Dhanush;Nikhita Gandhi,Thangamagan (Original Motion Picture Soundtrack),Anirudh Ravichander,276705,0,hip-hop
+580,3B54sVLJ402zGa6Xm4YGNe,Unforgettable,French Montana;Swae Lee,Jungle Rules,French Montana,233901,1,hip-hop
+581,3BApUOeS8cihFTyoMKQTVk,Tabahi,Badshah,Tabahi,Badshah,168500,0,hip-hop
+582,3Blsc8iWj4LLgnCe0DhnU0,Bitch,MC STAN,Insaan,MC STAN,186666,1,hip-hop
+583,3D0pmiK3zyF9PudyJ8mkor,Ma Belle,AP Dhillon;Amari,Ma Belle,AP Dhillon,160824,0,hip-hop
+584,3Eb4VbsbXMpS5Mk9HWTDia,Chandigarh Mein,Badshah;Harrdy Sandhu;Lisa Mishra;Asees Kaur,"Chandigarh Mein (From ""Good Newwz"")",Badshah,205200,0,hip-hop
+585,3F0I9AkbRwz12yz7Hxn0bF,Oh Ho Ho Ho (Remix),Sukhbir;Ikka,Hindi Medium,Sukhbir,244416,0,hip-hop
+586,3F5CgOj3wFlRv51JsHbxhe,Jimmy Cooks (feat. 21 Savage),Drake;21 Savage,"Honestly, Nevermind",Drake,218364,1,hip-hop
+587,3FHl1QYu76zguwjqhqcglX,"Kar Har Maidaan Fateh (From ""Sanju"")",Sukhwinder Singh;Shreya Ghoshal;Vikram Montrose,"Kar Har Maidaan Fateh (From ""Sanju"")",Sukhwinder Singh,312157,0,hip-hop
+588,3Fr1WmziIKmhU9s5fNKZrQ,It Ain't Legal,Karan Aujla;Gurlez Akhtar,Bacthafu*up,Karan Aujla,214405,0,hip-hop
+589,3GCdLUSnKSMJhs4Tj6CV3s,All The Stars (with SZA),Kendrick Lamar;SZA,Black Panther The Album Music From And Inspired By,Kendrick Lamar,232186,1,hip-hop
+590,3GVkPk8mqxz0itaAriG1L7,Everybody Dies In Their Nightmares,XXXTENTACION,17,XXXTENTACION,95466,1,hip-hop
+591,3HHOY3hOZRJf1ORqNSDS8B,Black Matte,Jaura Phagwara;Enzo,Black Matte,Jaura Phagwara,214520,0,hip-hop
+592,3JkVYvxNoGf2HCWJo61462,Never Fold (feat. Sunny Malton),Sidhu Moose Wala;Sunny Malton,No Name,Sidhu Moose Wala,183225,0,hip-hop
+593,3K3mo4LoxPKk18oqIC3hQC,Udaarian,Satinder Sartaaj,Seasons of Sartaaj,Satinder Sartaaj,342585,0,hip-hop
+594,3LEMmV0BgtM7TaJk40PFZU,Dippam Dappam,Anirudh Ravichander;Anthony Daasan,Kaathuvaakula Rendu Kaadhal (Original Motion Picture Soundtrack),Anirudh Ravichander,209032,0,hip-hop
+595,3LlEnO0INKAExVe4JMi7p7,Khatam Hue Waande,Emiway Bantai,Khatam Hue Waande,Emiway Bantai,193882,0,hip-hop
+596,3NpbGCDrcQTERaZb5dHhd3,"Nain Ta Heere (From ""Jugjugg Jeeyo"")",Guru Randhawa;Asees Kaur,"Nain Ta Heere (From ""Jugjugg Jeeyo"")",Guru Randhawa,216328,0,hip-hop
+597,3OZr3vo7SmYpn5XqeQEAOM,Manali Trance,Yo Yo Honey Singh;Neha Kakkar,The Neha Kakkar Collection,Yo Yo Honey Singh,203206,0,hip-hop
+598,3Ofmpyhv5UAQ70mENzB277,Astronaut In The Ocean,Masked Wolf,Astronaut In The Ocean,Masked Wolf,132780,1,hip-hop
+599,3Oh2FwWbnKIAyUE2gToFYu,Blowing Up,KR$NA,Blowing Up,KR$NA,247272,1,hip-hop
+600,3Qm35fbJSuclok2fQB2rzZ,Moaning Theme - Background Score,Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,84650,0,hip-hop
+601,3T0oPETOdddxJ2xTt2qJe4,Aaya Na Tu,Arjun Kanungo;Momina Mustehsan,Aaya Na Tu,Arjun Kanungo,210000,0,hip-hop
+602,3UhmuWcFaLS3AO3kI9ynQ2,Insane,AP Dhillon;Shinda Kahlon;Gurinder Gill;Gminxr,Insane,AP Dhillon,206060,0,hip-hop
+603,3UmaczJpikHgJFyBTAJVoz,Stan,Eminem;Dido,The Marshall Mathers LP,Eminem,404106,1,hip-hop
+604,3Vb8KkT6Ub5fFGPYJCJyLh,Rolex Theme - Background Score,Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,53247,0,hip-hop
+605,3Vmo13MxVRKBszmfK61ONH,Gangsta,Karan Aujla;YG,Way Ahead,Karan Aujla,190153,1,hip-hop
+606,3X3BiiDYiPVIn5gEpO9HiF,Gustakhiyan,The Landers,Gustakhiyan,The Landers,152727,0,hip-hop
+607,3XyFQxpSlGowWpZkIn3ISA,One Two Three Four (Get On The Dance Floor),Vishal Dadlani;Hamsika Iyer,Chennai Express,Vishal Dadlani,228323,0,hip-hop
+608,3YV4Go0hpYXjGTGLJXjfda,"Sajna, Say Yes To The Dress",Badshah;Payal Dev,"Sajna, Say Yes To The Dress",Badshah,158055,0,hip-hop
+609,3YikBQVdIZ8azTBglbehVu,Jatti Jeone Morh Wargi,Sidhu Moose Wala;Sonam Bajwa,Jatti Jeone Morh Wargi,Sidhu Moose Wala,181333,0,hip-hop
+610,3bHI0o9TLQ2jJzjr0ES7dX,"Ishare Tere (From ""Ishare Tere"")",Guru Randhawa;Dhvani Bhanushali,High Rated Gabru - Guru Randhawa,Guru Randhawa,189151,0,hip-hop
+611,3ee8Jmje8o58CHK66QrVC2,SAD!,XXXTENTACION,?,XXXTENTACION,166605,1,hip-hop
+612,3eekarcy7kvN4yt5ZFzltW,HIGHEST IN THE ROOM,Travis Scott,HIGHEST IN THE ROOM,Travis Scott,175720,1,hip-hop
+613,3fPgIknlkDWXs1l2noKZbp,Kar Gayi Chull,Badshah;Amaal Mallik;Fazilpuria;Sukriti Kakar;Neha Kakkar,The Badshah of Party Hits,Badshah,187710,0,hip-hop
+614,3hVc5y5mbcIEPADRGGGru9,One Bottle Down,Yo Yo Honey Singh,One Bottle Down,Yo Yo Honey Singh,196556,0,hip-hop
+615,3jW0wb61ySku4gmORXuGDn,Deewana,Akhil,Deewana,Akhil,221044,0,hip-hop
+616,3k9PtGmPNnQtt32TKWm6f3,Basti Ka Hasti,MC STAN,Insaan,MC STAN,195428,1,hip-hop
+617,3kpYJjvM8Ja6btr5hEJLWc,Venom - Music From The Motion Picture,Eminem,Venom (Music From The Motion Picture),Eminem,269573,1,hip-hop
+618,3lRzVvMNG1QJcHlhLXM0lA,Signed to God,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,147741,0,hip-hop
+619,3mVpbUvLXvzPH2zL0p7Q2U,Burberry,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,203443,0,hip-hop
+620,3oWv5qDKYN7MH6FdlglMN5,Moon Rise,Guru Randhawa;Sanjoy,Man Of The Moon,Guru Randhawa,174056,0,hip-hop
+621,3sqRODOZ1Z6hR4F2tnFAlg,Sakhiyaan,Maninder Buttar,Sakhiyaan,Maninder Buttar,179325,0,hip-hop
+622,3uB2mkp8ovjiuJA734dbGe,Chalo Chalein,Ritviz;Seedhe Maut,Dev,Ritviz,184370,0,hip-hop
+623,3uHisD8WxXOYLaxeOl098L,Teri Khair Mangdi,Bilal Saeed,Baar Baar Dekho (Original Motion Picture Soundtrack),Bilal Saeed,225273,0,hip-hop
+624,3uZiNvBNQldjl4OJiKsuxe,Brothers Anthem,Ajay-Atul;Vishal Dadlani,Brothers (Original Motion Picture Soundtrack),Ajay-Atul,353676,0,hip-hop
+625,3ubdbuynat3QLfKtdtJ5BH,Sift,Bhalwaan;Signature By SB,Priceless,Bhalwaan,118762,0,hip-hop
+626,3wz2vWhYnnBoFmgMkqtzLy,Daku,Chani Nattan;Inderpal Moga,Daku,Chani Nattan,131077,0,hip-hop
+627,3yRLROmAcKJBqTrdEczFB8,Brown Rang,Yo Yo Honey Singh,International Villager,Yo Yo Honey Singh,211394,0,hip-hop
+628,3yfqSUWxFvZELEM4PmlwIR,The Real Slim Shady,Eminem,The Marshall Mathers LP,Eminem,284200,1,hip-hop
+629,3yiEaNgKJWN3gCfHfB8Q1u,Chances,AP Dhillon;Gurinder Gill;Money Musik,Not by Chance,AP Dhillon,172235,0,hip-hop
+630,3yqkV2Vd0u4l9lUnlaFNZT,Porkanda Singam,Anirudh Ravichander;Ravi G,Vikram (Original Motion Picture Soundtrack),Anirudh Ravichander,198000,0,hip-hop
+631,3ywjIbXWgG5Vjom6zhA2aP,Velicha Poove,Anirudh Ravichander;Mohit Chauhan;Shreya Ghoshal,Ethir Neechal (Original Motion Picture Soundtrack),Anirudh Ravichander,312280,0,hip-hop
+632,40BjkQhSOqS7j8Z0JHiF07,Udi Udi Jaye,Sukhwinder Singh;Bhoomi Trivedi;Karsan Sagathia,Raees,Sukhwinder Singh,260507,0,hip-hop
+633,40KuvsFD0zpUFuCcmt5Xm0,Ex Bitch,XXXTENTACION,Bad Vibes Forever,XXXTENTACION,121671,1,hip-hop
+634,40MlMSv2kkmph6XhYMOovm,Somberi,Mathan;Naven,Intha Vechiko,Mathan,236143,0,hip-hop
+635,40iJIUlhi6renaREYGeIDS,Fair Trade (with Travis Scott),Drake;Travis Scott,Certified Lover Boy,Drake,291175,1,hip-hop
+636,42TMa2hgBNjte4uV7jNCnQ,Baller,Shubh;Ikky,Baller,Shubh,148188,0,hip-hop
+637,43mHckutQvJr49nT0UvRxy,Sage,Ritviz,Ved,Ritviz,230204,0,hip-hop
+638,455OjhLhU9JCNYKKoUOFwr,Into You,Tegi Pannu;Manni Sandhu,Into You,Tegi Pannu,174508,0,hip-hop
+639,47Rqh5ZSamtIOFi7G6VgFJ,Paani Paani,Badshah;Aastha Gill,Paani Paani,Badshah,174002,0,hip-hop
+640,47mlmMUesrgqCzSdTz6DXF,Sagiyae,Stephen Zechariah,Sagiyae,Stephen Zechariah,184500,0,hip-hop
+641,491DwnBb3MA8RzyA2E0Skt,"Nenjame (From ""Doctor"")",Anirudh Ravichander,"Nenjame (From ""Doctor"")",Anirudh Ravichander,256500,0,hip-hop
+642,49TNlAQZXmFBteKZBF9rj0,Ram Ram,MC SQUARE,Hustle 2.0,MC SQUARE,213600,0,hip-hop
+643,4BExko3OEVRa3RI50gpFgA,Huzur (Reprise),Rusha & Blizza,Bazaar,Rusha & Blizza,296092,0,hip-hop
+644,4BWOTlwOwhdOGRZni7nxin,She Don't Give A,King,The Carnival,King,206134,1,hip-hop
+645,4C6Uex2ILwJi9sZXRdmqXp,Super Freaky Girl,Nicki Minaj,Super Freaky Girl,Nicki Minaj,170977,1,hip-hop
+646,4FL8i7miD18FuMN08XGKcM,"Takkunu Takkunu - From ""Mr. Local""",Hiphop Tamizha;Anirudh Ravichander,"Takkunu Takkunu (From ""Mr. Local"")",Hiphop Tamizha,212727,0,hip-hop
+647,4FcknXDJ8yW2QYUl0cm6uJ,Bewafa,Imran Khan,Bewafa,Imran Khan,224853,0,hip-hop
+648,4Ft4Tj0l8kzfKBv8vGuR4t,Tum Saath Rehnaa,King,Tum Saath Rehnaa,King,215536,0,hip-hop
+649,4HEzmqZuqVk3qSwD6Dtk6K,My Block,Sidhu Moose Wala,My Block,Sidhu Moose Wala,221539,0,hip-hop
+650,4HdzYTQiouB9BVYX7JOrhh,"Jalabulajangu (From ""Don"")",Anirudh Ravichander;Rokesh,"Jalabulajangu (From ""Don"")",Anirudh Ravichander,202607,0,hip-hop
+651,4IQqOlTZpfjnSTOArpZX5j,BIBA,Farasat Anees;Slick Trick;Toshi,OFIVE1,Farasat Anees,216216,0,hip-hop
+652,4IUGuoJ41g5fLIqsO1MJoU,"Ilamai Thirumbudhe - From ""Petta""",Anirudh Ravichander,Petta (Original Motion Picture Soundtrack),Anirudh Ravichander,217000,0,hip-hop
+653,4LCNHHhUJB0rqvmlxwstmN,Vibe Hai,DIVINE;Aavrutti;D'Evil;Shah Rule,Kohinoor,DIVINE,201000,0,hip-hop
+654,4LMQWQqpweFys6elnjBvR6,Chosen,Sidhu Moose Wala;Sunny Malton,Chosen,Sidhu Moose Wala,264000,0,hip-hop
+655,4Mh04VNolWA9g97ychP72l,Offshore,Shubh,Offshore,Shubh,172054,0,hip-hop
+656,4N0TO4VfONQDwynV2khBL1,Unfuckwithable (Bonus Track from Moosetape),Sidhu Moose Wala;Afsana Khan,Unfuckwithable (Bonus Track from Moosetape),Sidhu Moose Wala,283636,0,hip-hop
+657,4NQBqInyE7zvjIiP4j1dmy,Sirikkadhey,Anirudh Ravichander;Arjun Kanungo;Srinidhi Venkatesh,Remo (Original Motion Picture Soundtrack),Anirudh Ravichander,245888,0,hip-hop
+658,4OUAXw3SXI7bUiNtKC7ErW,Voodoo (with J Balvin & Tainy),Badshah;J Balvin;Tainy,Voodoo (with J Balvin & Tainy),Badshah,198130,1,hip-hop
+659,4P0r0yO7HNPvOra7BHGixH,Money Rain - Phonk Remix,VTORNIK;Phonk,Money Rain (Phonk Remix),VTORNIK,150941,1,hip-hop
+660,4PML5RtrVcYAwTTS46otXB,Vaathi Raid,Anirudh Ravichander;Arivu,Master (Original Motion Picture Soundtrack),Anirudh Ravichander,209500,0,hip-hop
+661,4Q3D7EnZNDNnIZsfjSbGkh,Pata Chalgea,Imran Khan,Pata Chalgea,Imran Khan,285173,0,hip-hop
+662,4RbRZYPR7Dwg8WRNn4UA8m,Racks and Rounds (feat. Sikander Kahlon),Sidhu Moose Wala;Sikander Kahlon,Moosetape,Sidhu Moose Wala,225000,0,hip-hop
+663,4UKCKdYiLN6IMA5ZESUTL7,the remedy for a broken heart (why am I so in love),XXXTENTACION,?,XXXTENTACION,160184,1,hip-hop
+664,4VUpM5CFGeaeWY7akhQwQB,Bambiha Bole,Amrit Maan;Sidhu Moose Wala,Bambiha Bole (feat. Sidhu Moose Wala),Amrit Maan,301348,0,hip-hop
+665,4Wy1PEoKfF3wPikE3GcWLl,Positivity,Jordan Sandhu,Positivity,Jordan Sandhu,170714,0,hip-hop
+666,4YIhJmihoXwjtbY4vsV9Nh,"Kudi Nu Nachne De (From ""Angrezi Medium"")",Vishal Dadlani;Sachin-Jigar,"Kudi Nu Nachne De (From ""Angrezi Medium"")",Vishal Dadlani,172381,0,hip-hop
+667,4Znd47cztY1DEmoWWVcP74,Sinner,King,Khwabeeda,King,229104,0,hip-hop
+668,4bbeXHwW95npFQuPa2D8e1,"Mathuga Mathuga (From ""Vikram Hitlist"")",Anirudh Ravichander;Kamal Haasan,"Mathuga Mathuga (From ""Vikram Hitlist"")",Anirudh Ravichander,211384,0,hip-hop
+669,4beibTdsFNXHq7bosci34R,Pogiren,Mugen Rao;Prashan Sean,Pogiren,Mugen Rao,243373,0,hip-hop
+670,4cacyP5c3PMlfnyjpg13xW,Betty (Get Money),Yung Gravy,Betty (Get Money),Yung Gravy,146470,0,hip-hop
+671,4chxJYv0qsOKQukt6cKp97,Toh Phir Aao,Mustafa Zahid,Awarapan (Original Soundtrack),Mustafa Zahid,348280,0,hip-hop
+672,4d3tiblcaqGdji7XvPGHiq,Malwa Block,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,239294,0,hip-hop
+673,4dCLUBJwtZwc4HYXvfcpyP,Untitled,KR$NA,Untitled,KR$NA,151384,0,hip-hop
+674,4dJrjWtAhEkW7VdPYSL1Ip,"Vaathi Coming (From ""Master"")",Anirudh Ravichander;Gana Balachandar,"Vaathi Coming (From ""Master"")",Anirudh Ravichander,228257,0,hip-hop
+675,4enBboQxIXJ104dP5MFQGw,Bapu Tere Karke,Amar Sandhu,Bapu Tere Karke,Amar Sandhu,230561,0,hip-hop
+676,4faDlXyZMSxEuxBdd5gDIz,Toxic,AP Dhillon;Intense,Toxic,AP Dhillon,184102,0,hip-hop
+677,4fyR24BKznXBLNkK8LwWla,Dheere Dheere,Yo Yo Honey Singh,Dheere Dheere,Yo Yo Honey Singh,212412,0,hip-hop
+678,4gyPGtExOjj1rsByKW33LR,Paagal,Badshah,Paagal,Badshah,169906,0,hip-hop
+679,4hAmLeBT1Ryk2oxSMMiJ7z,Oouuu,Karan Aujla,Way Ahead,Karan Aujla,147200,0,hip-hop
+680,4hzDCJUFDyk66oIBirPiCl,Gunehgar,DIVINE,Gunehgar,DIVINE,163404,0,hip-hop
+681,4jRoXx97M0sSZBfwMkBEDV,Roll Deep,Tegi Pannu;Manni Sandhu,Roll Deep,Tegi Pannu,182378,0,hip-hop
+682,4kw1Tl4ryNxjTtAdFJkD19,Pinnak,SAMBATA,Pinnak,SAMBATA,390321,1,hip-hop
+683,4mBMyfaNeG40BUBm3DP5xV,Gaddi Vich,Dilpreet Dhillon;Desi Crew;Kaur B,Gaddi Vich,Dilpreet Dhillon,172800,0,hip-hop
+684,4mtGAPsQCIlD4ZXdpRi0wf,Chandra (Featuring. Shreya Ghoshal),Ajay-Atul;Shreya Ghoshal,Chandramukhi,Ajay-Atul,315653,0,hip-hop
+685,4nSwWiwtieiNmRAjy9fEXN,Kannala Kannala - The Melting Point of Love,Hiphop Tamizha;Kaushik Krish;Padmalatha,Thani Oruvan (Original Motion Picture Soundtrack),Hiphop Tamizha,215456,0,hip-hop
+686,4ngIVcfL0Pm564bTpDIS8H,Po Ve Po - The Pain of Love,Anirudh Ravichander;Mohit Chauhan,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,254280,0,hip-hop
+687,4oKcFaWmBSF3SGGYo4qq6R,Teesri Manzil,DIVINE,Teesri Manzil,DIVINE,205880,0,hip-hop
+688,4oglYe270D9yn6Gc0JWc03,"Oo Bolega Ya Oo Oo Bolega (From ""Pushpa The Rise Part - 01"")",Kanika Kapoor;Devi Sri Prasad,"Oo Bolega Ya Oo Oo Bolega (From ""Pushpa The Rise Part - 01"")",Kanika Kapoor,226313,0,hip-hop
+689,4sCcDvX30uu39ozvxcRsqB,"Vilambara Idaiveli - From ""Imaikkaa Nodigal""",Hiphop Tamizha;Christopher Stanley;Sudarshan Ashok;Srinisha Jayaseelan,"Vilambara Idaiveli (From ""Imaikkaa Nodigal"")",Hiphop Tamizha,273396,0,hip-hop
+690,4t22MCG1GHjKlXRCIlJlDd,Paris Ka Trip,Yo Yo Honey Singh;Millind Gaba;Asli GOLD,Paris Ka Trip,Yo Yo Honey Singh,196430,0,hip-hop
+691,4tBMbRwLJa5BjwJ6FrBlks,Soni De Nakhre,Wajid;Labh Janjua;Sneha Pant,Partner,Wajid,261013,0,hip-hop
+692,4u7IQqFz6ZSZoLwTcWDfLQ,Secrets,The PropheC,Secrets,The PropheC,192475,0,hip-hop
+693,4uW8CuyO9r7vOXgYf1eqCz,I'm Done,MC STAN,I'm Done,MC STAN,170847,1,hip-hop
+694,4vVTI94F9uJ8lHNDWKv0i2,Eenie Meenie,Sean Kingston;Justin Bieber,Eenie Meenie,Sean Kingston,201946,0,hip-hop
+695,4w2W5Gh1GjbbSWGF0TD2iC,Kaun Hain Voh,Kailash Kher;Mounima,Baahubali - The Beginning,Kailash Kher,197984,0,hip-hop
+696,4wCy7erulqUfFQNVaZBD9b,Once Upon a Time,Anirudh Ravichander,Vikram (Original Motion Picture Soundtrack),Anirudh Ravichander,143709,0,hip-hop
+697,4wWugVbhblSjTsW1fjwf3u,Dear Mama,Sidhu Moose Wala,Dear Mama,Sidhu Moose Wala,186315,0,hip-hop
+698,4woTEX1wYOTGDqNXuavlRC,Superman,Eminem;Dina Rae,The Eminem Show,Eminem,350320,1,hip-hop
+699,4xkOaSrkexMciUUogZKVTS,Till I Collapse,Eminem;Nate Dogg,The Eminem Show,Eminem,297786,1,hip-hop
+700,4yurVSNjaPBKkOpbZWtuJO,Kalla Sohna Nai,Akhil,Kalla Sohna Nai,Akhil,156613,0,hip-hop
+701,503OTo2dSqe7qk76rgsbep,Still D.R.E.,Dr. Dre;Snoop Dogg,2001,Dr. Dre,270586,1,hip-hop
+702,50BYymJYX2k7hnmfiXnYXs,Naah,Jass Manak,Naah,Jass Manak,185574,0,hip-hop
+703,51hrri99KuNwhALxbRRJnq,Rule Over (Putt Jattan Dey),The Landers,Rule Over (Putt Jattan Dey),The Landers,140800,0,hip-hop
+704,525NKU3UFgZQtCXWBWE0al,Sandhanam Theme - Background Score,Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,106495,0,hip-hop
+705,52XpQt2fDLozI4qlhYvWl0,Fate,AP Dhillon;Gurinder Gill;Money Musik;Shinda Kahlon,Not by Chance,AP Dhillon,170666,0,hip-hop
+706,53DXM0bHfB7xkqJZYlksuh,Kaise Mujhe,Benny Dayal;Shreya Ghoshal,Ghajini,Benny Dayal,343741,0,hip-hop
+707,56TXkBMhaHhmqNq1M30qlE,Forget About It (feat. Sunny Malton),Sidhu Moose Wala;Sunny Malton,Forget About It (feat. Sunny Malton),Sidhu Moose Wala,222312,0,hip-hop
+708,57DhVYA7E1CyrE4OKuyLb7,Ik Tera,Maninder Buttar,Ik Tera,Maninder Buttar,160768,0,hip-hop
+709,58f4twRnbZOOVUhMUpplJ4,Brown Munde,AP Dhillon;Gminxr;Gurinder Gill;Shinda Kahlon,Brown Munde,AP Dhillon,254400,0,hip-hop
+710,58pYOqfeO87Uk8zPHuOGBu,Gajanana,Sukhwinder Singh,Bajirao Mastani (Original Motion Picture Soundtrack),Sukhwinder Singh,213707,0,hip-hop
+711,58prIObJ1GMpyG51jnMjeS,Badfella,Sidhu Moose Wala,Pbx 1,Sidhu Moose Wala,217531,0,hip-hop
+712,59nOXPmaKlBfGMDeOVGrIK,WAIT FOR U (feat. Drake & Tems),Future;Drake;Tems,I NEVER LIKED YOU,Future,189893,1,hip-hop
+713,5D507IC1VOAg7bKkmOblr6,"Bae (From ""Don"")",Anirudh Ravichander;Adithya RK,"Bae (From ""Don"")",Anirudh Ravichander,242628,0,hip-hop
+714,5DIt4eq2D6CZjX1s5jwrnP,"Tere Naal Nachna (From ""Nawabzaade"")",Badshah;Sunanda Sharma,"Tere Naal Nachna (From ""Nawabzaade"")",Badshah,166614,0,hip-hop
+715,5DVnSQ90r2M3gm6XbgTCLp,Takeover,AP Dhillon;Gurinder Gill;Money Musik;AR Paisley,Not by Chance,AP Dhillon,209142,1,hip-hop
+716,5DqdesEfbRyOlSS3Tf6c29,It's You,Ali Gatie,YOU,Ali Gatie,212606,0,hip-hop
+717,5EjVRbQFSLYyeNLlO7qGLY,What a Karavaad,Anirudh Ravichander;Dhanush,Velai Illa Pattadhaari (Original Motion Picture Soundtrack),Anirudh Ravichander,267942,0,hip-hop
+718,5H4rKylLnO8KrmdXTRhj5s,Chaiyya Chaiyya,Sukhwinder Singh;Sapna Awasthi,Dil Se (Original Motion Picture Soundtrack),Sukhwinder Singh,416613,0,hip-hop
+719,5HCyWlXZPP0y6Gqq8TgA20,STAY (with Justin Bieber),The Kid LAROI;Justin Bieber,STAY (with Justin Bieber),The Kid LAROI,141805,1,hip-hop
+720,5I2wbDvSI98HLVB42YO9sU,"Lagdi Lahore Di (From ""Street Dancer 3D"")",Guru Randhawa;Tulsi Kumar;Sachin-Jigar;Vee,"Lagdi Lahore Di (From ""Street Dancer 3D"")",Guru Randhawa,215368,0,hip-hop
+721,5I35M1ruDXFzK63YCg7Ijw,Snapchat Story,Bilal Saeed;Romee Khan,Snapchat Story,Bilal Saeed,199998,0,hip-hop
+722,5I3Xih0C2ID3fqngBrBbGv,"Bad Boy (From ""Saaho"")",Badshah;Neeti Mohan,"Bad Boy (From ""Saaho"")",Badshah,178496,0,hip-hop
+723,5KkCsYIgMK5H7Ih31Dnd2Q,Mirchi,DIVINE;MC Altaf;Stylo G;Phenom,Mirchi,DIVINE,192923,0,hip-hop
+724,5LEjxlKCcYH8irGpRtjbj0,Adhiya,Karan Aujla,Adhiya,Karan Aujla,177397,0,hip-hop
+725,5MbszOoRyTOwOIJEOIZn6v,Sirikkalam Parakkalam,Benny Dayal;Madurai Soulijos,Kannum Kannum Kollaiyadithaal,Benny Dayal,196025,0,hip-hop
+726,5NEGfbKMcNuEWOzpWufScA,Yaanji,Anirudh Ravichander;Shakthisree Gopalan,Vikram Vedha (Original Motion Picture Soundtrack),Anirudh Ravichander,270375,0,hip-hop
+727,5NeP5LxzlLaGlsVFHviHUj,Majhail 1.0,Jordan Sandhu,FAME,Jordan Sandhu,169230,0,hip-hop
+728,5OotwkHgMpNYfsCwAOs4jP,Private Party,Anirudh Ravichander;Jonita Gandhi,Don (Original Motion Picture Soundtrack),Anirudh Ravichander,216774,0,hip-hop
+729,5RrOyaV2xOAnf62uWj24dB,OOPS,King,OOPS,King,163200,0,hip-hop
+730,5SAgi6ZXqpCWQADP8XyRDY,Aaina,AFKAP,Aaina,AFKAP,180618,0,hip-hop
+731,5Se9PXWc57LRT0zthjI5cG,Woh Kisna Hai,Sukhwinder Singh;Ayesha Darbar;S. P. Sailaja,Kisna (Original Motion Picture Soundtrack),Sukhwinder Singh,357186,0,hip-hop
+732,5W7DOVGQLTigu09afW7QMT,295,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,270000,0,hip-hop
+733,5WWplXimzIjlJiN2N7T9Q3,"Pathala Pathala (From ""Vikram"")",Anirudh Ravichander;Kamal Haasan,"Pathala Pathala (From ""Vikram"")",Anirudh Ravichander,211384,0,hip-hop
+734,5XsoDbDt98b0FkFLOhsJuS,Lat Lag Gayee,Benny Dayal;Shalmali Kholgade;Pritam,Race 2 (Original Motion Picture Soundtrack),Benny Dayal,280369,0,hip-hop
+735,5YctxMWPzEXjnmHLA0mYUN,Kamm Koi Na,The Landers;Davi Singh,Kamm Koi Na,The Landers,177391,0,hip-hop
+736,5ZTsPwtt7aCuzbWd5rDGys,Shana Bann,MC STAN,Shana Bann,MC STAN,228112,1,hip-hop
+737,5ZsAhuQ24mWHiduaxJqnhW,Udd Gaye,Ritviz,Ved,Ritviz,180413,0,hip-hop
+738,5aNAawi2jFEe0qGPJSogRp,They Know,Karan Aujla,Way Ahead,Karan Aujla,144428,0,hip-hop
+739,5aa4zMfrJ16iDnS6UIKtlL,Aasman Ko Chukar,Daler Mehndi;Hrishikesh;Neuman;FRANCO;Shazneen Arethna;Samantha;Sunayana,Hanuman Returns,Daler Mehndi,274081,0,hip-hop
+740,5dvGOTBXFSgpKddB6MGe0P,WAR,AP Dhillon;Gurinder Gill,HIDDEN GEMS,AP Dhillon,221142,0,hip-hop
+741,5e0sqZrtakU2phj6IFxf79,Puff Puff Pass,Sultaan;Gavy Dhaliwal;Bhallwaan;Swapan Sekhon;Gur Chahal,Puff Puff Pass,Sultaan,291818,1,hip-hop
+742,5eGsHi6RcL33gb9k89UYaB,Schedule,Tegi Pannu;Manni Sandhu,Schedule,Tegi Pannu,148376,0,hip-hop
+743,5eN1nmOe9R29OBL6soTJov,MAJHE AALE,AP Dhillon;Shinda Kahlon;Gurinder Gill;Gminxr,HIDDEN GEMS,AP Dhillon,170322,0,hip-hop
+744,5f3PgI4zW2oErM3j3MWTWW,Don't Look,Karan Aujla,Don't Look,Karan Aujla,186409,0,hip-hop
+745,5gSVKG0R4xc8qtDIoyDNy8,Saada Pyaar,AP Dhillon;Gurinder Gill;Money Musik,Not by Chance,AP Dhillon,213626,0,hip-hop
+746,5iUbq311UD3MZYmfi2a1Ob,Pablo Sandhanam - Background Score,Anirudh Ravichander,Vikram (Original Background Score),Anirudh Ravichander,45055,0,hip-hop
+747,5k38wzpLb15YgncyWdTZE4,Him & I (with Halsey),G-Eazy;Halsey,The Beautiful & Damned,G-Eazy,268866,1,hip-hop
+748,5lNQ2M1yJ1HAQGHgUfLlY3,Selfmade,Sidhu Moose Wala,Pbx 1,Sidhu Moose Wala,179513,0,hip-hop
+749,5m62bM6EN1ysBb3nnedLBR,Titli,Satinder Sartaaj,Titli,Satinder Sartaaj,277500,0,hip-hop
+750,5pAo2q7eVt65OSkwYgqhHl,Daaru Desi,Benny Dayal;Shalmali Kholgade,Cocktail (Original Motion Picture Soundtrack),Benny Dayal,269200,0,hip-hop
+751,5pOY1Vg2TIIbVBfR6yAg0C,Gaali Vaaluga,Anirudh Ravichander,Agnyaathavaasi,Anirudh Ravichander,258333,0,hip-hop
+752,5pcmtf1lwrMqmAWWm248fY,DESIRES,AP Dhillon;Gurinder Gill,HIDDEN GEMS,AP Dhillon,168000,0,hip-hop
+753,5qoxoGIbLCLSMJXpxr5COw,Broken Dreams,King,Champagne Talk,King,197351,0,hip-hop
+754,5raWEZXYAapq6Qw1GIEIkU,Zingaat,Ajay-Atul,Dhadak,Ajay-Atul,226501,0,hip-hop
+755,5tIr2cGQsj0oeqLk2tAU0L,Built Different,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,247578,0,hip-hop
+756,5uEYRdEIh9Bo4fpjDd4Na9,Goosebumps - Remix,Travis Scott;HVME,Goosebumps (Remix),Travis Scott,162802,1,hip-hop
+757,5uHy68Q7ZWe8Qq9k7EAprS,Sheesha,Karan Aujla,Sheesha,Karan Aujla,160851,0,hip-hop
+758,5uaIbU3oHHcSOK6WFNK5nj,Apna Time Aayega,Ranveer Singh;Dub Sharma;DIVINE,Gully Boy,Ranveer Singh,140463,0,hip-hop
+759,5uuVGnkZEFHBz8unViC3iA,G-Shit (feat. Blockboi Twitch),Sidhu Moose Wala;Blockboi Twitch,Moosetape,Sidhu Moose Wala,233571,0,hip-hop
+760,5vdWj5rEzg9lg5qbE98PmX,Desi Dan Bilzerian,King,The Gorilla Bounce,King,201379,0,hip-hop
+761,5vwpOLQh2PpIbuJSjHhFwZ,Sin,Sidhu Moose Wala,Sin,Sidhu Moose Wala,187764,0,hip-hop
+762,5yj7D4UllTkAccTmROibCQ,Final Thoughts,AP Dhillon;Shinda Kahlon;Gminxr,Two Hearts Never Break The Same,AP Dhillon,192000,0,hip-hop
+763,5zUPoHkgqAr1XwTMNzNtGs,Fully Loaded,Tegi Pannu;Manni Sandhu,Fully Loaded,Tegi Pannu,148858,1,hip-hop
+764,5zjFsuLrTM5sp6coribhCa,Taal Se Taal - Western Version,Sukhwinder Singh,Taal (Original Motion Picture Soundtrack),Sukhwinder Singh,154200,0,hip-hop
+765,60YICjIPdL7LDBcCMK0tAk,Levels,Sidhu Moose Wala;Sunny Malton;The Kidd,Levels,Sidhu Moose Wala,228705,1,hip-hop
+766,60suOlM8VpTVITPFeqth8r,Sarkar,Jaura Phagwara,Sarkar,Jaura Phagwara,210116,0,hip-hop
+767,61gu4XQFyAfIUneEyW4EJu,Brown Shortie (feat. Sonam Bajwa),Sidhu Moose Wala;Sonam Bajwa,Moosetape,Sidhu Moose Wala,208000,0,hip-hop
+768,62KDpF0Hv7KJLZrrKXsz8r,Thangamey,Anirudh Ravichander,Naanum Rowdy Dhaan (Original Motion Picture Soundtrack),Anirudh Ravichander,262539,0,hip-hop
+769,65c6VCikt7f5sAS1heoYQC,Same Beef,Bohemia;Sidhu Moose Wala,Same Beef,Bohemia,290360,0,hip-hop
+770,65usiCnRUHhBgd1CIlwGf5,Pakkam Vanthu,Anirudh Ravichander;Hiphop Tamizha,Kaththi (Original Motion Picture Soundtrack),Anirudh Ravichander,258359,0,hip-hop
+771,67KTXqxMEyBMq3LApqCgNV,Moosedrilla (feat. DIVINE),Sidhu Moose Wala;DIVINE,Moosetape,Sidhu Moose Wala,232173,0,hip-hop
+772,68BrFM98WyShOImDZ58sah,Do Vaari Jatt,Jordan Sandhu;Arjan virk,Do Vaari Jatt,Jordan Sandhu,163580,0,hip-hop
+773,68Dni7IE4VyPkTOH9mRWHr,No Role Modelz,J. Cole,2014 Forest Hills Drive,J. Cole,292799,1,hip-hop
+774,6A6mDExVoAEJmc5JyVSQeK,"Life of Pazham (From ""Thiruchitrambalam"")",Anirudh Ravichander,"Life of Pazham (From ""Thiruchitrambalam"")",Anirudh Ravichander,234514,0,hip-hop
+775,6AooRgSRDzbCYL4NZ4RCjU,Chal Bombay,DIVINE,Kohinoor,DIVINE,174000,0,hip-hop
+776,6BWssu3CWDgkZXHnSWiwSh,Laut Aana,Karan Aujla,Laut Aana,Karan Aujla,217226,0,hip-hop
+777,6C8JJFoGC4dkVtAHVK3iif,"Two Two Two (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander;Sunidhi Chauhan;Sanjana Kalmanje,"Two Two Two (From ""Kaathuvaakula Rendu Kaadhal"")",Anirudh Ravichander,176345,0,hip-hop
+778,6CzMKOYzhBXzZszsy4yFIG,Feels,AP Dhillon;Gurinder Gill;Gminxr,Feels,AP Dhillon,151304,0,hip-hop
+779,6DCZcSspjsKoFjzjrWoCdn,God's Plan,Drake,Scorpion,Drake,198973,1,hip-hop
+780,6DXLO8LndZMVOHM0wNbpzg,Danza Kuduro,Don Omar;Lucenzo,Meet The Orphans,Don Omar,198786,0,hip-hop
+781,6E6BCsQHXDAdXsrL7zV71N,Roz Roz,The Yellow Diary;Shilpa Rao,Roz Roz,The Yellow Diary,218550,0,hip-hop
+782,6EP117i3gizdFg9neGen0s,Tadipaar,MC STAN,Tadipaar,MC STAN,466285,1,hip-hop
+783,6ElANRiS4S25oIn361o8Ye,Trend,Sidhu Moose Wala,Pbx 1,Sidhu Moose Wala,221818,0,hip-hop
+784,6EwRpLL5QThnF2k1sZzQpC,Kadhal Oru Aagayam,Hiphop Tamizha;Teejay;Al Rufian,Imaikkaa Nodigal (Original Motion Picture Soundtrack),Hiphop Tamizha,161762,0,hip-hop
+785,6FQQiTpYnfc5803p84bQp1,Vikram - Title Track,Anirudh Ravichander,Vikram (Original Motion Picture Soundtrack),Anirudh Ravichander,218823,0,hip-hop
+786,6GFtWQYco30oKpMr5xJwy2,"Soul of Doctor (Theme) [From ""Doctor""]",Anirudh Ravichander;Niranjana Ramanan,"Soul of Doctor (Theme) [From ""Doctor""]",Anirudh Ravichander,63711,0,hip-hop
+787,6HGoVbCUr63SgU3TjxEVj6,Satisfya,Imran Khan,Satisfya,Imran Khan,180056,0,hip-hop
+788,6Kynli1iHBqJRWUCohcV9h,Kaam 25 - Sacred Games,DIVINE,Kaam 25 (Sacred Games),DIVINE,149524,0,hip-hop
+789,6LvHrLiW1z8PS7MIAiufKg,Bad Boy X Bad Girl (feat. Nikhita Gandhi),Badshah;Nikhita Gandhi,Bad Boy X Bad Girl (feat. Nikhita Gandhi),Badshah,199402,0,hip-hop
+790,6M47gaKejso9772SKTa3yH,Face Off,Tech N9ne;Joey Cool;King Iso;Dwayne Johnson,ASIN9NE,Tech N9ne,219802,1,hip-hop
+791,6N6mJlsjYRV0yoMSPS5JiQ,The Wakhra Song,Navv Inder;Lisa Mishra;Raja Kumari,"The Wakhra Song (From ""Judgementall Hai Kya"")",Navv Inder,196000,0,hip-hop
+792,6NwEpX2JUWHVKWfDDfcqC4,Idhazhin Oram - The Innocence of Love,Anirudh Ravichander;Ajesh,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,204866,0,hip-hop
+793,6OcnzwOfKQc0ZWJoMuFQam,Adi Penne - Dad's Love,Stephen Zechariah,Adi Penne (Dad's Love),Stephen Zechariah,191650,0,hip-hop
+794,6OgjDxorTU4qeLvVuB9zoW,Attitude,Raj Ranjodh,Babe Bhangra Paunde Ne,Raj Ranjodh,169787,0,hip-hop
+795,6Ozx2ngGtXrqznTKhKBlrT,Deva Shree Ganesha,Ajay-Atul;Ajay Gogavale,Agneepath (Original Motion Picture Soundtrack),Ajay-Atul,356826,0,hip-hop
+796,6P8dmbcOEz7XPFQjd1V6d5,Nesamaguren,Stephen Zechariah;Saindhavi,Nesamaguren,Stephen Zechariah,263600,0,hip-hop
+797,6PSGzXHJaQogb2G8m8gGZZ,Dhundhala,Yashraj;Dropped Out;Talwiinder,Dhundhala,Yashraj,182400,0,hip-hop
+798,6RVmuLStrBGHGJ0CJhRh0U,Gucci di Sole,Kahlon,Gucci di Sole,Kahlon,168020,0,hip-hop
+799,6RXJKdpBp6AVL6H6sHyNp0,Yennai Maatrum Kadhale,Anirudh Ravichander;Sid Sriram,Naanum Rowdy Dhaan (Original Motion Picture Soundtrack),Anirudh Ravichander,274678,0,hip-hop
+800,6S6HSSk9HzWe3pqvUJn6Vq,Let 'em Play,Karan Aujla,Let 'em Play,Karan Aujla,195652,1,hip-hop
+801,6SPLYHHBN0dKGaoD2Jcccs,Hills,AP Dhillon,Two Hearts Never Break The Same,AP Dhillon,159942,0,hip-hop
+802,6TClJ8jXi3OBV7gcrU3jx5,TERE TE,AP Dhillon;Gurinder Gill,HIDDEN GEMS,AP Dhillon,114418,0,hip-hop
+803,6ULjJomtdRstnT9BPMAf9d,Swad Kutde,The Landers,Still Here,The Landers,120000,0,hip-hop
+804,6UeMjHhzYnidHi7I4isoGg,Most Wanted,AP Dhillon;Gurinder Gill;Gminxr,Most Wanted,AP Dhillon,184090,0,hip-hop
+805,6XPmY4hIb1RGRyNuq0UBsl,Kina Chir,The PropheC,The Lifestyle,The PropheC,216026,0,hip-hop
+806,6Y1cH3RzDCMWGQtOS0HmP8,Allah Ke Bande,Kailash Kher,Waisa Bhi Hota Hai Part 2,Kailash Kher,246883,0,hip-hop
+807,6YtlaPxgVWZHO7OB1atIEf,Kahan Par Hai,MC STAN,Kahan Par Hai,MC STAN,219758,1,hip-hop
+808,6ZYxNjuAU9Vy3VtF6W1dtE,We Rollin,Shubh,We Rollin,Shubh,199205,1,hip-hop
+809,6ZmtxXUXRVjxOhugKkmerC,Dil Mere,The Local Train,Aalas Ka Pedh,The Local Train,211290,0,hip-hop
+810,6btegcu44HqquqArljhFxu,Nanchaku,Seedhe Maut;MC STAN,न,Seedhe Maut,193116,1,hip-hop
+811,6cbW2scRULV7RnFT4u8gnA,Sidhu Son,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,217142,0,hip-hop
+812,6cdiviyVL3tFYE1eDcmUzL,Gumaan,Young Stunners;Talha Anjum;Talhah Yunus,Gumaan,Young Stunners,260173,0,hip-hop
+813,6dUGQzqCA18wKzVuiGttJF,Game Over,Karan Aujla,Way Ahead,Karan Aujla,154925,0,hip-hop
+814,6dgYHmc5yBnQFI4FSCbp6y,12 Bande,Varinder Brar,12 Bande,Varinder Brar,204507,0,hip-hop
+815,6eYsOcDdB5b6rTO5ubMxeV,"Private Party (From ""Don"")",Anirudh Ravichander;Jonita Gandhi,"Private Party (From ""Don"")",Anirudh Ravichander,216774,0,hip-hop
+816,6fP7zEaXUaGmzTDyvA79Ng,Nee Paata Madhuram - The Touch of Love,Anirudh Ravichander;Roop Kumar Rathod;Shreya Ghoshal,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,263826,0,hip-hop
+817,6gBFPUFcJLzWGx4lenP6h2,goosebumps,Travis Scott,Birds In The Trap Sing McKnight,Travis Scott,243836,1,hip-hop
+818,6i5QcWVTuzM67pXgD9Q7Vw,"Kanne Kanne (From ""Ayogya"")",Anirudh Ravichander;Sam C.S.,"Kanne Kanne (From ""Ayogya"")",Anirudh Ravichander,225558,0,hip-hop
+819,6lfSsCL894Qw15xbt7cSUy,"Jai Jai Shivshankar (From ""War"")",Vishal Dadlani;Benny Dayal,"Jai Jai Shivshankar (From ""War"")",Vishal Dadlani,230557,0,hip-hop
+820,6nmkEV0oW6QJ340afYUlx0,Jatt te Jawani,Dilpreet Dhillon;Karan Aujla,Next Chapter,Dilpreet Dhillon,240000,0,hip-hop
+821,6oloWgrErtc8dG2WiV55gn,Sawan Mein Lag Gayi Aag,Mika Singh;Payal Dev;Neha Kakkar;Badshah,Ginny Weds Sunny (Original Motion Picture Soundtrack),Mika Singh,226615,0,hip-hop
+822,6or1bKJiZ06IlK0vFvY75k,Rap God,Eminem,The Marshall Mathers LP2 (Deluxe),Eminem,363521,1,hip-hop
+823,6pW1AQhs75Cc5WTgoRQ8vi,Saaral Mazhaiyaa,Stephen Zechariah;Kaushik Iyer,Saaral Mazhaiyaa,Stephen Zechariah,279066,0,hip-hop
+824,6q9XTgfWilsnyiFofvYrIF,"Garmi (From ""Street Dancer 3D"") (feat. Varun Dhawan)",Badshah;Neha Kakkar;Varun Dhawan,"Garmi (From ""Street Dancer 3D"")",Badshah,182738,0,hip-hop
+825,6qCNaRRr5xJALfNJvh0NAw,Bom Diggy Diggy,Zack Knight;Jasmin Walia,"Bom Diggy Diggy (From ""Sonu Ke Titu Ki Sweety"")",Zack Knight,238530,0,hip-hop
+826,6qDHgeUBJFKYAGPBj3eVD6,Balcony,Jordan Sandhu,FAME,Jordan Sandhu,163404,0,hip-hop
+827,6qJrmD6CXKWkWcsYwu9AV3,Aathma Raama,Brodha V,Aathma Raama,Brodha V,234863,0,hip-hop
+828,6qS40yL7kXVoChI8SSCQIQ,Ykwim,Karan Aujla;KR$NA;Mehar Vaani,Ykwim,Karan Aujla,194857,0,hip-hop
+829,6sAdmaffuMijDszeFrGF1H,"Enakenna Yaarum Illaye (From ""Aakko"")",Anirudh Ravichander,"Enakenna Yaarum Illaye (From ""Aakko"")",Anirudh Ravichander,260812,0,hip-hop
+830,6udC4b4jOSnHb9ItnXgKLR,Saibo,Sachin-Jigar;Shreya Ghoshal;Tochi Raina,Shor in the City (Original Motion Picture Soundtrack),Sachin-Jigar,195253,0,hip-hop
+831,6wKu6jqzVtxikYztRUWkoS,Aathi,Anirudh Ravichander;Vishal Dadlani,Kaththi (Original Motion Picture Soundtrack),Anirudh Ravichander,304920,0,hip-hop
+832,6wWxQMhQgOCbmQkdOGslT4,Prada,Jass Manak,Prada,Jass Manak,182115,0,hip-hop
+833,6yvxu91deFKt3X1QoV6qMv,"Arabic Kuthu - Halamithi Habibo (From ""Beast"")",Anirudh Ravichander;Jonita Gandhi,"Arabic Kuthu - Halamithi Habibo (From ""Beast"")",Anirudh Ravichander,279677,0,hip-hop
+834,6zdikHQs2PBFgGIZBxqOeV,Po Nee Po - The Pain of Love,Anirudh Ravichander;Mohit Chauhan,3 (Original Motion Picture Soundtrack),Anirudh Ravichander,251786,0,hip-hop
+835,70wFZWY6cKFxp3Qcq8uxH4,Ektarfa,King,Ektarfa,King,230903,0,hip-hop
+836,71Udwiv5GsZghU6XQ5LXQj,Jaat Da Muqabala,Sidhu Moose Wala,Pbx 1,Sidhu Moose Wala,204360,0,hip-hop
+837,71VXewVKFs0HcwEom489zH,Machayenge 4,KR$NA,Machayenge 4,KR$NA,398750,1,hip-hop
+838,73N5AghXPjYtAoS6RIYPZd,CHUSAMBA,Emiway Bantai,CHUSAMBA,Emiway Bantai,193663,1,hip-hop
+839,74Qks1cW4TkoZYUPUHTq46,B-Town (feat. Sunny Malton),Sidhu Moose Wala;Sunny Malton,B-Town (feat. Sunny Malton),Sidhu Moose Wala,182117,0,hip-hop
+840,74qF0JeFMVilMEeFDiQZ48,"Mummy Nu Pasand (From ""Jai Mummy Di"")",Sunanda Sharma;Tanishk Bagchi,"Mummy Nu Pasand (From ""Jai Mummy Di"")",Sunanda Sharma,184609,0,hip-hop
+841,7503mEfiZf6vgONFMYX5Jr,"Arjunar Villu (From ""Gilli"")",Sukhwinder Singh;Manikka Vinayagam,Manikkavinayagam - Playback Singer,Sukhwinder Singh,266309,0,hip-hop
+842,75Ak0cit8hV604Wjlq1gf2,Aaja We Mahiya,Imran Khan,Aaja We Mahiya,Imran Khan,232066,0,hip-hop
+843,78PDj0uocOvtSJCdOt65qy,Aankhon Aankhon,Yo Yo Honey Singh,Bhaag Johnny,Yo Yo Honey Singh,244831,0,hip-hop
+844,79MHQXymz8cGX8OOAjXn7J,Baby Marvake Maanegi,Raftaar,Zero to Infinity,Raftaar,187541,0,hip-hop
+845,79blZUG11a6vtTL3Nt9J78,Punjabi Mashup,Arjun;Badshah;Bohemia;Diljit Dosanjh;Fateh;Gippy Grewal;Girik Aman;Gupz Sehra;Guru Randhawa;Hans Raj Hans;Harjit Harman;Harrdy Sandhu;Labh Janjua;Neha Kakkar;Ranjit Bawa;Sharry Mann;Sukhbir;Surjit Bindrakhia;Yo Yo Honey Singh;Amit Trivedi;Anand Raj Anand;Atul Sharma;B Praak;Beat Minister;Dr Zeus;Intense;Manj Musik;Mista Baaz;Preet Hundal;Vee;DJ Yogii,Punjabi Mashup,Arjun,306572,0,hip-hop
+846,7AQim7LbvFVZJE3O8TYgf2,Fuck Love (feat. Trippie Redd),XXXTENTACION;Trippie Redd,17,XXXTENTACION,146520,1,hip-hop
+847,7AW4g4I9fPfUIyqtbsuAkM,Droptop,AP Dhillon;Gurinder Gill;Gminxr,Droptop,AP Dhillon,141176,0,hip-hop
+848,7AsG1F1eMWd17RYan8M3Wm,Dil Nu,AP Dhillon;Shinda Kahlon,Two Hearts Never Break The Same,AP Dhillon,233666,0,hip-hop
+849,7B4uYqxTpTOS1sgxFB9Ann,The Last Ride,Sidhu Moose Wala,The Last Ride,Sidhu Moose Wala,262247,0,hip-hop
+850,7B8WJgjZzzV1uS7v9z8FGX,Naah Lofi,Jass Manak,Naah Lofi,Jass Manak,198995,0,hip-hop
+851,7DonyrUlcVcrtk28mqvWNL,Bang Bang,Benny Dayal;Neeti Mohan,Bang Bang (Original Motion Picture Soundtrack),Benny Dayal,320000,0,hip-hop
+852,7F5O2pMgNNjONTbdqQx9b3,IDGAF (feat. Morrisson),Sidhu Moose Wala;Morrisson,Moosetape,Sidhu Moose Wala,176842,1,hip-hop
+853,7FIWs0pqAYbP91WWM0vlTQ,Godzilla (feat. Juice WRLD),Eminem;Juice WRLD,Music To Be Murdered By,Eminem,210800,1,hip-hop
+854,7FcQRdlqMvAKmQH1SXCk1s,Ishqam,Mika Singh;Ali Quli Mirza,Ishqam,Mika Singh,194418,0,hip-hop
+855,7GNRUsU3M4XNDDB9xle5Dz,That That (prod. & feat. SUGA of BTS),PSY;SUGA,PSY 9th,PSY,174646,0,hip-hop
+856,7GfdU12uRL2xtSQcRXmqNN,Laare,Maninder Buttar,Laare,Maninder Buttar,270545,0,hip-hop
+857,7H3mfOvtPNA8YDF3EdKy0L,Tum Hi Ho Bandhu,Neeraj Shridhar;Kavita Seth,Cocktail (Original Motion Picture Soundtrack),Neeraj Shridhar,283693,0,hip-hop
+858,7HNHIRAYrKeuobsj6n3l1y,Designer,Guru Randhawa;Yo Yo Honey Singh;Divya Khosla Kumar,Designer,Guru Randhawa,219095,0,hip-hop
+859,7HRvfjNicVkQnohrpOvjjL,Chithiyaan,Karan Aujla,Chithiyaan,Karan Aujla,198119,0,hip-hop
+860,7I4JOGn1A3GzTiaEMsp3Ur,Me & Me,King,Champagne Talk,King,276096,0,hip-hop
+861,7IK26RNUdgoZWJdlarrcty,All Night (Live),AP Dhillon;Shinda Kahlon,Two Hearts Never Break The Same,AP Dhillon,229510,0,hip-hop
+862,7Ie9W94M7OjPoZVV216Xus,Not Afraid,Eminem,Recovery,Eminem,248133,1,hip-hop
+863,7JoI4RoMUdZXBgIs7ZkhHV,B & W,Sidhu Moose Wala,Moosetape,Sidhu Moose Wala,245454,0,hip-hop
+864,7KXjTSCq5nL1LoYtL7XAwS,HUMBLE.,Kendrick Lamar,DAMN.,Kendrick Lamar,177000,1,hip-hop
+865,7Kj2LjwzJFygTn24TFulwK,Chamkeela Chehra,Badshah,Retropanda - Part 1,Badshah,179076,0,hip-hop
+866,7KqmDr9lTjwXnX5krMIKiC,JD Intro - Background Score,Anirudh Ravichander,Master (Original Background Score),Anirudh Ravichander,80000,0,hip-hop
+867,7KtQd5BN1cGQIvefTWEZLq,Kaththi - Theme,Anirudh Ravichander,Kaththi (Original Motion Picture Soundtrack),Anirudh Ravichander,63706,0,hip-hop
+868,7Lvxcrbzuz1mNCPkFakS9K,Ek Raat,Vilen,Ek Raat,Vilen,224040,0,hip-hop
+869,7MAw33OyE75nD1om6y9bHR,AGAINST ALL ODDS,AP Dhillon;Gurinder Gill;Gminxr;Shinda Kahlon,HIDDEN GEMS,AP Dhillon,170126,0,hip-hop
+870,7MdX25DW2YXXwCWl8fSHnq,Priceless,Bhalwaan;Signature By SB,Priceless,Bhalwaan,107755,0,hip-hop
+871,7MtXu7mXRMdICKyTOb8CuR,Baitikochi Chuste,Anirudh Ravichander,Agnyaathavaasi,Anirudh Ravichander,206666,0,hip-hop
+872,7cVe3mYMIfhOlz1NXFWv70,0 to 100,Sidhu Moose Wala,No Name,Sidhu Moose Wala,108493,0,hip-hop
+873,7d5ufSYehroRIgCXxJvcTM,"Chura Ke Dil Mera - From ""Hungama 2""",Benny Dayal;Anmol Malik;Anu Malik,"Chura Ke Dil Mera (From ""Hungama 2"")",Benny Dayal,285773,0,hip-hop
+874,7e6qTHVfRdaYsio90s1fHC,Ik Junoon (Paint It Red),Vishal Dadlani,Zindagi Na Milegi Dobara,Vishal Dadlani,299119,0,hip-hop
+875,7fdsoKCtpx2hYXDRMoActW,Chellamma,Anirudh Ravichander;Jonita Gandhi,Doctor (Original Motion Picture Soundtrack),Anirudh Ravichander,236500,0,hip-hop
+876,7floNISpH8VF4z4459Qo18,Look At Me!,XXXTENTACION,Look At Me!,XXXTENTACION,126345,1,hip-hop
+877,7fm1Nbus8X19wI4oz6FFcb,Scapegoat,Sidhu Moose Wala,Scapegoat,Sidhu Moose Wala,237176,0,hip-hop
+878,7fttjqzmvgvpRQoOzyYng3,Po Indru Neeyaga,Anirudh Ravichander;Dhanush,Velai Illa Pattadhaari (Original Motion Picture Soundtrack),Anirudh Ravichander,223326,0,hip-hop
+879,7gFzBppKTiKAs38SWOjbO6,Kyun Dhunde,Vilen,Kyun Dhunde,Vilen,70434,0,hip-hop
+880,7gl8XJ8EmiObfSFppTATt6,Twist,Neeraj Shridhar,Love Aaj Kal (Original Motion Picture Soundtrack),Neeraj Shridhar,299440,0,hip-hop
+881,7iL6o9tox1zgHpKUfh9vuC,In Da Club,50 Cent,Get Rich Or Die Tryin',50 Cent,193466,1,hip-hop
+882,7j7fS14vlwVk0Pfnr0hovC,"Marana Mass - From ""Petta""",Anirudh Ravichander;S. P. Balasubrahmanyam,Petta (Original Motion Picture Soundtrack),Anirudh Ravichander,216000,0,hip-hop
+883,7lQ8MOhq6IN2w8EYcFNSUk,Without Me,Eminem,The Eminem Show,Eminem,290320,1,hip-hop
+884,7m4CgL81VVIHaaiSxyH922,Desi Kalakaar,Yo Yo Honey Singh,Desi Kalakaar,Yo Yo Honey Singh,253352,0,hip-hop
+885,7m9OqQk4RVRkw9JJdeAw96,Jocelyn Flores,XXXTENTACION,17,XXXTENTACION,119133,1,hip-hop
+886,7mNQwVYgoB3mtjkjCKsbXM,Hoyna Hoyna,Anirudh Ravichander;Inno Genga,Gang Leader (Original Motion Picture Soundtrack),Anirudh Ravichander,271937,0,hip-hop
+887,7mNZUnDWUDidWBFaUpVtOC,Chidiya,Vilen,Chidiya,Vilen,253333,0,hip-hop
+888,7mUuarQfB0E0Xs80Vzd2gw,Chitta Kurta,Karan Aujla;Gurlez Akhtar,Chitta Kurta,Karan Aujla,217260,0,hip-hop
+889,7mhJ08BCG6goQ8mPpk9TuZ,Two Two Two,Anirudh Ravichander;Sunidhi Chauhan;Sanjana Kalmanje,Kaathuvaakula Rendu Kaadhal (Original Motion Picture Soundtrack),Anirudh Ravichander,176345,0,hip-hop
+890,7n6AQKpZUGiJM2auF3yuDY,All Black,Raftaar;Sukh-E Muzical Doctorz,All Black,Raftaar,218145,0,hip-hop
+891,7nMFbXSPRgJDE01Tbfx7Qe,Dark Love,Sidhu Moose Wala,Dark Love,Sidhu Moose Wala,232081,0,hip-hop
+892,7q7eYVerltlW2sYBuga6Mj,High Heels,Jaz Dhami;Yo Yo Honey Singh,High Heels,Jaz Dhami,297770,0,hip-hop
+893,7r48j4khJzIT2uqcIU33ax,Lala Lori,Fazilpuria;Afsana Khan,Lala Lori,Fazilpuria,160000,0,hip-hop
+894,7rXDc2ImBGwcypUFbNqbFB,"Dollar - From ""Dakuaan Da Munda""",Sidhu Moose Wala;Byg Byrd,"Dollar (From ""Dakuaan Da Munda"")",Sidhu Moose Wala,157516,0,hip-hop
+895,7rlulUEMn27TLbdHpNPugE,Freestyle,Jordan Sandhu,FAME,Jordan Sandhu,175714,0,hip-hop
+896,7rnqq7955ubY95MRPiRpue,Hai Mera Dil,Alfaaz,Alfaaz,Alfaaz,209853,0,hip-hop
+897,7sp9SYjIBBniAJ7xa1nkZh,Champagne Talk,King,Champagne Talk,King,163008,0,hip-hop
+898,7tZQznsUajYIVj4IwALXmz,Outlaw,Sidhu Moose Wala;Byg Bird,Outlaw,Sidhu Moose Wala,179375,0,hip-hop
+899,7tavmiMMEibizGOiXoozar,Goat,AP Dhillon;Gurinder Gill;Money Musik,Not by Chance,AP Dhillon,159130,0,hip-hop
+900,7tbzfR8ZvZzJEzy6v0d6el,Liggi,Ritviz,Dev,Ritviz,181176,0,hip-hop
+901,7tpRgru0h8B4eCvdBegLTA,Nakhre,Zack Knight,Nakhre,Zack Knight,194676,0,hip-hop
+902,7w4kFO2slzHCu1qEOMaPkl,Maari Thara Local - Here Comes Maari,Anirudh Ravichander;Dhanush,Maari (Original Motion Picture Soundtrack),Anirudh Ravichander,230252,0,hip-hop
+903,7wW9scVNLYFLsmBb1yAUmS,Blue Eyes,Yo Yo Honey Singh,Blue Eyes,Yo Yo Honey Singh,220943,0,hip-hop
+904,7xHG6LdShPMXeL5SllDprP,IICONIC,King,The Carnival,King,178339,1,hip-hop
+905,7xt1AuUbQBZC4yvxxm4nAI,Sohnea,Miss Pooja;Millind Gaba,Sohnea,Miss Pooja,269643,0,hip-hop
+906,7ycWLEP1GsNjVvcjawXz3z,Praise The Lord (Da Shine) (feat. Skepta),A$AP Rocky;Skepta,TESTING,A$AP Rocky,205040,1,hip-hop
+907,7yn0E97MoGLBaW8mqIwqNr,Ud-daa Punjab,Vishal Dadlani;Amit Trivedi,Udta Punjab,Vishal Dadlani,274701,0,hip-hop
